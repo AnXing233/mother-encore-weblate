@@ -1,0 +1,1660 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿ANTIDOTE_NAME
+msgid "Antidote"
+msgstr "解毒药"
+
+#. ANTIDOTE_DESC
+msgid "Cures poison ([Poisoned])."
+msgstr "治愈中毒([Poisoned])。"
+
+#. ANTIDOTE_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. ASTHMASPRAY_NAME
+msgid "Asthma Spray"
+msgstr "哮喘喷雾"
+
+#. ASTHMASPRAY_DESC
+msgid "When [Ninten]'s asthma ([Asthma]) kicks in, use this."
+msgstr "在[Ninten]的哮喘([Asthma])发作时使用。"
+
+#. ASTHMASPRAY_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BASEBALLCAP_NAME
+msgid "Baseball Cap"
+msgstr "棒球帽"
+
+#. BASEBALLCAP_DESC
+msgid "A hat for baseball players.\\nOther @ Defense +[ItemValue]."
+msgstr "一顶棒球手的帽子。\\n其它 @ 防御力 +[ItemValue]。"
+
+#. BASEBALLCAP_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BATALUMINUM_NAME
+msgid "Aluminum Bat"
+msgstr "铝制球棒"
+
+#. BATALUMINUM_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BATHANK_NAME
+msgid "Hank's Bat"
+msgstr "汉克球棒"
+
+#. BATHANK_ART
+msgid ",,,,,it,was"
+msgstr ",,,,,它,是"
+
+#. BATOLD_NAME
+msgid "Old Bat"
+msgstr "旧球棒"
+
+#. BATOLD_DESC
+msgid "A spare bat in case you don't have another.\\nIt's too weak to use in battle."
+msgstr "一只备用球棒，以防你手无寸铁。\\n它太脆弱了，无法用于战斗。"
+
+#. BATOLD_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BATPLASTIC_NAME
+msgid "Plastic Bat"
+msgstr "塑料球棒"
+
+#. BATPLASTIC_DESC
+msgid "A cheap plastic bat.\\nWeapon @ Offense +[ItemValue]."
+msgstr "一根便宜的塑料球棒。\\n武器 @ 攻击力 +[ItemValue]。"
+
+#. BATPLASTIC_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BATWOODEN_NAME
+msgid "Wooden Bat"
+msgstr "木制球棒"
+
+#. BATWOODEN_DESC
+msgid "It is effective against weak enemies.\\nWeapon @ Offense +[ItemValue]."
+msgstr "对弱小的敌人效果显著。\\n武器 @ 攻击力 +[ItemValue]。"
+
+#. BATWOODEN_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BEAMLASER_NAME
+msgid "Laser Beam"
+msgstr "镭射光束"
+
+#. BEAMLASER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BEAMPLASMA_NAME
+msgid "Plasma Beam"
+msgstr "等离子光束"
+
+#. BEAMPLASMA_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BIGBAG_NAME
+msgid "Big Bag"
+msgstr "药草袋"
+
+#. BIGBAG_DESC
+msgid "A bag filled with Magic Herbs.\\nRestores [ItemValue] HP @ "
+msgstr "一袋装满魔法药草的袋子。\\n恢复 [ItemValue] 点生命值 @"
+
+#. BIGBAG_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOMB_NAME
+msgid "Bomb"
+msgstr "炸弹"
+
+#. BOMB_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOMBSUPER_NAME
+msgid "Super Bomb"
+msgstr "超级炸弹"
+
+#. BOMBSUPER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOOMERANG_NAME
+msgid "Boomerang"
+msgstr "回力镖"
+
+#. BOOMERANG_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOTTLEROCKET_NAME
+msgid "Bottle Rocket"
+msgstr "瓶装火箭"
+
+#. BOTTLEROCKET_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOTTLEROCKETBIG_NAME
+msgid "Big Bottle Rocket"
+msgstr "巨型瓶装火箭"
+
+#. BOTTLEROCKETBIG_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BOTTLEROCKETMULTI_NAME
+msgid "Multi Bottle Rocket"
+msgstr "多重瓶装火箭"
+
+#. BOTTLEROCKETMULTI_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. BREAD_NAME
+msgid "Bread"
+msgstr "面包"
+
+#. BREAD_DESC
+msgid "Its Crumbs can help you flee from battle.\\nRestores [ItemValue] HP."
+msgstr "它的碎屑可以帮助你逃离战斗。\\n回复[ItemValue]点HP。"
+
+#. BREAD_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这个,它,是"
+
+#. BULLHORN_NAME
+msgid "Bullhorn"
+msgstr "警笛"
+
+#. BULLHORN_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CANARYCHICK_NAME
+msgid "Canary Chick"
+msgstr "金丝雀雏鸟"
+
+#. CANARYCHICK_DESC
+msgid "Its eyes show sadness."
+msgstr "它的眼睛流露出哀伤。"
+
+#. CANARYCHICK_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEDEF_NAME
+msgid "Defense Capsule"
+msgstr "防御胶囊"
+
+#. CAPSULEDEF_DESC
+msgid "Increases your Defense by [ItemValue]."
+msgstr "将你的防御力提高[ItemValue]点。"
+
+#. CAPSULEDEF_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEGUT_NAME
+msgid "Guts Capsule"
+msgstr "胆量胶囊"
+
+#. CAPSULEGUT_DESC
+msgid "Increases your Guts by [ItemValue]."
+msgstr "将你的胆量值提高[ItemValue]点。"
+
+#. CAPSULEGUT_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEHP_NAME
+msgid "HP Capsule"
+msgstr "HP胶囊"
+
+#. CAPSULEHP_DESC
+msgid "Increases your maximum HP by [ItemValue]."
+msgstr "将你的最大HP值提高[ItemValue]点。"
+
+#. CAPSULEHP_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEIQ_NAME
+msgid "IQ Capsule"
+msgstr "IQ胶囊"
+
+#. CAPSULEIQ_DESC
+msgid "Increases your IQ by [ItemValue]."
+msgstr "将你的IQ值提高[ItemValue]点。"
+
+#. CAPSULEIQ_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEOFE_NAME
+msgid "Offense Capsule"
+msgstr "攻击胶囊"
+
+#. CAPSULEOFE_DESC
+msgid "Increases your Offense by [ItemValue]."
+msgstr "将你的攻击力提高[ItemValue]点。"
+
+#. CAPSULEOFE_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULEPP_NAME
+msgid "PP Capsule"
+msgstr "PP胶囊"
+
+#. CAPSULEPP_DESC
+msgid "Increases your maximum PP by [ItemValue]."
+msgstr "将你的最大PP值提高[ItemValue]点。"
+
+#. CAPSULEPP_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CAPSULESPD_NAME
+msgid "Speed Capsule"
+msgstr "速度胶囊"
+
+#. CAPSULESPD_DESC
+msgid "Increases your Speed by [ItemValue]."
+msgstr "将你的速度值提高[ItemValue]点。"
+
+#. CAPSULESPD_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CASHCARD_NAME
+msgid "Cash Card"
+msgstr "现金卡"
+
+#. CASHCARD_DESC
+msgid "Use it for all your banking needs."
+msgstr "用于满足你所有的银行业务相关需求。"
+
+#. CASHCARD_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. COINMAGIC_NAME
+msgid "Magic Coin"
+msgstr "魔法硬币"
+
+#. COINMAGIC_DESC
+msgid "Forged with pure magic.\\nOther @ Defense +[ItemValue]."
+msgstr "由纯粹的魔法锻造而成。\\n其它 @ 防御力 +[ItemValue]。"
+
+#. COINMAGIC_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. COINPEACE_NAME
+msgid "Peace Coin"
+msgstr "和平硬币"
+
+#. COINPEACE_DESC
+msgid "Its essence emanates with serenity.\\nOther @ Defense +[ItemValue]."
+msgstr "它的本质散发着宁静的气息。\\n其它 @ 防御力 +[ItemValue]。"
+
+#. COINPEACE_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. COINPROTECT_NAME
+msgid "Protection Coin"
+msgstr "保护硬币"
+
+#. COINPROTECT_DESC
+msgid "Give it your trust, and it will protect you.\\nOther @ Defense +[ItemValue]."
+msgstr "给予它你的信任，他就将会保护你。\\nOther @ Defense +[ItemValue]."
+
+#. COINPROTECT_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. COURAGEBADGE_NAME
+msgid "Courage Badge"
+msgstr "勇气徽章"
+
+#. COURAGEBADGE_DESC
+msgid "A gift from [Pippi].\\nYou can feel more courageous while holding it."
+msgstr "来自[Pippi]的礼物。\\n拿起它让你感到自己变得更加勇敢。"
+
+#. COURAGEBADGE_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. CRUMBS_NAME
+msgid "Crumbs"
+msgstr "面包屑"
+
+#. CRUMBS_DESC
+msgid "You can throw them at enemies to quickly run away from battle while they're busy eating."
+msgstr "你可以将其扔给敌人，趁它们狼吞虎咽迅速逃离战斗。"
+
+#. CRUMBS_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. DENTURES_NAME
+msgid "Dentures"
+msgstr "假牙"
+
+#. DENTURES_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. DOGTREATS_NAME
+msgid "Dog Treats"
+msgstr "狗狗零食"
+
+#. DOGTREATS_DESC
+msgid "Dogs love these."
+msgstr "狗喜欢这些。"
+
+#. DOGTREATS_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. EAGLEFEATHER_NAME
+msgid "Eagle's Feather"
+msgstr "鹰羽"
+
+#. EAGLEFEATHER_DESC
+msgid "A feather dropped by a bald eagle.\\nIt gives you the power to jump long distances."
+msgstr "一只秃鹰脱落的羽毛。\\n它赋予你长跳能力。"
+
+#. EAGLEFEATHER_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. ERROR_NAME
+msgid "Error"
+msgstr "ERROR 错误"
+
+#. ERROR_DESC
+msgid "wow lookie, error, report please"
+msgstr "wow lookie, error, report please\\n快看，是新鲜的BUG！如果看到了这条信息，可以请你去反馈一下吗？"
+
+#. ERROR_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. EYEDROPS_NAME
+msgid "Eye Drops"
+msgstr "眼药水"
+
+#. EYEDROPS_DESC
+msgid "Cures blindness ([Blinded])."
+msgstr "治愈失明([Blinded])。"
+
+#. EYEDROPS_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. FLAMETHROWER_NAME
+msgid "Flame Thrower"
+msgstr "火焰喷射器"
+
+#. FLAMETHROWER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. FLASHDARK_NAME
+msgid "Flashdark"
+msgstr "闪暗"
+
+#. FLASHDARK_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. FLEABAG_NAME
+msgid "Flea Bag"
+msgstr "跳蚤虱子"
+
+#. FLEABAG_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. FRANKLINBADGE_NAME
+msgid "Franklin Badge"
+msgstr "富兰克林徽章"
+
+#. FRANKLINBADGE_DESC
+msgid "Legend says that Benjamin Franklin wore this reflective badge for his lightning experiments."
+msgstr "相传本杰明•富兰克林在进行风筝实验时就戴着这个反光的徽章。"
+
+#. FRANKLINBADGE_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. FRANKLINBADGE0.8_NAME
+msgid "Franklin Badge v0.8"
+msgstr "富兰克林徽章 v.0.8"
+
+#. FRANKLINBADGE0.8_DESC
+msgid "A gift from [Pippi]. By holding it on you,\\nit can reflect PK Beam γ."
+msgstr "一份来自[Pippi]的礼物。\\n拿在手上时，能够反射PK光束γ。"
+
+#. FRANKLINBADGE0.8_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. FRIES_NAME
+msgid "Fries"
+msgstr "薯条"
+
+#. FRIES_DESC
+msgid "Can be eaten with or without ketchup.\\nRestores [ItemValue] HP."
+msgstr "可以蘸或不蘸番茄酱使用。\\n回复[ItemValue]点HP。"
+
+#. FRIES_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. GGFDIARY_NAME
+msgid "GGF Diary"
+msgstr "曾祖父的日记"
+
+#. GGFDIARY_DESC
+msgid "It is old, ragged and filled with entries."
+msgstr "它陈旧，残破，上面写满了文字。"
+
+#. GGFDIARY_ART
+msgid "His ,his ,His ,his ,this ,it,was"
+msgstr "他的,他的,他的,他的,这个,它,是"
+
+#. GHOSTHOUSEKEY_NAME
+msgid "Ghost House Key"
+msgstr "鬼屋钥匙"
+
+#. GHOSTHOUSEKEY_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. GUNAIR_NAME
+msgid "Air Gun"
+msgstr "气枪"
+
+#. GUNAIR_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. GUNSTUN_NAME
+msgid "Stun Gun"
+msgstr "电击枪"
+
+#. GUNSTUN_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. HAMBURGER_NAME
+msgid "Hamburger"
+msgstr "汉堡包"
+
+#. HAMBURGER_DESC
+msgid "99% Beef.\\nRestores [ItemValue] HP."
+msgstr "99%牛肉。\\n回复[ItemValue]点HP。"
+
+#. HAMBURGER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. HAT_NAME
+msgid "Hat"
+msgstr "帽子"
+
+#. HAT_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. HERBMAGIC_NAME
+msgid "Magic Herb"
+msgstr "魔法药草"
+
+#. HERBMAGIC_DESC
+msgid "It can also be used in tea.\\nRestores [ItemValue] HP."
+msgstr "也可以用来沏茶。\\n回复[ItemValue]点HP。"
+
+#. HERBMAGIC_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. HERBRED_NAME
+msgid "Red Weed"
+msgstr "红草"
+
+#. HERBRED_DESC
+msgid "It's useless as of right now, but a magic fountain can turn it into some Magic Herb."
+msgstr "尽管现在毫无用处，但魔法喷泉可以将它变作魔法药草。"
+
+#. HERBRED_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. HOTDOG_NAME
+msgid "Hot Dog"
+msgstr "热狗"
+
+#. HOTDOG_DESC
+msgid "It is neither a taco or a sandwich.\\nRestores [ItemValue] HP."
+msgstr "既不是玉米卷也不是三明治。\\n回复[ItemValue]点HP。"
+
+#. HOTDOG_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. INSECTICIDE_NAME
+msgid "Insecticide"
+msgstr "杀虫剂"
+
+#. INSECTICIDE_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. IRONSKILLET_NAME
+msgid "Iron Skillet"
+msgstr "铁锅"
+
+#. IRONSKILLET_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. KATANA_NAME
+msgid "Katana"
+msgstr "武士刀"
+
+#. KATANA_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. KEYBASEMENT_NAME
+msgid "Basement Key"
+msgstr "地下室钥匙"
+
+#. KEYBASEMENT_DESC
+msgid "Mick was carrying this.\\nIt's the key for your house's basement."
+msgstr "Mick正拿着它。\\n它是你家地下室的钥匙。"
+
+#. KEYBASEMENT_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. KEYZOO_NAME
+msgid "Zoo Key"
+msgstr "动物园钥匙"
+
+#. KEYZOO_DESC
+msgid "A key given to you by the mayor.\\nIt should be able to unlock the Zoo's gate."
+msgstr "市长交给你的钥匙。\\n他应该能打开动物园的大门。"
+
+#. KEYZOO_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. KNIFEBUTTER_NAME
+msgid "Butter Knife"
+msgstr "黄油刀"
+
+#. KNIFEBUTTER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. KNIFESURVIVAL_NAME
+msgid "Survival Knife"
+msgstr "生存刀"
+
+#. KNIFESURVIVAL_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. LASTWEAPON_NAME
+msgid "Last Weapon"
+msgstr "上一个武器"
+
+#. LASTWEAPON_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. LIFEUPCREAM_NAME
+msgid "Life Up Cream"
+msgstr "生命提升乳霜"
+
+#. LIFEUPCREAM_DESC
+msgid "Some good quality wound healer.\\nRestores [ItemValue] HP."
+msgstr "高品质的治疗伤口物品。\\n回复[ItemValue]点HP。"
+
+#. LIFEUPCREAM_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. MAGICCANDY_NAME
+msgid "Magic Candy"
+msgstr "魔法糖果"
+
+#. MAGICCANDY_DESC
+msgid "Increases your Guts by [ItemValue] if you are a weakling."
+msgstr "如果你是个弱者，那么将你的胆量值提高[ItemValue]点。"
+
+#. MAGICCANDY_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. MAGICRIBBON_NAME
+msgid "Magic Ribbon"
+msgstr "魔法丝带"
+
+#. MAGICRIBBON_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. MAPPODUNK_NAME
+msgid "Podunk Map"
+msgstr "波顿克地图"
+
+#. MAPPODUNK_DESC
+msgid "A map of Podunk."
+msgstr "波顿克的地图。"
+
+#. MAPPODUNK_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. MEMORYCHIP_NAME
+msgid "Memory Chip"
+msgstr "内存芯片"
+
+#. MEMORYCHIP_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. MILK_NAME
+msgid "Milk"
+msgstr "牛奶"
+
+#. MILK_DESC
+msgid "Some fresh cow milk.\\nRestores [ItemValue] HP."
+msgstr "一些新鲜的牛奶。\\n回复[ItemValue]点HP。"
+
+#. MILK_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. MOUTHWASH_NAME
+msgid "Mouthwash"
+msgstr "漱口水"
+
+#. MOUTHWASH_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. NOBLESEED_NAME
+msgid "Noble Seed"
+msgstr "高贵种子"
+
+#. NOBLESEED_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. OCARINA_NAME
+msgid "Ocarina of Hope"
+msgstr "希望之笛"
+
+#. OCARINA_DESC
+msgid "Play it to listen to all the melodies you have collected."
+msgstr "吹奏它来聆听你所收集到的全部旋律。"
+
+#. OCARINA_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. ONYXHOOK_NAME
+msgid "Onyx Hook"
+msgstr "黑曜石钩爪"
+
+#. ONYXHOOK_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. ORANGEJUICE_NAME
+msgid "Orange Juice"
+msgstr "橙汁"
+
+#. ORANGEJUICE_DESC
+msgid "Vitamin C is always good for a few HP.\\nRestores [ItemValue] HP."
+msgstr "维生素C总是有助于回复少量HP。\\n回复[ItemValue] 点HP。"
+
+#. ORANGEJUICE_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PANFRYING_NAME
+msgid "Frying Pan"
+msgstr "炒锅"
+
+#. PANFRYING_DESC
+msgid "Can also be used as a drying pan.\\nWeapon @ Offense +[ItemValue]."
+msgstr "也可以当作煎锅用。\\n武器@攻击+[ItemValue]。"
+
+#. PANFRYING_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PANNONSTICK_NAME
+msgid "Non-stick Pan"
+msgstr "不粘锅"
+
+#. PANNONSTICK_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PASS_NAME
+msgid "Pass"
+msgstr "通过"
+
+#. PASS_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PENDANTEARTH_NAME
+msgid "Earth Pendant"
+msgstr "地球吊坠"
+
+#. PENDANTEARTH_DESC
+msgid "Halves damage from all PSI attacks.\\nBody @ Defense +[ItemValue]."
+msgstr "所有灵能攻击造成的伤害减半。\\n躯干@防御+[ItemValue]"
+
+#. PENDANTEARTH_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PENDANTFIRE_NAME
+msgid "Fire Pendant"
+msgstr "火焰吊坠"
+
+#. PENDANTFIRE_DESC
+msgid "Halves damage from fire attacks.\\nBody @ Defense +[ItemValue]."
+msgstr "将火焰攻击造成的伤害减半。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. PENDANTFIRE_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PENDANTH2O_NAME
+msgid "H2o Pendant"
+msgstr "水滴吊坠"
+
+#. PENDANTH2O_DESC
+msgid "Halves damage from ice attacks.\\nBody @ Defense +[ItemValue]."
+msgstr "将冰冻攻击造成的伤害减半。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. PENDANTH2O_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PENDANTSEA_NAME
+msgid "Sea Pendant"
+msgstr "海洋吊坠"
+
+#. PENDANTSEA_DESC
+msgid "Halves damage from all PSI attacks.\\nBody @ Defense +[ItemValue]."
+msgstr "所有灵能攻击造成的伤害减半。\\n躯干@防御+[ItemValue]"
+
+#. PENDANTSEA_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PENDANTTHUNDER_NAME
+msgid "Thunder Pendant"
+msgstr "雷电吊坠"
+
+#. PENDANTTHUNDER_DESC
+msgid "Halves damage from lightning attacks.\\nBody @ Defense +[ItemValue]."
+msgstr "将雷电攻击造成的伤害减半。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. PENDANTTHUNDER_ART
+msgid "The ,the ,An ,an ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PHONECARD_NAME
+msgid "Telephone Card"
+msgstr "电话卡"
+
+#. PHONECARD_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. PSISTONE_NAME
+msgid "PSI Stone"
+msgstr "灵能力石"
+
+#. PSISTONE_DESC
+msgid "Psionic power in solid form.\\nRestores [ItemValue] PP @ "
+msgstr "以固体形式存在的灵能。\\n恢复 [ItemValue] PP @"
+
+#. PSISTONE_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. REALROCKET_NAME
+msgid "Real Rocket"
+msgstr "标准火箭"
+
+#. REALROCKET_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. REDBANDANA_NAME
+msgid "Red Bandana"
+msgstr "红色方巾"
+
+#. REDBANDANA_DESC
+msgid "A bandana for the adventurous type.\\nBody @ Defense +[ItemValue]."
+msgstr "适合冒险类型的方巾。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. REDBANDANA_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. REPELRING_NAME
+msgid "Repel Ring"
+msgstr "排斥指环"
+
+#. REPELRING_DESC
+msgid "Greatly increases your chances of running away from battle."
+msgstr "大大增加你从战斗中逃跑的概率。"
+
+#. REPELRING_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. RINGBRASS_NAME
+msgid "Brass Ring"
+msgstr "黄铜指环"
+
+#. RINGBRASS_DESC
+msgid "Blessed by Magicant's legendary fairy.\\nBody @ Defense +[ItemValue]."
+msgstr "受到了传说中魔法之地仙女的祝福。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. RINGBRASS_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. RINGGOLD_NAME
+msgid "Gold Ring"
+msgstr "黄金指环"
+
+#. RINGGOLD_DESC
+msgid "Blessed by Magicant's goddess.\\nBody @ Defense +[ItemValue]."
+msgstr "受到了魔法之地女神的祝福。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. RINGGOLD_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. RINGSILVER_NAME
+msgid "Silver Ring"
+msgstr "白银戒指"
+
+#. RINGSILVER_DESC
+msgid "Blessed by Magicant's holy angel.\\nBody @ Defense +[ItemValue]."
+msgstr "受到了魔法之地神圣天使的祝福。\\n身体 @ 防御力 +[ItemValue]。"
+
+#. RINGSILVER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. ROPE_NAME
+msgid "Rope"
+msgstr "绳子"
+
+#. ROPE_DESC
+msgid "It can be used to tie up foes."
+msgstr "使用它可以用来捆住敌人。"
+
+#. ROPE_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. RULER_NAME
+msgid "Ruler"
+msgstr "尺子"
+
+#. RULER_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. SHOVEL_NAME
+msgid "Shovel"
+msgstr "铲子"
+
+#. SHOVEL_DESC
+msgid "Woah! You somehow got this shovel.\\nYou should give it back to its owner."
+msgstr "哇哦！你居然弄到了这把铲子。\\n或许你应该将它还给失主。"
+
+#. SHOVEL_ART
+msgid "The ,the ,The ,the ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. SLINGSHOT_NAME
+msgid "Slingshot"
+msgstr "弹弓"
+
+#. SLINGSHOT_DESC
+msgid "A handy weapon that anyone can use.\\nWeapon @ Offense +[ItemValue]."
+msgstr "一把方便任何人使用的武器。\\n武器 @ 攻击力 +[ItemValue]。"
+
+#. SLINGSHOT_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. SLINGSHOTBIONIC_NAME
+msgid "Bionic Slingshot"
+msgstr "超级弹弓"
+
+#. SLINGSHOTBIONIC_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. SPORTSDRINK_NAME
+msgid "Sports Drink"
+msgstr "运动饮料"
+
+#. SPORTSDRINK_DESC
+msgid "Can reinvigorate you when tired.\\nRestores [ItemValue] HP."
+msgstr "可以在你疲劳时恢复活力。\\n回复[ItemValue]点HP。"
+
+#. SPORTSDRINK_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. STICKYMACHINE_NAME
+msgid "Sticky Machine"
+msgstr "史莱姆生成器"
+
+#. STICKYMACHINE_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. STRAWBERRYTOFU_NAME
+msgid "Strawberry Tofu"
+msgstr "草莓豆腐"
+
+#. STRAWBERRYTOFU_ART
+msgid "The ,the ,Some ,some ,this ,it,was"
+msgstr ",,一些,一些,这,它,是"
+
+#. SUPERSPRAY_NAME
+msgid "Super Spray"
+msgstr "超级喷雾"
+
+#. SUPERSPRAY_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. SWORD_NAME
+msgid "Sword"
+msgstr "剑"
+
+#. SWORD_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. TICKET_NAME
+msgid "Live Show Ticket"
+msgstr "现场演出门票"
+
+#. TICKET_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. TICKETSTUB_NAME
+msgid "Ticket Stub"
+msgstr "票根"
+
+#. TICKETSTUB_ART
+msgid "The ,the ,A ,a ,this ,it,was"
+msgstr ",,,,这个,它,是"
+
+#. WORDSLOVE_NAME
+msgid "Words of Love"
+msgstr "漂亮话"
+
+#. WORDSLOVE_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. WORDSSWEAR_NAME
+msgid "Swear Words"
+msgstr "脏话"
+
+#. WORDSSWEAR_ART
+msgid "The ,the ,Some ,some ,these ,them,were"
+msgstr ",,一些,一些,这些,它们,是"
+
+#. ANTIDOTE_SORT
+msgid "Antidote"
+msgstr "解药"
+
+#. ASTHMASPRAY_SORT
+msgid "Asthma Spray"
+msgstr "哮喘喷雾"
+
+#. BASEBALLCAP_SORT
+msgid "Baseball Cap"
+msgstr "棒球帽"
+
+#. BATALUMINUM_SORT
+msgid "Bat Aluminum"
+msgstr "铝球棒"
+
+#. BATHANK_SORT
+msgid "Bat Hank's"
+msgstr "Hank的球棒"
+
+#. BATOLD_SORT
+msgid "Old Bat"
+msgstr "老球棒"
+
+#. BATPLASTIC_SORT
+msgid "Bat Plastic"
+msgstr "塑料球棒"
+
+#. BATWOODEN_SORT
+msgid "Bat Wooden"
+msgstr "木制球棒"
+
+#. BEAMLASER_SORT
+msgid "Beam Laser"
+msgstr "镭射光束"
+
+#. BEAMPLASMA_SORT
+msgid "Beam Plasma"
+msgstr "等离子光束"
+
+#. BIGBAG_SORT
+msgid "Big Bag"
+msgstr "大袋子"
+
+#. BOMB_SORT
+msgid "Bomb"
+msgstr "炸弹"
+
+#. BOMBSUPER_SORT
+msgid "Bomb Super"
+msgstr "超级炸弹"
+
+#. BOOMERANG_SORT
+msgid "Boomerang"
+msgstr "回旋镖"
+
+#. BOTTLEROCKET_SORT
+msgid "Bottle Rocket"
+msgstr "瓶装火箭"
+
+#. BOTTLEROCKETBIG_SORT
+msgid "Bottle Rocket Big"
+msgstr "大型瓶装火箭"
+
+#. BOTTLEROCKETMULTI_SORT
+msgid "Bottle Rocket Multi"
+msgstr "多重瓶装火箭"
+
+#. BREAD_SORT
+msgid "Bread"
+msgstr "面包"
+
+#. BULLHORN_SORT
+msgid "Bullhorn"
+msgstr "警笛"
+
+#. CANARYCHICK_SORT
+msgid "Canary Chick"
+msgstr "金丝雀雏鸟"
+
+#. CAPSULEDEF_SORT
+msgid "Capsule Defense"
+msgstr "防御胶囊"
+
+#. CAPSULEGUT_SORT
+msgid "Capsule Guts"
+msgstr "胆量胶囊"
+
+#. CAPSULEHP_SORT
+msgid "Capsule HP"
+msgstr "HO胶囊"
+
+#. CAPSULEIQ_SORT
+msgid "Capsule IQ"
+msgstr "IQ胶囊"
+
+#. CAPSULEOFE_SORT
+msgid "Capsule Offense"
+msgstr "攻击胶囊"
+
+#. CAPSULEPP_SORT
+msgid "Capsule PP"
+msgstr "PP胶囊"
+
+#. CAPSULESPD_SORT
+msgid "Capsule Speed"
+msgstr "速度胶囊"
+
+#. CASHCARD_SORT
+msgid "Cash Card"
+msgstr "现金卡"
+
+#. COINMAGIC_SORT
+msgid "Coin Magic"
+msgstr "魔法硬币"
+
+#. COINPEACE_SORT
+msgid "Coin Peace"
+msgstr "和平硬币"
+
+#. COINPROTECT_SORT
+msgid "Coin Protection"
+msgstr "保护硬币"
+
+#. COURAGEBADGE_SORT
+msgid "Badge Courage"
+msgstr "胆量徽章"
+
+#. CRUMBS_SORT
+msgid "Crumbs"
+msgstr "面包屑"
+
+#. DENTURES_SORT
+msgid "Dentures"
+msgstr "假牙"
+
+#. DOGTREATS_SORT
+msgid "Dog Treats"
+msgstr "狗狗零食"
+
+#. EAGLEFEATHER_SORT
+msgid "Eagle's Feather"
+msgstr "鹰羽"
+
+#. ERROR_SORT
+msgid "Error"
+msgstr "错误-ERROR"
+
+#. EYEDROPS_SORT
+msgid "Eye Drops"
+msgstr "眼药水"
+
+#. FLAMETHROWER_SORT
+msgid "Flame Thrower"
+msgstr "火焰喷射器"
+
+#. FLASHDARK_SORT
+msgid "Flashdark"
+msgstr "闪瞎灯"
+
+#. FLEABAG_SORT
+msgid "Flea Bag"
+msgstr "跳蚤包"
+
+#. FRANKLINBADGE_SORT
+msgid "Badge Franklin"
+msgstr "富兰克林徽章"
+
+#. FRANKLINBADGE0.8_SORT
+msgid "Badge Franklin v0.8"
+msgstr "富兰克林徽章-v.0.8"
+
+#. FRIES_SORT
+msgid "Fries"
+msgstr "薯条"
+
+#. GGFDIARY_SORT
+msgid "GGF Diary"
+msgstr "曾祖父日记"
+
+#. GHOSTHOUSEKEY_SORT
+msgid "Key Ghost House"
+msgstr "鬼屋钥匙"
+
+#. GUNAIR_SORT
+msgid "Gun Air"
+msgstr "气枪"
+
+#. GUNSTUN_SORT
+msgid "Gun Stun"
+msgstr "电击枪"
+
+#. HAMBURGER_SORT
+msgid "Hamburger"
+msgstr "汉堡"
+
+#. HAT_SORT
+msgid "Hat"
+msgstr "帽子"
+
+#. HERBMAGIC_SORT
+msgid "Herb Magic"
+msgstr "魔法药草"
+
+#. HERBRED_SORT
+msgid "Herb Red"
+msgstr "红色药草"
+
+#. HOTDOG_SORT
+msgid "Hot Dog"
+msgstr "热狗"
+
+#. INSECTICIDE_SORT
+msgid "Spray Bug"
+msgstr "杀虫剂喷雾"
+
+#. IRONSKILLET_SORT
+msgid "Pan Iron"
+msgstr "铁盘"
+
+#. KATANA_SORT
+msgid "Sword Katana"
+msgstr "武士刀"
+
+#. KEYBASEMENT_SORT
+msgid "Key Basement"
+msgstr "地下室钥匙"
+
+#. KEYZOO_SORT
+msgid "Key Zoo"
+msgstr "动物园钥匙"
+
+#. KNIFEBUTTER_SORT
+msgid "Knife Butter"
+msgstr "黄油刀"
+
+#. KNIFESURVIVAL_SORT
+msgid "Knife Survival"
+msgstr "求生刀"
+
+#. LASTWEAPON_SORT
+msgid "Last Weapon"
+msgstr "终极武器"
+
+#. LIFEUPCREAM_SORT
+msgid "Life Up Cream"
+msgstr "伤药"
+
+#. MAGICCANDY_SORT
+msgid "Magic Candy"
+msgstr "魔法糖果"
+
+#. MAGICRIBBON_SORT
+msgid "Magic Ribbon"
+msgstr "魔法缎带"
+
+#. MAPPODUNK_SORT
+msgid "Map Podunk"
+msgstr "波顿克地图"
+
+#. MEMORYCHIP_SORT
+msgid "Memory Chip"
+msgstr "记忆芯片"
+
+#. MILK_SORT
+msgid "Milk"
+msgstr "牛奶"
+
+#. MOUTHWASH_SORT
+msgid "Mouthwash"
+msgstr "漱口水"
+
+#. NOBLESEED_SORT
+msgid "Noble Seed"
+msgstr "天使圣杖"
+
+#. OCARINA_SORT
+msgid "Ocarina of Hope"
+msgstr "希望之笛"
+
+#. ONYXHOOK_SORT
+msgid "Onyx Hook"
+msgstr "黑曜石鱼钩"
+
+#. ORANGEJUICE_SORT
+msgid "Orange Juice"
+msgstr "橙汁"
+
+#. PANFRYING_SORT
+msgid "Pan Frying"
+msgstr "煎锅"
+
+#. PANNONSTICK_SORT
+msgid "Pan Non-stick"
+msgstr "不粘锅"
+
+#. PASS_SORT
+msgid "Pass"
+msgstr "通过"
+
+#. PENDANTEARTH_SORT
+msgid "Pendant Earth"
+msgstr "土之项链"
+
+#. PENDANTFIRE_SORT
+msgid "Pendant Fire"
+msgstr "火之项链"
+
+#. PENDANTH2O_SORT
+msgid "Pendant H2o"
+msgstr "淼之项链"
+
+#. PENDANTSEA_SORT
+msgid "Pendant Sea"
+msgstr "海之项链"
+
+#. PENDANTTHUNDER_SORT
+msgid "Pendant Thunder"
+msgstr "雷之项链"
+
+#. PHONECARD_SORT
+msgid "Telephone Card"
+msgstr "电话卡"
+
+#. PSISTONE_SORT
+msgid "PSI Stone"
+msgstr "灵能商店"
+
+#. REALROCKET_SORT
+msgid "Real Rocket"
+msgstr "正品火箭"
+
+#. REDBANDANA_SORT
+msgid "Red Bandana"
+msgstr "香蕉戒指"
+
+#. REPELRING_SORT
+msgid "Repel Ring"
+msgstr "排斥戒指"
+
+#. RINGBRASS_SORT
+msgid "Ring Brass"
+msgstr "铜戒指"
+
+#. RINGGOLD_SORT
+msgid "Ring Gold"
+msgstr "金戒指"
+
+#. RINGSILVER_SORT
+msgid "Ring Silver"
+msgstr "银戒指"
+
+#. ROPE_SORT
+msgid "Rope"
+msgstr "绳子"
+
+#. RULER_SORT
+msgid "Ruler"
+msgstr "尺子"
+
+#. SHOVEL_SORT
+msgid "Shovel"
+msgstr "铲子"
+
+#. SLINGSHOT_SORT
+msgid "Slingshot"
+msgstr "弹弓"
+
+#. SLINGSHOTBIONIC_SORT
+msgid "Slingshot Bionic"
+msgstr "超级弹弓"
+
+#. SPORTSDRINK_SORT
+msgid "Sports Drink"
+msgstr "运动饮料"
+
+#. STICKYMACHINE_SORT
+msgid "Sticky Machine"
+msgstr "史莱姆生成器"
+
+#. STRAWBERRYTOFU_SORT
+msgid "Strawberry Tofu"
+msgstr "草莓豆腐"
+
+#. SUPERSPRAY_SORT
+msgid "Spray Super"
+msgstr "超级喷雾"
+
+#. SWORD_SORT
+msgid "Sword"
+msgstr "剑"
+
+#. TICKET_SORT
+msgid "Live Show Ticket"
+msgstr "现场演出门票"
+
+#. TICKETSTUB_SORT
+msgid "Ticket Stub"
+msgstr "票根"
+
+#. WORDSLOVE_SORT
+msgid "Words of Love"
+msgstr "漂亮话"
+
+#. WORDSSWEAR_SORT
+msgid "Words of Swear"
+msgstr "嫌弃话"
+
+#. BREAD_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. BREAD_ACT2_NAME
+msgid "Crumble"
+msgstr "掰碎"
+
+#. CAPSULEDEF_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULEGUT_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULEHP_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULEIQ_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULEOFE_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULEPP_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. CAPSULESPD_ACT1_NAME
+msgid "Swallow"
+msgstr "咽下"
+
+#. FRIES_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. HAMBURGER_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. HERBMAGIC_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. HOTDOG_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. MAGICCANDY_ACT1_NAME
+msgid "Eat"
+msgstr "吃掉"
+
+#. MILK_ACT1_NAME
+msgid "Drink"
+msgstr "喝掉"
+
+#. ORANGEJUICE_ACT1_NAME
+msgid "Drink"
+msgstr "喝掉"
+
+#. PSISTONE_ACT1_NAME
+msgid "Squeeze"
+msgstr "挤压"
+
+#. SPORTSDRINK_ACT1_NAME
+msgid "Drink"
+msgstr "喝掉"
+
+#. ANTIDOTE_ACT1_TEXT
+msgid "The poison was removed from [User]'s body!"
+msgstr "[User]的身体中的毒素被清除了！"
+
+#. ANTIDOTE_ACT1_FAIL
+msgid "[User] is not poisoned."
+msgstr "[User]没有中毒。"
+
+#. ASTHMASPRAY_ACT1_TEXT
+msgid "[User]'s asthma went away!"
+msgstr "[User]的哮喘痊愈了！"
+
+#. ASTHMASPRAY_ACT1_FAIL
+msgid "[User] does not have asthma."
+msgstr "[User]没有哮喘。"
+
+#. BREAD_ACT1_TEXT
+msgid "[User] recovered 15 HP!"
+msgstr "[User]回复了15点HP！"
+
+#. BREAD_ACT2_TEXT
+msgid "The Bread turned into Crumbs!"
+msgstr "面包变成了面包屑！"
+
+#. BREAD_ACT2_FAIL
+msgid "You already have Crumbs."
+msgstr "你已经拥有面包屑了。"
+
+#. CAPSULEDEF_ACT1_TEXT
+msgid "[User]'s Defense increased by 3!"
+msgstr "[User]的防御力增加了3点！"
+
+#. CAPSULEDEF_ACT1_FAIL
+msgid "[User] won't swallow the Defense Capsule."
+msgstr "[User]不会咽下防御胶囊。"
+
+#. CAPSULEGUT_ACT1_TEXT
+msgid "[User]'s Guts increased by 3!"
+msgstr "[User]的勇气值增加了3点！"
+
+#. CAPSULEGUT_ACT1_FAIL
+msgid "[User] won't swallow the Guts Capsule."
+msgstr "[User]不会咽下勇气胶囊。"
+
+#. CAPSULEHP_ACT1_TEXT
+msgid "[User]'s maximum HP increased by 3!"
+msgstr "[User]的最大HP值增加了3点！"
+
+#. CAPSULEHP_ACT1_FAIL
+msgid "[User] won't swallow the HP Capsule."
+msgstr "[User]不会咽下HP胶囊。"
+
+#. CAPSULEIQ_ACT1_TEXT
+msgid "[User]'s IQ increased by 3!"
+msgstr "[User]的IQ值增加了3点！"
+
+#. CAPSULEIQ_ACT1_FAIL
+msgid "[User] won't swallow the IQ Capsule."
+msgstr "[User]不会咽下IQ胶囊。"
+
+#. CAPSULEOFE_ACT1_TEXT
+msgid "[User]'s Offense increased by 3!"
+msgstr "[User]的攻击力增加了3点！"
+
+#. CAPSULEOFE_ACT1_FAIL
+msgid "[User] won't swallow the Offense Capsule."
+msgstr "[User]不会咽下攻击胶囊。"
+
+#. CAPSULEPP_ACT1_TEXT
+msgid "[User]'s maximum PP increased by 3!"
+msgstr "[User]的最大PP值增加了3点！"
+
+#. CAPSULEPP_ACT1_FAIL
+msgid "[User] won't swallow the PP Capsule."
+msgstr "[User]不会咽下PP胶囊。"
+
+#. CAPSULESPD_ACT1_TEXT
+msgid "[User]'s Speed increased by 3!"
+msgstr "[User]的速度增加了3点！"
+
+#. CAPSULESPD_ACT1_FAIL
+msgid "[User] won't swallow the Speed Capsule."
+msgstr "[User]不会咽下速度胶囊。"
+
+#. EYEDROPS_ACT1_TEXT
+msgid "[User] could see again!"
+msgstr "[User]又能看见东西了！"
+
+#. EYEDROPS_ACT1_FAIL
+msgid "[User] is not blinded."
+msgstr "[User]不再失明。"
+
+#. FRIES_ACT1_TEXT
+msgid "[User] recovered 20 HP!"
+msgstr "[User]回复了20点HP！"
+
+#. HAMBURGER_ACT1_TEXT
+msgid "[User] recovered 50 HP!"
+msgstr "[User] 回复了50点HP！"
+
+#. HERBMAGIC_ACT1_TEXT
+msgid "[User] recovered 60 HP!"
+msgstr "[User]回复了60点HP！"
+
+#. HOTDOG_ACT1_TEXT
+msgid "[User] recovered 35 HP!"
+msgstr "[User]回复了35点HP！"
+
+#. LIFEUPCREAM_ACT1_TEXT
+msgid "[User] recovered 200 HP!"
+msgstr "[User]回复了200点HP！"
+
+#. MILK_ACT1_TEXT
+msgid "[User] recovered 20 HP!"
+msgstr "[User]回复了20点HP！"
+
+#. ORANGEJUICE_ACT1_TEXT
+msgid "[User] recovered 10 HP!"
+msgstr "[User]回复了10点HP！"
+
+#. PSISTONE_ACT1_TEXT
+msgid "[User] recovered 20 PP!"
+msgstr "[User]回复了20点PP！"
+
+#. SPORTSDRINK_ACT1_TEXT
+msgid "[User] recovered 70 HP!"
+msgstr "[User]回复了70点HP！"
+
