@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿KEYBOARD_PANEL0_GRID0
+msgid "ABCDEFMNOPQRYZÄÁÇËÎÑÖÓÒÔ=+-*/%"
+msgstr "ABCDEFMNOPQRYZÄÁÇËÎÑÖÓÒÔ=+-*/%"
+
+#. KEYBOARD_PANEL0_GRID1
+msgid "GHIJKLSTUVWXÉÈÊÏÍÌŒÜÚÙÛ ()⟦⟧“”"
+msgstr "GHIJKLSTUVWXÉÈÊÏÍÌŒÜÚÙÛ ()⟦⟧“”"
+
+#. KEYBOARD_PANEL0_GRID2
+msgid "1234567890`@♪$&.!?:;,\"'~©"
+msgstr "1234567890`@♪$&.!?:;,\"'~©"
+
+#. KEYBOARD_PANEL1_GRID0
+msgid "abcdefmnopqryzäáçëîñöóòô=+-*/%"
+msgstr "abcdefmnopqryzäáçëîñöóòô=+-*/%"
+
+#. KEYBOARD_PANEL1_GRID1
+msgid "ghijklstuvwxéèêïíìœüúùû ()⟦⟧“”"
+msgstr "ghijklstuvwxéèêïíìœüúùû ()⟦⟧“”"
+
+#. KEYBOARD_PANEL1_GRID2
+msgid "1234567890`@♪$&.!?:;,\"'~©"
+msgstr "1234567890`@♪$&.!?:;,\"'~©"
+
+#. KEYBOARD_PANEL0_NAME
+msgid "CAPITAL"
+msgstr "大写"
+
+#. KEYBOARD_PANEL1_NAME
+msgid "SMALL"
+msgstr "小写"
+
