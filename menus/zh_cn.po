@@ -1,0 +1,1484 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DISCLAIMER_TITLE
+msgid "DISCLAIMER"
+msgstr "免责声明"
+
+#. DISCLAIMER_PART_1
+msgid "MOTHER: Encore is a free, unofficial fan reimagining of MOTHER 1 and is not affiliated with Nintendo or Shigesato Itoi. This game offers a uniquely different experience from the original and should not be seen as a replacement for it."
+msgstr "《地球冒险：加演》是《地球冒险：开端/MOTHER 1》的\\n非官方免费粉丝重构版本，与任天堂或糸井重里无关。\\n本作提供了与原作截然不同的独特体验，\\n不应被视作原作的代替品。"
+
+#. DISCLAIMER_PART_2
+msgid "We recommend supporting the MOTHER series by playing the games via official releases or by purchasing official merchandise."
+msgstr "我们建议通过游玩官方发行版本\\n或购买官方周边商品来支持\\n《地球冒险/MOTHER》系列。"
+
+#. MENU_LOAD
+msgid "Load"
+msgstr "读取"
+
+#. MENU_SAVE
+msgid "Save"
+msgstr "保存"
+
+#. MENU_YES
+msgid "Yes"
+msgstr "是"
+
+#. MENU_NO
+msgid "No"
+msgstr "否"
+
+#. MENU_YEP
+msgid "Yep"
+msgstr "好的"
+
+#. MENU_NOPE
+msgid "Nope"
+msgstr "不行"
+
+#. MENU_DONT_CARE
+msgid "Don't care"
+msgstr "不在乎"
+
+#. MENU_BACKSPACE
+msgid "Backspace"
+msgstr "退格"
+
+#. MENU_OK
+msgid "OK"
+msgstr "就这样"
+
+#. MENU_BACK
+msgid "Back"
+msgstr "返回"
+
+#. MENU_PRESS
+msgid "Press [color][ui_accept][/color]"
+msgstr "按 [color][ui_accept][/color]"
+
+#. MENU_SELECT
+msgid "Select"
+msgstr "选择"
+
+#. MENU_LV
+msgid "LV"
+msgstr "LV"
+
+#. MENU_SKIP
+msgid "Skip"
+msgstr "跳过"
+
+#. MENU_HP
+msgid "HP"
+msgstr "HP"
+
+#. MENU_PP
+msgid "PP"
+msgstr "PP"
+
+#. STAT_LEVEL
+msgid "Level"
+msgstr "等级"
+
+#. STAT_EXP
+msgid "EXP"
+msgstr "经验值"
+
+#. STAT_HP
+msgid "HP"
+msgstr "HP"
+
+#. STAT_PP
+msgid "PP"
+msgstr "PP"
+
+#. STAT_MAXHP
+msgid "Max. HP"
+msgstr "最大HP"
+
+#. STAT_MAXPP
+msgid "Max. PP"
+msgstr "最大PP"
+
+#. STAT_OFFENSE
+msgid "Offense"
+msgstr "攻击力"
+
+#. STAT_DEFENSE
+msgid "Defense"
+msgstr "防御力"
+
+#. STAT_SPEED
+msgid "Speed"
+msgstr "速度"
+
+#. STAT_IQ
+msgid "IQ"
+msgstr "智力"
+
+#. STAT_GUTS
+msgid "Guts"
+msgstr "胆量"
+
+#. STAT_SHORT_OFFENSE
+msgid "OFE"
+msgstr "ATK"
+
+#. STAT_SHORT_DEFENSE
+msgid "DEF"
+msgstr "DEF"
+
+#. STAT_SHORT_SPEED
+msgid "SPD"
+msgstr "SPD"
+
+#. STAT_SHORT_IQ
+msgid "IQ"
+msgstr "IQ"
+
+#. STAT_SHORT_GUTS
+msgid "GUT"
+msgstr "GUT"
+
+#. SKILLS_FIELD
+msgid "Field"
+msgstr "场地"
+
+#. SKILLS_BATTLE
+msgid "Battle"
+msgstr "战斗"
+
+#. SKILLS_PSI
+msgid "PSI"
+msgstr "灵能"
+
+#. SAVE_TIME
+msgid "Time"
+msgstr "时间"
+
+#. SAVE_TIME_TOO_MUCH
+msgid "{time} Go outside"
+msgstr "{time} 溢出"
+
+#. SAVE_PLAY
+msgid "Play"
+msgstr "游玩"
+
+#. SAVE_COPY
+msgid "Copy"
+msgstr "复制"
+
+#. SAVE_DELETE
+msgid "Delete"
+msgstr "删除"
+
+#. SAVE_SETTINGS
+msgid "Settings"
+msgstr "设置"
+
+#. SAVE_SAVECONFIRM
+msgid "OK to overwrite this file?"
+msgstr "确定要覆盖此文件吗？"
+
+#. SAVE_DELETECONFIRM
+msgid "This will erase this save file.\\nIs that okay?"
+msgstr "此文件将被清除。\\n确定可以吗？"
+
+#. SAVE_NODATA
+msgid "No Data"
+msgstr "无数据"
+
+#. MENU_CAPITALSMALL
+msgid "Capital/Small"
+msgstr "大写/小写"
+
+#. MENU_TEXTSPEED
+msgid "Text Speed"
+msgstr "文本速度"
+
+#. MENU_FLAVORS
+msgid "Menu Flavors"
+msgstr "菜单主题"
+
+#. MENU_PROMPTS
+msgid "Button Prompts"
+msgstr "按键提示"
+
+#. MENU_END
+msgid "End"
+msgstr "结束"
+
+#. MENU_CERTAINTY
+msgid "Are you sure?"
+msgstr "这样可以吗？"
+
+#. MENU_BOTH
+msgid "Both"
+msgstr "全部"
+
+#. MENU_OBJECTS
+msgid "Objects"
+msgstr "物体"
+
+#. MENU_NPCS
+msgid "NPCs"
+msgstr "人物"
+
+#. MENU_NONE
+msgid "None"
+msgstr "无"
+
+#. MENU_FAST
+msgid "Fast"
+msgstr "快速"
+
+#. MENU_MEDIUM
+msgid "Medium"
+msgstr "中等"
+
+#. MENU_SLOW
+msgid "Slow"
+msgstr "慢速"
+
+#. MENU_FASTSPD
+msgid "Fast Speed"
+msgstr "快速"
+
+#. MENU_MEDIUMSPD
+msgid "Medium Speed"
+msgstr "中等"
+
+#. MENU_SLOWSPD
+msgid "Slow Speed"
+msgstr "慢速"
+
+#. FLAVOR_PLAIN
+msgid "Plain"
+msgstr "朴素"
+
+#. FLAVOR_MINT
+msgid "Mint"
+msgstr "薄荷"
+
+#. FLAVOR_STRAWBERRY
+msgid "Strawberry"
+msgstr "草莓"
+
+#. FLAVOR_BANANA
+msgid "Banana"
+msgstr "香蕉"
+
+#. FLAVOR_PEANUT
+msgid "Peanut"
+msgstr "花生"
+
+#. FLAVOR_GRAPE
+msgid "Grape"
+msgstr "葡萄"
+
+#. FLAVOR_MELON
+msgid "Melon"
+msgstr "西瓜"
+
+#. NAME_NINTEN0
+msgid "Ninten"
+msgstr "任天"
+
+#. NAME_NINTEN1
+msgid "Ken"
+msgstr "肯"
+
+#. NAME_NINTEN2
+msgid "Douglas"
+msgstr "道格拉斯"
+
+#. NAME_NINTEN3
+msgid "Jeremy"
+msgstr "杰里米"
+
+#. NAME_NINTEN4
+msgid "Mark"
+msgstr "马克"
+
+#. NAME_NINTEN5
+msgid "Ryu"
+msgstr "隆"
+
+#. NAME_NINTEN6
+msgid "Colin"
+msgstr "克林"
+
+#. NAME_ANA0
+msgid "Ana"
+msgstr "安娜"
+
+#. NAME_ANA1
+msgid "Jill"
+msgstr "吉尔"
+
+#. NAME_ANA2
+msgid "Sylvia"
+msgstr "塞尔维亚"
+
+#. NAME_ANA3
+msgid "Catrine"
+msgstr "卡特琳"
+
+#. NAME_ANA4
+msgid "Carrie"
+msgstr "凯莉"
+
+#. NAME_ANA5
+msgid "Nina"
+msgstr "妮娜"
+
+#. NAME_ANA6
+msgid "Emily"
+msgstr "艾米莉"
+
+#. NAME_LLOYD0
+msgid "Lloyd"
+msgstr "罗伊德"
+
+#. NAME_LLOYD1
+msgid "Brian"
+msgstr "布莱恩"
+
+#. NAME_LLOYD2
+msgid "Albert"
+msgstr "阿尔伯特"
+
+#. NAME_LLOYD3
+msgid "Louis"
+msgstr "路易"
+
+#. NAME_LLOYD4
+msgid "Kenny"
+msgstr "肯尼"
+
+#. NAME_LLOYD5
+msgid "Jean"
+msgstr "简"
+
+#. NAME_LLOYD6
+msgid "Maxwell"
+msgstr "麦克斯威尔"
+
+#. NAME_PIPPI0
+msgid "Pippi"
+msgstr "皮皮"
+
+#. NAME_PIPPI1
+msgid "Alex"
+msgstr "亚历克斯"
+
+#. NAME_PIPPI2
+msgid "Penny"
+msgstr "佩妮"
+
+#. NAME_PIPPI3
+msgid "Ferris"
+msgstr "费里斯"
+
+#. NAME_PIPPI4
+msgid "Natalie"
+msgstr "娜塔莉"
+
+#. NAME_PIPPI5
+msgid "Katt"
+msgstr "卡特"
+
+#. NAME_PIPPI6
+msgid "Ashley"
+msgstr "艾什莉"
+
+#. NAME_TEDDY0
+msgid "Teddy"
+msgstr "泰迪"
+
+#. NAME_TEDDY1
+msgid "Joe"
+msgstr "乔"
+
+#. NAME_TEDDY2
+msgid "Leo"
+msgstr "里奥"
+
+#. NAME_TEDDY3
+msgid "Jeb"
+msgstr "杰布"
+
+#. NAME_TEDDY4
+msgid "Alec"
+msgstr "亚历克"
+
+#. NAME_TEDDY5
+msgid "Rand"
+msgstr "兰德"
+
+#. NAME_TEDDY6
+msgid "Dallas"
+msgstr "达拉斯"
+
+#. NAME_FLYINGMAN
+msgid "Flying Man"
+msgstr "飞人"
+
+#. NAME_CANARYCHICK
+msgid "Canary Chick"
+msgstr "金丝雀雏鸟"
+
+#. NAME_EVE
+msgid "EVE"
+msgstr "伊芙"
+
+#. FAVFOOD0
+msgid "Prime Rib"
+msgstr "上等排骨"
+
+#. FAVFOOD1
+msgid "Bean Paste"
+msgstr "豆沙面包"
+
+#. FAVFOOD2
+msgid "Creme Cookies"
+msgstr "奶油饼干"
+
+#. FAVFOOD3
+msgid "Pasta"
+msgstr "意大利面"
+
+#. FAVFOOD4
+msgid "Omelets"
+msgstr "煎蛋卷"
+
+#. FAVFOOD5
+msgid "Custard"
+msgstr "蛋奶冻"
+
+#. FAVFOOD6
+msgid "Salmon"
+msgstr "三文鱼"
+
+#. LONGEST_POSSIBLE_NAME
+msgid "ŒŒŒŒŒŒŒ"
+msgstr ""
+
+#. LONGEST_POSSIBLE_FOOD
+msgid "ŒŒŒŒŒŒŒŒŒŒŒŒŒ"
+msgstr ""
+
+#. LONGEST_POSSIBLE_PLAYER_NAME
+msgid "ŒŒŒŒŒŒŒŒŒŒŒŒŒ"
+msgstr ""
+
+#. NAME_BIO0
+msgid "What is this boy's name?"
+msgstr "这个男孩的名字是什么？"
+
+#. NAME_BIO1
+msgid "What is this girl's name?"
+msgstr "这个女孩的名字是什么？"
+
+#. NAME_BIO2
+msgid "This other boy's name?"
+msgstr "另一个男孩的名字是什么？"
+
+#. NAME_BIO3
+msgid "This other girl's name?"
+msgstr "另一个女孩的名字是什么？"
+
+#. NAME_BIO4
+msgid "This last boy's name?"
+msgstr "最后这个男孩的名字是什么？"
+
+#. NAME_BIO5
+msgid "What is your favorite homemade food?"
+msgstr "你最喜欢的家常菜是什么？"
+
+#. BLACKLISTED_NAMES
+msgid "george,minnie,mimmie,duncan,abbott,abbé,laura,gyiyg,giegue,giygas,mary,maria,maría,eve,ève"
+msgstr "乔治,米妮,米米,邓肯,阿博特,阿贝,劳拉,基古,吉格,加吉斯,玛丽,玛丽亚,玛丽亚,伊芙,伊芙"
+
+#. NAME_BLOCKED
+msgid "Please change this name."
+msgstr "请换一个名字。"
+
+#. NAME_DUPLICATED
+msgid "This name's already taken!"
+msgstr "已经有人叫这个名字了！"
+
+#. MENU_MENU
+msgid "Menu"
+msgstr "菜单"
+
+#. MENU_GOODS
+msgid "Goods"
+msgstr "道具"
+
+#. MENU_PSI
+msgid "PSI"
+msgstr "灵能"
+
+#. MENU_EQUIP
+msgid "Equip"
+msgstr "装备"
+
+#. MENU_STATUS
+msgid "Status"
+msgstr "状态"
+
+#. MENU_MAP
+msgid "Map"
+msgstr "地图"
+
+#. MENU_OPTIONS
+msgid "Options"
+msgstr "选项"
+
+#. MENU_SKILLS
+msgid "Skills"
+msgstr "技能"
+
+#. EQUIP_WEAPON
+msgid "Weapon"
+msgstr "武器"
+
+#. EQUIP_BODY
+msgid "Body"
+msgstr "身体"
+
+#. EQUIP_HEAD
+msgid "Head"
+msgstr "头部"
+
+#. EQUIP_ARMS
+msgid "Arms"
+msgstr "手臂"
+
+#. EQUIP_OTHER
+msgid "Other"
+msgstr "其它"
+
+#. EQUIP_NONE
+msgid "None"
+msgstr "无"
+
+#. EQUIP_EMPTY
+msgid "______"
+msgstr "______"
+
+#. MENU_AILMENTS_SEPARATOR
+msgid ", "
+msgstr "、"
+
+#. MENU_AILMENTS_AND
+msgid " and "
+msgstr "和"
+
+#. MENU_AILMENTS_AND_MORE
+msgid " and more"
+msgstr "以及更多"
+
+#. MAP_404
+msgid "No map available"
+msgstr "没有地图"
+
+#. MAP_FASTSCROLL
+msgid "Speed Up"
+msgstr "加速"
+
+#. MAP_MARKERS
+msgid "Markers"
+msgstr "地图标记"
+
+#. MENU_TITLE_GOODS
+msgid "Goods"
+msgstr "道具"
+
+#. MENU_TITLE_PSI
+msgid "PSI"
+msgstr "灵能"
+
+#. MENU_TITLE_EQUIP
+msgid "Equip"
+msgstr "装备"
+
+#. MENU_TITLE_STATUS
+msgid "Status"
+msgstr "状态"
+
+#. MENU_TITLE_OPTIONS
+msgid "Options"
+msgstr "选项"
+
+#. MENU_TITLE_STORAGE
+msgid "Storage"
+msgstr "背包"
+
+#. INVENTORY_SWAP
+msgid "Swap Items"
+msgstr "转交物品"
+
+#. INVENTORY_DESCRIPTION
+msgid "Description"
+msgstr "描述"
+
+#. INVENTORY_ACTION_GIVE
+msgid "Give"
+msgstr "转交"
+
+#. INVENTORY_ACTION_SORT
+msgid "Sort"
+msgstr "分类"
+
+#. INVENTORY_ACTION_DROP
+msgid "Drop"
+msgstr "丢弃"
+
+#. INVENTORY_ACTION_USE
+msgid "Use"
+msgstr "使用"
+
+#. INVENTORY_ACTION_EQUIP
+msgid "Equip"
+msgstr "装备"
+
+#. INVENTORY_ACTION_UNEQUIP
+msgid "Unequip"
+msgstr "卸下"
+
+#. INVENTORY_ACTION_GIVE_TARGET
+msgid "To whom?"
+msgstr "给谁？"
+
+#. INVENTORY_ACTION_USE_TARGET
+msgid "On whom?"
+msgstr "为谁？"
+
+#. INVENTORY_ACTION_TARGET
+msgid "Who?"
+msgstr "对谁？"
+
+#. INVENTORY_ACTION_TARGET_ALL
+msgid "All"
+msgstr "全部"
+
+#. INVENTORY_ACTION_SORT_HOW
+msgid "How?"
+msgstr "如何？"
+
+#. INVENTORY_ACTION_SORT_MANUAL
+msgid "Manual"
+msgstr "手动"
+
+#. INVENTORY_ACTION_SORT_AUTO
+msgid "Auto"
+msgstr "自动"
+
+#. INVENTORY_ACTION_EQUIP_CONFIRM
+msgid "Equip?"
+msgstr "装备？"
+
+#. INVENTORY_ACTION_SWAP_CONFIRM
+msgid "Swap?"
+msgstr "交换？"
+
+#. INVENTORY_ACTION_DROP_CONFIRM
+msgid "Drop?"
+msgstr "丢弃？"
+
+#. INVENTORY_ITEM_USES_TOTAL
+msgid "{value} uses."
+msgstr "{value}使用。"
+
+#. INVENTORY_ITEM_USES_LEFT
+msgid "{value} use{v0} left."
+msgstr "已用{value} 剩余{v0}"
+
+#. ATM_BALANCE
+msgid "Balance"
+msgstr "余额"
+
+#. ATM_ONHAND
+msgid "On Hand"
+msgstr "持有"
+
+#. ATM_WITHDRAW
+msgid "Withdraw"
+msgstr "取款"
+
+#. ATM_DEPOSIT
+msgid "Deposit"
+msgstr "存款"
+
+#. SHOP_SHOP
+msgid "Shop"
+msgstr "商店"
+
+#. SHOP_BUY
+msgid "Buy"
+msgstr "购买"
+
+#. SHOP_SELL
+msgid "Sell"
+msgstr "出售"
+
+#. SHOP_ASK_BUY
+msgid "Buy {i3}{item}?"
+msgstr "购买 {i3} {item}？"
+
+#. SHOP_ASK_EQUIP
+msgid "Equip now?"
+msgstr "现在装备？"
+
+#. SHOP_ASK_SELL_OLD
+msgid "Sell your old {item}?"
+msgstr "要出售你的旧 {item}吗？"
+
+#. SHOP_ASK_SELL
+msgid "Sell your {item}?"
+msgstr "要出售你的{item}吗？"
+
+#. SHOP_ASK_SELL_FOR_SPACE
+msgid "Your inventory is full.\\nSell your {item}?"
+msgstr "你的库存已满。\\n要出售你的{item}吗？"
+
+#. SHOP_ASK_SELL_FOR_CASH
+msgid "You don't have enough cash.\\nSell something?"
+msgstr "你没有足够的现金。\\n要出售些物品吗？"
+
+#. TRANSACTION_ASK_UNEQUIP
+msgid "Unequip {i1}{item}?"
+msgstr "卸下{i1}{item}?"
+
+#. TRANSACTION_FULL
+msgid "Your inventory is full."
+msgstr "你的库存已满。"
+
+#. TRANSACTION_STORAGE_FULL
+msgid "The storage is full."
+msgstr "你的存储已满。"
+
+#. PSI_WHOM
+msgid "To whom?"
+msgstr "给谁？"
+
+#. PSI_CONFIRM
+msgid "You sure?"
+msgstr "你确定吗？"
+
+#. PSI_PP_NOTENOUGH
+msgid "Not enough PP!"
+msgstr "没有足够的PP！"
+
+#. PSI_HP_MAXEDOUT
+msgid "{target}'s HP was maxed out!"
+msgstr "{target}的HP回满了！"
+
+#. PSI_HP_RECOVERED
+msgid "{target} recovered {value} HP!"
+msgstr "{target}回复了{value}点HP！"
+
+#. PSI_STATUS_HEALED
+msgid "{target} was healed of {0}!"
+msgstr "{target}的{0}状态被解除了！"
+
+#. PSI_STATUS_FULL
+msgid "{target} was healed of all statuses!"
+msgstr "{target}所有的异常状态消失了！"
+
+#. TELEPORT_WHERE
+msgid "Where to?"
+msgstr "去哪？"
+
+#. TITLE_FNKEYS
+msgid "{0} – Fullscreen\\n{1} – Window Size"
+msgstr "{0} – 全屏\\n{1} – 窗口大小"
+
+#. TITLE_DEMO
+msgid "Demo"
+msgstr "演示版"
+
+#. TITLE_INTRO_1
+msgid "Originally Produced by"
+msgstr "原游戏出品"
+
+#. TITLE_INTRO_2
+msgid "Originally Presented by"
+msgstr "原游戏制作"
+
+#. TITLE_INTRO_3
+msgid "Presented by"
+msgstr "游戏制作"
+
+#. TITLE_INTRO_SWAP_LINES
+msgid ",,"
+msgstr ",,"
+
+#. OPTIONS_FILESETTINGS
+msgid "File settings"
+msgstr "存档设置"
+
+#. OPTIONS_SETTINGS
+msgid "Settings"
+msgstr "游戏设置"
+
+#. OPTIONS_TITLESCREEN
+msgid "Return to Title Screen"
+msgstr "返回标题界面"
+
+#. OPTIONS_QUIT
+msgid "Close game"
+msgstr "关闭游戏"
+
+#. OPTIONS_RESOLUTION
+msgid "Window resolution"
+msgstr "窗口分辨率"
+
+#. OPTIONS_FULLSCREEN
+msgid "Fullscreen"
+msgstr "全屏"
+
+#. OPTIONS_LANGUAGE
+msgid "Language"
+msgstr "语言"
+
+#. OPTIONS_LANGUAGE_EN
+msgid "English"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_FR
+msgid "Français"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_ES
+msgid "Español latino"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_ES_ES
+msgid "Español castellano"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_JA
+msgid "にほんご"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_KO
+msgid "한국어"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_IT
+msgid "Italiano"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_PL
+msgid "Polski"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_PT_BR
+msgid "Português brasileiro"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_DE
+msgid "Deutsch"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_RU
+msgid "Русский"
+msgstr ""
+
+#. OPTIONS_LANGUAGE_UK
+msgid "Українська"
+msgstr ""
+
+#. LANGUAGE_CODE
+msgid "en"
+msgstr "zh_CN"
+
+#. OPTIONS_TITLESCREEN_CONFIRM
+msgid "Return to title screen?\\nAny unsaved progress will be lost."
+msgstr "返回标题画面？\\n任何未保存的进度将会丢失。"
+
+#. OPTIONS_QUIT_CONFIRM
+msgid "Close the game?\\nAny unsaved progress will be lost."
+msgstr "关闭游戏？\\n任何未保存的进度将会丢失。"
+
+#. OPTIONS_VOLUME
+msgid "Volume"
+msgstr "音量"
+
+#. OPTIONS_VOLUME_MUSIC
+msgid "Music Volume"
+msgstr "音乐音量"
+
+#. OPTIONS_VOLUME_SFX
+msgid "SFX Volume"
+msgstr "音效音量"
+
+#. OPTIONS_CONTROLS
+msgid "Controls"
+msgstr "控制"
+
+#. OPTIONS_ON
+msgid "On"
+msgstr "开"
+
+#. OPTIONS_OFF
+msgid "Off"
+msgstr "关"
+
+#. KEYBOARD_ESCAPE
+msgid "Esc"
+msgstr "Esc"
+
+#. KEYBOARD_TAB
+msgid "Tab"
+msgstr "Tab"
+
+#. KEYBOARD_BACKSPACE
+msgid "BKSP"
+msgstr "BKSP"
+
+#. KEYBOARD_ENTER
+msgid "Enter"
+msgstr "Enter"
+
+#. KEYBOARD_INSERT
+msgid "Insert"
+msgstr "Insert"
+
+#. KEYBOARD_DELETE
+msgid "Del"
+msgstr "Del"
+
+#. KEYBOARD_PAUSE
+msgid "Pause"
+msgstr "Pause"
+
+#. KEYBOARD_HOME
+msgid "Home"
+msgstr "Home"
+
+#. KEYBOARD_END
+msgid "End"
+msgstr "End"
+
+#. KEYBOARD_PAGEUP
+msgid "PgUp"
+msgstr "PgUp"
+
+#. KEYBOARD_PAGEDOWN
+msgid "PgDn"
+msgstr "PgDn"
+
+#. KEYBOARD_SHIFT
+msgid "Shift"
+msgstr "Shift"
+
+#. KEYBOARD_CONTROL
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. KEYBOARD_META
+msgid "Meta"
+msgstr "Meta"
+
+#. KEYBOARD_COMMAND
+msgid "Cmd"
+msgstr "Cmd"
+
+#. KEYBOARD_ALT
+msgid "Alt"
+msgstr "Alt"
+
+#. KEYBOARD_SUPER_L
+msgid "Super L"
+msgstr "超级L键"
+
+#. KEYBOARD_SUPER_R
+msgid "Super R"
+msgstr "超级R键"
+
+#. KEYBOARD_MENU
+msgid "Menu"
+msgstr "{target}不再恶心了！"
+
+#. KEYBOARD_SPACE
+msgid "Space"
+msgstr "空格"
+
+#. CONTROLS_HEADER_MOVEMENT
+msgid "Movement"
+msgstr "移动"
+
+#. CONTROLS_UP
+msgid "Up"
+msgstr "上"
+
+#. CONTROLS_DOWN
+msgid "Down"
+msgstr "下"
+
+#. CONTROLS_LEFT
+msgid "Left"
+msgstr "左"
+
+#. CONTROLS_RIGHT
+msgid "Right"
+msgstr "右"
+
+#. CONTROLS_HEADER_ACTIONS
+msgid "Actions"
+msgstr "操作"
+
+#. CONTROLS_INTERACT
+msgid "Interact/Accept"
+msgstr "互动/确定"
+
+#. CONTROLS_SKILL
+msgid "Skill/Cancel"
+msgstr "技能/取消"
+
+#. CONTROLS_RUN
+msgid "Crouch/Run"
+msgstr "蹲伏/奔跑"
+
+#. CONTROLS_SCOPE
+msgid "Scope/Description"
+msgstr "范围/描述"
+
+#. CONTROLS_PREV
+msgid "Previous"
+msgstr "上一个"
+
+#. CONTROLS_NEXT
+msgid "Next"
+msgstr "下一个"
+
+#. CONTROLS_MENU
+msgid "Menu"
+msgstr "菜单"
+
+#. CONTROLS_HEADER_MISC
+msgid "Others"
+msgstr "其他"
+
+#. CONTROLS_FULLSCREEN
+msgid "Fullscreen"
+msgstr "全屏"
+
+#. CONTROLS_WINDOW_SIZE
+msgid "Window Size"
+msgstr "窗口大小"
+
+#. CONTROLS_RUMBLE
+msgid "Rumble"
+msgstr "震动"
+
+#. CONTROLS_BUTTON_STYLE
+msgid "Button Naming"
+msgstr "按钮样式"
+
+#. CONTROLS_BUTTON_STYLE_NINTENDO
+msgid "Nintendo Style"
+msgstr "任天堂"
+
+#. CONTROLS_BUTTON_STYLE_PLAYSTATION
+msgid "PlayStation Style"
+msgstr "PlayStation"
+
+#. CONTROLS_BUTTON_STYLE_XBOX
+msgid "Xbox Style"
+msgstr "Xbox"
+
+#. CONTROLS_BUTTON_STYLE_DETECT
+msgid "Auto Detect"
+msgstr "自动检测"
+
+#. CONTROLS_DEFAULT
+msgid "Reset to defaults"
+msgstr "恢复默认设置"
+
+#. CONTROLS_DEFAULT_CONFIRM
+msgid "Reset to default controls?"
+msgstr "恢复默认控制？"
+
+#. CONTROLS_PRESS_KEY
+msgid "Press any key to rebind."
+msgstr "按下任意按键以重新绑定键位。"
+
+#. CONTROLS_PRESS_BUTTON
+msgid "Press any button to rebind."
+msgstr "按下任意按键以重新绑定键位。"
+
+#. CONTROLS_PRESS_DUPLICATE_KEY
+msgid "This key is already assigned to another action."
+msgstr "该按键已经被分配给其它操作了。"
+
+#. CONTROLS_PRESS_DUPLICATE_BUTTON
+msgid "This button is already assigned to another action."
+msgstr "该按键已经被分配给其它操作了。"
+
+#. AILMENT_ASTHMA
+msgid "Asthma"
+msgstr "哮喘"
+
+#. AILMENT_BLINDED
+msgid "Blinded"
+msgstr "失明"
+
+#. AILMENT_BURNED
+msgid "Burned"
+msgstr "灼烧"
+
+#. AILMENT_COLD
+msgid "Cold"
+msgstr "感冒"
+
+#. AILMENT_CONFUSED
+msgid "Confused"
+msgstr "混乱"
+
+#. AILMENT_FORGETFUL
+msgid "Forgetful"
+msgstr "健忘"
+
+#. AILMENT_NAUSEA
+msgid "Nausea"
+msgstr "恶心"
+
+#. AILMENT_NUMB
+msgid "Numb"
+msgstr "麻痹"
+
+#. AILMENT_POISONED
+msgid "Poisoned"
+msgstr "中毒"
+
+#. AILMENT_SLEEPING
+msgid "Sleeping"
+msgstr "昏睡"
+
+#. AILMENT_STONE
+msgid "Stone"
+msgstr "石化"
+
+#. AILMENT_SUNSTROKED
+msgid "Sunstroked"
+msgstr "中暑"
+
+#. AILMENT_MUSHROOMIZED
+msgid "Mushroomized"
+msgstr "蘑菇化"
+
+#. AILMENT_UNCONSCIOUS
+msgid "Unconscious"
+msgstr "昏迷"
+
+#. INLINE_STAT_OFFENSE
+msgid "Offense"
+msgstr "攻击力"
+
+#. INLINE_STAT_DEFENSE
+msgid "Defense"
+msgstr "防御力"
+
+#. INLINE_STAT_SPEED
+msgid "Speed"
+msgstr "速度"
+
+#. INLINE_STAT_IQ
+msgid "IQ"
+msgstr "智力"
+
+#. INLINE_STAT_GUTS
+msgid "Guts"
+msgstr "胆量"
+
+#. INLINE_STAT_HP
+msgid "HP"
+msgstr "HP"
+
+#. INLINE_STAT_PP
+msgid "PP"
+msgstr "PP"
+
+#. INLINE_STAT_MAXHP
+msgid "maximum HP"
+msgstr "最大HP"
+
+#. INLINE_STAT_MAXPP
+msgid "maximum PP"
+msgstr "最大PP"
+
+#. INLINE_STAT_OFFENSE_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_DEFENSE_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_SPEED_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_IQ_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_GUTS_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_MAXHP_ARTICLE
+msgid ","
+msgstr "，"
+
+#. INLINE_STAT_MAXPP_ARTICLE
+msgid ","
+msgstr "，"
+
+#. ACTION_RESULT_HP_UP
+msgid "{target} recovered {value} HP!"
+msgstr "{target}回复了{value}点HP！"
+
+#. ACTION_RESULT_HP_MAX
+msgid "{target}'s HP was maxed out!"
+msgstr "{target}的HP回满了！"
+
+#. ACTION_RESULT_PP_UP
+msgid "{target} recovered {value} PP!"
+msgstr "{target}回复了{value}点PP！"
+
+#. ACTION_RESULT_PP_MAX
+msgid "{target}'s PP was maxed out!"
+msgstr "{target}的PP回满了！"
+
+#. ACTION_RESULT_STAT_UP
+msgid "{target}'s {stat} increased by {value}!"
+msgstr "{target}的{stat}提高了{value}点！"
+
+#. ACTION_RESULT_HEAL_ASTHMA
+msgid "{target}'s asthma attack went away!"
+msgstr "{target}停止哮喘了！"
+
+#. ACTION_RESULT_HEAL_BLINDED
+msgid "{target} could see again!"
+msgstr "{target}又能看见东西了！"
+
+#. ACTION_RESULT_HEAL_BURNED
+msgid "{target}'s burns went away!"
+msgstr "{target}不再受灼烧了！"
+
+#. ACTION_RESULT_HEAL_COLD
+msgid "{target}'s cold went away!"
+msgstr "{target}的感冒痊愈了！"
+
+#. ACTION_RESULT_HEAL_CONFUSED
+msgid "{target} returned to {t4} senses!"
+msgstr "{target}恢复了对{t4}的感知！"
+
+#. ACTION_RESULT_HEAL_FORGETFUL
+msgid "{target} regained {t4} memory!"
+msgstr "{target}回忆起了{t4}！"
+
+#. ACTION_RESULT_HEAL_MUSHROOMIZED
+msgid "The mushroom fell off {target}'s head!"
+msgstr "蘑菇从{target}的头上掉了下来！"
+
+#. ACTION_RESULT_HEAL_NAUSEA
+msgid "{target} is no longer nauseous!"
+msgstr "{target}不再恶心了！"
+
+#. ACTION_RESULT_HEAL_NUMB
+msgid "{target} was able to move again!"
+msgstr "{target}现在又可以移动了！"
+
+#. ACTION_RESULT_HEAL_POISONED
+msgid "The poison was removed from {target}'s body!"
+msgstr "{target}身上的毒素被清除了！"
+
+#. ACTION_RESULT_HEAL_SLEEPING
+msgid "{target} woke up!"
+msgstr "{target}醒来了！"
+
+#. ACTION_RESULT_HEAL_STONE
+msgid "{target} softened up!"
+msgstr "{target}软化了！"
+
+#. ACTION_RESULT_HEAL_SUNSTROKED
+msgid "{target} no longer has sunstroke!"
+msgstr "{target}解暑了！"
+
+#. ACTION_RESULT_HEAL_UNCONSCIOUS
+msgid "{target} was revived!"
+msgstr "{target}复活了！"
+
+#. ACTION_RESULT_HEAL_ASTHMA_FAIL
+msgid "{target} does not have asthma."
+msgstr "{target}并未患有哮喘。"
+
+#. ACTION_RESULT_HEAL_BLINDED_FAIL
+msgid "{target} is not blinded."
+msgstr "{target}不再失明。"
+
+#. ACTION_RESULT_HEAL_BURNED_FAIL
+msgid "{target} is not burning."
+msgstr "{target}不再受灼烧。"
+
+#. ACTION_RESULT_HEAL_COLD_FAIL
+msgid "{target} doesn't have a cold."
+msgstr "{target}不再感冒。"
+
+#. ACTION_RESULT_HEAL_CONFUSED_FAIL
+msgid "{target} is not confused."
+msgstr "{target}不再混乱。"
+
+#. ACTION_RESULT_HEAL_FORGETFUL_FAIL
+msgid "{target} is not forgetful."
+msgstr "{target}不再健忘。"
+
+#. ACTION_RESULT_HEAL_MUSHROOMIZED_FAIL
+msgid "{target} doesn't have a mushroom on {t4} head."
+msgstr "{target}{t4}头上不再有蘑菇。"
+
+#. ACTION_RESULT_HEAL_NAUSEA_FAIL
+msgid "{target} doesn't feel nauseous."
+msgstr "{target}不再恶心。"
+
+#. ACTION_RESULT_HEAL_NUMB_FAIL
+msgid "{target} is not numb."
+msgstr "{target}不再麻痹。"
+
+#. ACTION_RESULT_HEAL_POISONED_FAIL
+msgid "{target} is not poisoned."
+msgstr "{target}不再中毒。"
+
+#. ACTION_RESULT_HEAL_SLEEPING_FAIL
+msgid "{target} is not sleeping."
+msgstr "{target}不再睡觉。"
+
+#. ACTION_RESULT_HEAL_STONE_FAIL
+msgid "{target} hasn't been turned into stone."
+msgstr "{target}不再被石化。"
+
+#. ACTION_RESULT_HEAL_SUNSTROKED_FAIL
+msgid "{target} does not suffer from sunstroke."
+msgstr "{target}不再中暑。"
+
+#. ACTION_RESULT_HEAL_NONE
+msgid "It has no effect on {target}."
+msgstr "它对{target}无效。"
+
+#. ACTION_RESULT_HEAL_ALL
+msgid "{target} was healed of all statuses!"
+msgstr "{target}所有的异常状态消失了！"
+
+#. ACTION_RESULT_TRANSFORM_BREAD
+msgid "The Bread turned into Crumbs!"
+msgstr "面包变成了碎屑！"
+
+#. ACTION_RESULT_FAIL_CANDY
+msgid "{target} won't eat {i1}{item}."
+msgstr "{target}不会吃{i1}{item}。"
+
+#. ACTION_RESULT_FAIL_CAPSULE
+msgid "{target} won't swallow {i1}{item}."
+msgstr "{target}不会吞下{i1}{item}。"
+
+#. INLINE_AILMENT_ASTHMA
+msgid "Asthma"
+msgstr "哮喘"
+
+#. INLINE_AILMENT_BLINDED
+msgid "Blind"
+msgstr "失明"
+
+#. INLINE_AILMENT_BURNED
+msgid "Burned"
+msgstr "灼烧"
+
+#. INLINE_AILMENT_COLD
+msgid "Cold"
+msgstr "感冒"
+
+#. INLINE_AILMENT_CONFUSED
+msgid "Confused"
+msgstr "混乱"
+
+#. INLINE_AILMENT_FORGETFUL
+msgid "Forgetful"
+msgstr "健忘"
+
+#. INLINE_AILMENT_NAUSEA
+msgid "Nausea"
+msgstr "恶心"
+
+#. INLINE_AILMENT_NUMB
+msgid "Numb"
+msgstr "麻痹"
+
+#. INLINE_AILMENT_POISONED
+msgid "Poisoned"
+msgstr "中毒"
+
+#. INLINE_AILMENT_SLEEPING
+msgid "Sleeping"
+msgstr "昏睡"
+
+#. INLINE_AILMENT_SUNSTROKED
+msgid "Sunstroked"
+msgstr "中暑"
+
+#. INLINE_AILMENT_MUSHROOMIZED
+msgid "Mushroomized"
+msgstr "蘑菇化"
+
+#. INLINE_AILMENT_UNCONSCIOUS
+msgid "Unconscious"
+msgstr "昏迷"
+
+#. ARTICLES_NUMBERS
+msgid "[plur_num:{0}::s]"
+msgstr "[plur_num:{0}::s]"
+
+#. WORD_SEPARATOR
+msgid " "
+msgstr ""
+
+#. $_LEFT
+msgid "$ "
+msgstr "$"
+
+#. $_RIGHT
+msgid "​"
+msgstr ""
+
+#. SYMBOL_BULLET_MAIN
+msgid "@ "
+msgstr "@"
+
+#. SYMBOL_BULLET_BATTLE
+msgid "@ "
+msgstr "@"
+
+#. SYMBOL_BULLET_NAMING
+msgid "@"
+msgstr "@"
+
+#. SYMBOL_DOT
+msgid "`"
+msgstr "`"
+
+#. SYMBOL_ELLIPIS
+msgid "…"
+msgstr "···"
+
+#. OPTIONS_LANGUAGE_ZH_CN
+msgid "简体中文"
+msgstr ""
+
