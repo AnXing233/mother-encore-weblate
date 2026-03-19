@@ -1,0 +1,1520 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_PODUNK_ABBOT_0
+msgid "[@]I'm Abbott, not the Mayor.[WAIT@]But with the way things are going now, I might as well be.[WAIT@]I do almost all of the work around here![WAIT@]If you want to see Mayor Goodman, go to the room to your left."
+msgstr "[@]我叫阿博特，不是市长。[WAIT@]但照现在的情况来看，我倒不如说我就是市长。[WAIT@]这里几乎所有的工作都是我在做！[WAIT@]如果你想见古德曼市长，请去左边的房间。"
+
+#. DIALOGUE_PODUNK_ABBOT_2_0
+msgid "[@]Hey, [Ninten]![WAIT@]How are you doing?[WAIT@]I'm thinking of running for the elections.[WAIT@]The Mayor's getting too old for his job.[WAIT@]It's about time we have someone younger in charge."
+msgstr "[@]嘿，[Ninten]！[WAIT@]你在干什么？[WAIT@]我在思考参加选举的事。[WAIT@]市长年事已高，已经没法胜任这项工作了。[WAIT@]是时候让年轻人来负责了。"
+
+#. DIALOGUE_PODUNK_ABBOT_SPEAKER_Abbott
+msgid "Abbott"
+msgstr "Abbott"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_0
+msgid "[@]Wow! That canary is singing Laura's baby.[WAIT@]Will you return her baby to her?"
+msgstr "[@]哇！那只金丝雀是Laura的孩子。[WAIT@]你要还给她吗？"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_1-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_1-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_2
+msgid "[@]Great![WAIT@]Now you just have to find her.[WAIT@]If I remember correctly, Laura lives in one of the white bird houses."
+msgstr "[@]太棒了！[WAIT@]你只需要找到她就行了。[WAIT@]如果我没记错，Laura住在一个白色鸟屋里。"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_5
+msgid "[@]You can't just keep it as a pet!"
+msgstr "[@]你不能把它当宠物养！"
+
+#. DIALOGUE_PODUNK_ALFRED_BABY_SPEAKER_Alfred
+msgid "Alfred"
+msgstr "Alfred"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_0
+msgid "[@]Laura remembered her song, and began to sing once more.[WAIT@]Did you learn the melody?"
+msgstr "[@]Laura想起了她的歌，并开始唱出它来。[WAIT@]你学会这段旋律了吗？"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_1-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_1-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_2
+msgid "[@]That's no good."
+msgstr "[@]不是很好。"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_3
+msgid "[@]I heard that a long time ago, the canaries of this village didn't sing.[WAIT@]Well, that was until a man with an ocarina showed up, and started playing a lullaby to the canaries of this village.[WAIT@]There was also a woman who let her singing pet canaries loose in the village.[WAIT@]Together, they managed to turn this quiet village into a lively one."
+msgstr "[@]我听说很久以前，这个村里的金丝雀不唱歌。[WAIT@]直到一个吹笛的男人出现，他为村里的金丝雀演奏了一首摇篮曲。[WAIT@]还有一个女人把她会唱歌的宠物金丝雀放到了村里。[WAIT@]他们齐心协力，把这个安静的村庄变成了一个热闹的村庄。"
+
+#. DIALOGUE_PODUNK_ALFRED_SONG_SPEAKER_Alfred
+msgid "Alfred"
+msgstr "Alfred"
+
+#. DIALOGUE_PODUNK_ALFRED_WEATHER_0
+msgid "[@]It's fine weather today.[WAIT@]But... I don't care.[WAIT@]You see, the famous Songbird Laura just lost her baby...[WAIT@]What? No, it's not dead.[WAIT@]Some jerks just stole it.[WAIT@]And now, none of the birds want to sing.[WAIT@]At this rate, no-one will want to visit Canary Village anymore..."
+msgstr "[@]今天天气真好。[WAIT@]但...我不在乎。[WAIT@]你看，著名鸣鸟Laura的孩子丢了...[WAIT@]什么？不，它还没死。一些混蛋刚刚偷了它。[WAIT@]现在，没有鸟想唱歌了。[WAIT@]这样下去，没人会想参观金丝雀村庄了..."
+
+#. DIALOGUE_PODUNK_ALFRED_WEATHER_SPEAKER_Alfred
+msgid "Alfred"
+msgstr "Alfred"
+
+#. DIALOGUE_PODUNK_ALFRED_WORK_0
+msgid "[@]It might surprise you, but I don't actually work here.[WAIT@]I've been visiting this place for 30 years, and people keep asking me if they can feed the birds.[WAIT@]The answer is no, but it's still annoying."
+msgstr "[@]你可能很惊讶，但实际上我不在这工作。[WAIT@]我已经来这个地方30年了，人们一直问我他们能不能喂鸟。[WAIT@]我一直拒绝，但这还是很烦人。"
+
+#. DIALOGUE_PODUNK_ALFRED_WORK_SPEAKER_Alfred
+msgid "Alfred"
+msgstr "Alfred"
+
+#. DIALOGUE_PODUNK_ALICE_0
+msgid "[@]Heya! Did you know that not only you can eat Bread, but you can also [color]turn it into Crumbs[/color]?[WAIT@]If you use the Crumbs in a fight, you can [color]instantly escape from battle[/color].[WAIT@]I heard long ago, people would use them to go back on their tracks when they got lost.[WAIT@]Though, they tended to attract bugs and cause problems, so people stopped doing that.[WAIT@]Rumor says some guy even got lost in a ghost town where everything's white."
+msgstr "[@]嘿呀！你知道吗你不仅可以吃面包，你还能[color]把它们变成面包屑[/color]？[WAIT@]如果你在战斗中使用面包屑，你可以[color]立刻从战斗中逃脱[/color]。[WAIT@]我听说很久以前，我听说很久以前，当人们迷路时，他们会使用面包屑以回归正道。[WAIT@]然而，面包屑往往会吸引虫子是个问题，所以人们不再这样做了。[WAIT@]谣言说有人甚至在一个鬼城迷路了，那里一切都是白色的。"
+
+#. DIALOGUE_PODUNK_ALICE_SPEAKER_Alice
+msgid "Alice"
+msgstr "Alice"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_0
+msgid "[@]Grrr."
+msgstr "[@]啊啊啊。"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_SPEAKER_Alligator
+msgid "Alligator"
+msgstr "鳄鱼"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_THOUGHTS_1_0
+msgid "[@](Honestly, you're the one who provoked me, but I forgive you.)"
+msgstr "[@]（之前你确实是激怒我了，但我原谅你。）"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_THOUGHTS_1_SPEAKER_Alligator
+msgid "Alligator"
+msgstr "鳄鱼"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_THOUGHTS_2_0
+msgid "[@](Are you angry at me? I'm sorry you feel that way.)"
+msgstr "[@]（你在生我气吗？很抱歉惹你生气。）"
+
+#. DIALOGUE_PODUNK_ALLIGATOR_THOUGHTS_2_SPEAKER_Alligator
+msgid "Alligator"
+msgstr "鳄鱼"
+
+#. DIALOGUE_PODUNK_BELLE_0
+msgid "[@]This place is such an amazing deal.[WAIT@]I'll never sleep at home again."
+msgstr "[@]这地方的性价比太高了。[WAIT@]我再也不会在家睡觉了。"
+
+#. DIALOGUE_PODUNK_BELLE_SPEAKER_Belle
+msgid "Belle"
+msgstr "靓女"
+
+#. DIALOGUE_PODUNK_BRITANNY_0
+msgid "[@]Did a poltergeist attack your house?[WAIT@]It tore mine apart."
+msgstr "[@]有没有捣蛋鬼袭击你家的房子？[WAIT@]我家的房子已经被拆烂了。"
+
+#. DIALOGUE_PODUNK_BRITANNY_SPEAKER_Britanny
+msgid "Britanny"
+msgstr "Britanny"
+
+#. DIALOGUE_PODUNK_BRITANNY_2_0
+msgid "[@]Apparently poltergeist attacks aren't covered by insurance.[WAIT@]How dreadful..."
+msgstr "[@]明显被恶作剧攻击是除外责任。[WAIT@]太可怕了..."
+
+#. DIALOGUE_PODUNK_BRITANNY_2_SPEAKER_Britanny
+msgid "Britanny"
+msgstr "Britanny"
+
+#. DIALOGUE_PODUNK_BURGER_TOILET_0
+msgid "[@]I bought a hamburger, but it was actually a cheeseburger.[WAIT@]The worst part is that I'm lactose intolerant."
+msgstr "[@]我买了个牛肉堡，但这实际上是个芝士堡。[WAIT@]最糟的事我接受不了乳糖。"
+
+#. DIALOGUE_PODUNK_BURGER_TOILET_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_CANARY_CHICK_THOUGHTS_0
+msgid "[@](Yay! Yay! I am with momma!)"
+msgstr "[@]（耶！耶！我和妈妈在一起！）"
+
+#. DIALOGUE_PODUNK_CANARY_CHICK_THOUGHTS_SPEAKER_Canary
+msgid "Canary"
+msgstr "金丝雀"
+
+#. DIALOGUE_PODUNK_CANARY_SING_0
+msgid "[@]This canary is singing!"
+msgstr "[@]这只金丝雀在唱歌！"
+
+#. DIALOGUE_PODUNK_CANARY_SPEECHLESS_0
+msgid "[@]..."
+msgstr "[@]..."
+
+#. DIALOGUE_PODUNK_CANARY_SPEECHLESS_SPEAKER_Canary
+msgid "Canary"
+msgstr "金丝雀"
+
+#. DIALOGUE_PODUNK_CANARY_THOUGHTS_1_0
+msgid "[@](I hope Laura is doing okay.)"
+msgstr "[@]（但愿Laura没事。）"
+
+#. DIALOGUE_PODUNK_CANARY_THOUGHTS_1_SPEAKER_Canary
+msgid "Canary"
+msgstr "金丝雀"
+
+#. DIALOGUE_PODUNK_CANARY_THOUGHTS_2_0
+msgid "[@](Everyone's singing again!)"
+msgstr "[@](所有鸟又开始唱歌了！）"
+
+#. DIALOGUE_PODUNK_CANARY_THOUGHTS_2_SPEAKER_Canary
+msgid "Canary"
+msgstr "金丝雀"
+
+#. DIALOGUE_PODUNK_CAROL_CALL_0
+msgid "[@]Are you okay, [Ninten]?[WAIT@]What on earth is happening to our home?[WAIT@]I'm so scared..."
+msgstr "[@]你还好吗，[Ninten]?[WAIT@]我们家到底发生了什么?[WAIT@]我好害怕..."
+
+#. DIALOGUE_PODUNK_CAROL_CALL_3
+msgid "[@]If only your father were here now..."
+msgstr "[@]如果你爸爸在这就好了..."
+
+#. DIALOGUE_PODUNK_CAROL_CALL_6
+msgid "[@]Oh! That must be him."
+msgstr "[@]哦！那肯定是他。"
+
+#. DIALOGUE_PODUNK_CAROL_CALL_7
+msgid "[@]Could you get it, [Ninten]?"
+msgstr "[@]你要接吗，[Ninten]？"
+
+#. DIALOGUE_PODUNK_CAROL_CALL_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_FOOD_0
+msgid "[@]Oh [Ninten], you're much braver than I could ever imagine.[WAIT@]You must be exhausted.[WAIT@]Here, I'll make you some [FavFood].[WAIT@]You can eat here and rest for the night."
+msgstr "[@]哦[Ninten]，你比我想的要勇敢。[WAIT@]你一定累坏了。[WAIT@]在这，我将会给你做些[FavFood]。[WAIT@]你可以留下吃饭和过夜。"
+
+#. DIALOGUE_PODUNK_CAROL_FOOD_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_GOT_KEY_0
+msgid "[@]Take anything you want from the basement.[WAIT@]I'm sure it will be useful to you."
+msgstr "[@]你可以拿走地下室里任何你想要的东西。[WAIT@]我确信里面会有对你来说有用的东西的。"
+
+#. DIALOGUE_PODUNK_CAROL_GOT_KEY_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_KEY_0
+msgid "[@]So you're leaving, huh?[WAIT@]I guess all boys have to leave home someday...[WAIT@]If you want to know where I put the [color]Basement Key[/color], I gave it to [color]Mick.[/color][WAIT@]Don't tell Mimmie, though."
+msgstr "[@]你要走了，是吗？[WAIT@]我猜所有男孩都总有一天都要离开家...[WAIT@]如果你想知道我把[color]地下室钥匙[/color]放在哪里了，我把它给了[color]Mick[/color]。[WAIT@]不过，别告诉 Mimmie。"
+
+#. DIALOGUE_PODUNK_CAROL_KEY_4
+msgid "[@]I made sure to keep all the Orange Juice away from her."
+msgstr "[@]我得确保她不能接近任何橙汁。"
+
+#. DIALOGUE_PODUNK_CAROL_KEY_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_KEY_AGAIN_0
+msgid "[@]I gave the [color]Basement Key[/color] to [color]Mick.[/color][WAIT@]Don't tell Mimmie, though.[WAIT@]I made sure to keep all the Orange Juice away from her."
+msgstr "[@]我把[color]地下室钥匙[/color]给了[color]Mick[/color]。[WAIT@]不过，别告诉[Mimmie]。[WAIT@]我得确保她接近不了任何[color]橙汁[/color]。"
+
+#. DIALOGUE_PODUNK_CAROL_KEY_AGAIN_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_PANIC_0
+msgid "[@]Are you okay, [Ninten]?[WAIT@]What on earth is happening to our home?[WAIT@]I'm so scared...[WAIT@]If only your father were here now..."
+msgstr "[@]你还好吗，[Ninten]？[WAIT@]我们的家到底怎么了？[WAIT@]我好害怕...[WAIT@]要是你爸爸现在在就好了..."
+
+#. DIALOGUE_PODUNK_CAROL_PANIC_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_PHONE_0
+msgid "[@]Telephone! [Ninten], would you please get it?"
+msgstr "[@]电话！[Ninten]，你能接一下吗？"
+
+#. DIALOGUE_PODUNK_CAROL_PHONE_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CAROL_RESTED_0
+msgid "[@]Did you have a good rest?[WAIT@]Whenever you want some more [FavFood], you're welcome to come home."
+msgstr "[@]休息好了吗？[WAIT@]无论什么时候，要是你想吃[FavFood]了，尽管回家就好。"
+
+#. DIALOGUE_PODUNK_CAROL_RESTED_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CELESTE_0
+msgid "[@]Dead people don't just get up and walk for no reason.[WAIT@]I bet someone's controlling them."
+msgstr "[@]死人不会无缘无故地起来游荡。[WAIT@]我敢打赌，是有人在控制他们。"
+
+#. DIALOGUE_PODUNK_CELESTE_SPEAKER_Celeste
+msgid "Celeste"
+msgstr "浅蓝色"
+
+#. DIALOGUE_PODUNK_CELESTE_2_0
+msgid "[@]Young man, you did well."
+msgstr "[@]年轻人，你做的很好。"
+
+#. DIALOGUE_PODUNK_CELESTE_2_SPEAKER_Celeste
+msgid "Celeste"
+msgstr "浅蓝色"
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_0
+msgid "[@][Ninten] picked up the phone."
+msgstr "[@][Ninten]拿起了听筒。"
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_1
+msgid "[@][Ninten]? It's your dad.[WAIT@]Hmm, I see. Sounds like it must be a poltergeist of some sort.[WAIT@]I'm not sure what to do about it either...[WAIT@]Oh, I remember![WAIT@]Your great-grandfather studied [color]PSI[/color] at one point.[WAIT@]He documented all of his research in a [color]diary[/color] of his."
+msgstr "[@][Ninten]? 这里是爸爸。[WAIT@]呣，我知道了。听起来一定是有人在恶作剧。[WAIT@]我也不知道该怎么办。[WAIT@]哦，我想起来了![WAIT@]你的曾祖父一度研究 [color]PSI[/color] 。[WAIT@]他把他所有的研究成果记录在一本[color]日记[/color] 里。"
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_7
+msgid "[@]We put all of his junk in the [color]basement[/color], but I think it's locked.[WAIT@]The [color]key[/color] shouldn't be too far..."
+msgstr "[@]我们把他所有的破烂都扔到[color]地下室[/color]去了，而我记得那里上了锁。[WAIT@]那把[color]钥匙[/color]应该不会太远..."
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_9
+msgid "[@]Anyway, you're our only hope![WAIT@]You've always dreamed about going on an adventure, haven't you?[WAIT@]Well, go forth and protect us all, [Ninten]![WAIT@]Oh, and if you ever need to [color]SAVE your progress[/color], don't forget to [color]call your dear old dad[/color]."
+msgstr "[@]无论如何，你就是我们唯一的希望了！[WAIT@]你一直梦想能去冒险，不是吗?[WAIT@]那么，去前进然后保护我们所有人吧，[Ninten]！[WAIT@]哦，如果你需要[color]存档[/color]，别忘了[color]给你亲爱的爸爸打个电话[/color]。"
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_13
+msgid "[@](Click! Beep-beep-beep...)"
+msgstr "[@]（咔嚓！ 嘟-嘟-嘟...）"
+
+#. DIALOGUE_PODUNK_DAD_POLTERGEIST_SPEAKER_Dad
+msgid "Dad"
+msgstr "爸爸"
+
+#. DIALOGUE_PODUNK_DAVE_0
+msgid "[@]Y-You aren't going to the cemetery, are you?[WAIT@]...There's word of zombies, so be careful."
+msgstr "[@]你-你不是要去墓地，对吧？[WAIT@]...听说那里有丧尸，要多加小心啊。"
+
+#. DIALOGUE_PODUNK_DAVE_SPEAKER_Dave
+msgid "Dave"
+msgstr "Dave"
+
+#. DIALOGUE_PODUNK_DAVE_2_0
+msgid "[@]You're terrific!"
+msgstr "[@]你真是了不起！"
+
+#. DIALOGUE_PODUNK_DAVE_2_SPEAKER_Dave
+msgid "Dave"
+msgstr "Dave"
+
+#. DIALOGUE_PODUNK_DAVID_0
+msgid "[@]I've got a weird disease where my coins keep disappearing.[WAIT@]The doctor says I have to stay away from arcades.[WAIT@]Who would've known I've got Pac-Man Fever."
+msgstr "[@]我得了一种很怪的病，症状是我口袋里的硬币会一个接一个地消失不见...[WAIT@]医生给我开的处方是让我远离游戏中心。[WAIT@]可谁能想得到我还患有吃豆人狂热？"
+
+#. DIALOGUE_PODUNK_DAVID_SPEAKER_David
+msgid "David"
+msgstr "David"
+
+#. DIALOGUE_PODUNK_DISGUISEDZOMBIE_0
+msgid "[@]Haha...[WAIT@]Fool...[WAIT@]Foolish fool...[WAIT@]You foolishly got lured into a false sense of security by my disguise..."
+msgstr "[@]哈哈...[WAIT@]傻瓜...[WAIT@]愚蠢的傻瓜...[WAIT@]你被我的伪装散发出的的虚假的安全感给骗到了..."
+
+#. DIALOGUE_PODUNK_DISGUISEDZOMBIE_4
+msgid "[@]Now... Prepare to become one of us, fool!"
+msgstr "[@]现在...准备好成为我们中的一员吧，傻瓜！"
+
+#. DIALOGUE_PODUNK_DISGUISEDZOMBIE_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_DOLL_0
+msgid "[@]It's not moving anymore."
+msgstr "[@]它不再动了。"
+
+#. DIALOGUE_PODUNK_DOLLMELODY_0
+msgid "[@]There's an old music box hidden inside the doll.[WAIT@][PartyLead] opened it.[WAIT@]A broken melody began to play."
+msgstr "[@]娃娃里面藏着一个旧的音乐盒。[WAIT@][PartyLead]打开了它。[WAIT@]一段破碎的旋律开始播放。"
+
+#. DIALOGUE_PODUNK_DOLLMELODY_4
+msgid "[@][PartyLead] remembered the tune."
+msgstr "[@][PartyLead]记住了那段旋律。"
+
+#. DIALOGUE_PODUNK_ELEPHANT_0
+msgid "[@]Toooot."
+msgstr "[@]噗---昂！"
+
+#. DIALOGUE_PODUNK_ELEPHANT_SPEAKER_John
+msgid "John"
+msgstr "John"
+
+#. DIALOGUE_PODUNK_ELEPHANT_THOUGHTS_0
+msgid "[@](I'm not the elephant I was a few minutes ago.)"
+msgstr "[@]（我不再是几分钟前的那头大象了。）"
+
+#. DIALOGUE_PODUNK_ELEPHANT_THOUGHTS_SPEAKER_John
+msgid "John"
+msgstr "John"
+
+#. DIALOGUE_PODUNK_EMMA_0
+msgid "[@]One of my friends got into a fight with a stray dog and fell unconscious.[WAIT@]Thankfully, the hospital was able to revive her in an instant!"
+msgstr "[@]我的一位朋友被一条流浪狗咬了后失去了意识。[WAIT@]幸运的是，医院能够瞬间将她救醒！"
+
+#. DIALOGUE_PODUNK_EMMA_SPEAKER_Emma
+msgid "Emma"
+msgstr "Emma"
+
+#. DIALOGUE_PODUNK_FREDERICK_0
+msgid "[@]The dead have come back to life down at the cemetery.[WAIT@]I think I'll take this opportunity to see my former wife again.[WAIT@]My current one just won't stop nagging me."
+msgstr "[@]墓地里的死人已经复活。[WAIT@]我想趁这个机会再看看我前妻。[WAIT@]我现在的妻子就只是在不停地唠叨我。"
+
+#. DIALOGUE_PODUNK_FREDERICK_SPEAKER_Frederick
+msgid "Frederick"
+msgstr "Frederick"
+
+#. DIALOGUE_PODUNK_GATE_MONKEY_0
+msgid "[@]EEE, EE EEK, EEK EEK!"
+msgstr "[@]咿咿咿，咿咿咿咿啊，咿咿啊咿啊！"
+
+#. DIALOGUE_PODUNK_GATE_MONKEY_1
+msgid "(Look, pal! Your momma's over there!)"
+msgstr "（快看，伙计！你的妈妈在那边！）"
+
+#. DIALOGUE_PODUNK_GATE_MONKEY_6
+msgid "[@]The monkey stole the Zoo Key!"
+msgstr "[@]猴子偷走了动物园钥匙！"
+
+#. DIALOGUE_PODUNK_GATE_MONKEY_SPEAKER_Monkey
+msgid "Monkey"
+msgstr "猴子"
+
+#. DIALOGUE_PODUNK_GORILLA_0
+msgid "[@]Oook ooh, ook."
+msgstr "[@]欧欧欧欧吼，欧欧啊。"
+
+#. DIALOGUE_PODUNK_GORILLA_SPEAKER_Gorilla
+msgid "Gorilla"
+msgstr "大猩猩"
+
+#. DIALOGUE_PODUNK_GORILLA_THOUGHTS_1_0
+msgid "[@](I don't know what came over me, I am currently working to better myself.)"
+msgstr "[@]（我也不知道当时我是怎么了，不过我现在已经改过自新了。）"
+
+#. DIALOGUE_PODUNK_GORILLA_THOUGHTS_1_SPEAKER_Gorilla
+msgid "Gorilla"
+msgstr "大猩猩"
+
+#. DIALOGUE_PODUNK_GORILLA_THOUGHTS_2_0
+msgid "[@](Sigh, I think I'll need some time to think about my actions.)"
+msgstr "[@]（唉，我想我需要一些时间来思考我的行为。）"
+
+#. DIALOGUE_PODUNK_GORILLA_THOUGHTS_2_SPEAKER_Gorilla
+msgid "Gorilla"
+msgstr "大猩猩"
+
+#. DIALOGUE_PODUNK_GUARD_NORTH_AFTER_0
+msgid "[@]The curfew has been lifted.[WAIT@]I can't see why travel was ever restricted, though...[WAIT@]I heard that you can communicate with Telepathy.[WAIT@]Have you heard of all the people talking about you?[WAIT@]Oh right, you probably don't even need to “listen” to them!"
+msgstr "[@]宵禁已经解除了。[WAIT@]不过我也想不通之前为什么要限制通行...[WAIT@]对了，我听说你会通过心灵感应交流？[WAIT@]那你有听到所有人都在传你的事情吧？[WAIT@]哦，不过你也不需要“听”说就能知道吧！"
+
+#. DIALOGUE_PODUNK_GUARD_NORTH_AFTER_SPEAKER_Guard
+msgid "Guard"
+msgstr "警卫"
+
+#. DIALOGUE_PODUNK_GUARD_NORTH_STOP_0
+msgid "[@]The mayor says no passing until the commotion at the zoo is over.[WAIT@]A bit extreme, I know, but those are the orders. Sorry.[WAIT@]The mayor's the only one with the zoo keys as far as I know."
+msgstr "[@]市长下令直到动物园的骚乱平息前都不允许通行。[WAIT@]我知道这有点过分，但命令就是命令。抱歉。[WAIT@]据我所知，市长是唯一有动物园钥匙的人。"
+
+#. DIALOGUE_PODUNK_GUARD_NORTH_STOP_SPEAKER_Guard
+msgid "Guard"
+msgstr "警卫"
+
+#. DIALOGUE_PODUNK_GUARD_SOUTH_STOP_0
+msgid "[@]The mayor says no passing until the curfew is lifted.[WAIT@]A bit extreme, I know, but those are the orders. Sorry.[WAIT@]By the way, they might let you cross the bridge northeast of the Zoo."
+msgstr "[@]市长下令宵禁解除前禁止通行。[WAIT@]我知道有点过分，但命令就是命令。抱歉。[WAIT@]顺带一提，他们可能会允许你穿过动物园东北面的桥。"
+
+#. DIALOGUE_PODUNK_GUARD_SOUTH_STOP_SPEAKER_Guard
+msgid "Guard"
+msgstr "警卫"
+
+#. DIALOGUE_PODUNK_HYENA_0
+msgid "[@]Hmph."
+msgstr "[@]哼。"
+
+#. DIALOGUE_PODUNK_HYENA_SPEAKER_Hyena
+msgid "Hyena"
+msgstr "鬣狗"
+
+#. DIALOGUE_PODUNK_HYENA_THOUGHTS_1_0
+msgid "[@](Let us move on and forget this happened.)"
+msgstr "[@]（让我们继续前进，忘掉这一切吧。）"
+
+#. DIALOGUE_PODUNK_HYENA_THOUGHTS_1_SPEAKER_Hyena
+msgid "Hyena"
+msgstr "鬣狗"
+
+#. DIALOGUE_PODUNK_HYENA_THOUGHTS_2_0
+msgid "[@](I don't know what to say, it was all in the heat of the moment.)"
+msgstr "[@]（我不知道该说什么，那都是一时冲动。）"
+
+#. DIALOGUE_PODUNK_HYENA_THOUGHTS_2_SPEAKER_Hyena
+msgid "Hyena"
+msgstr "鬣狗"
+
+#. DIALOGUE_PODUNK_IAN_0
+msgid "[@]I heard the zoo was locked because the animals went all crazy. That's nuts.[WAIT@]Also, this is off topic, but all these rumors aren't hints.[WAIT@]We're just really nosy. Hehe."
+msgstr "[@]我听说动物园里的动物全都发狂了。 这种事也太离谱了吧。[WAIT@]顺便，扯句题外话，这些传闻并不是线索。[WAIT@]我们只是很八卦而已。嘿嘿。"
+
+#. DIALOGUE_PODUNK_IAN_SPEAKER_Ian
+msgid "Ian"
+msgstr "Ian"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_0
+msgid "[@]Have you forgotten my instructions already?"
+msgstr "[@]你是不是已经把我交代的事给忘了？"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_1
+msgid "[@]Hurry up, then!"
+msgstr "[@]那就快点！"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_2
+msgid "[@]Try to imagine a something called a [color][ui_cancel][/color] [if input:gamepad]button[else]key[/if].[WAIT@]Then, simply press it![WAIT@]This allows you to unleash a swing powerful enough to break any tough object.[WAIT@]Come on, try it!"
+msgstr "[@]试着想象一个名为[color][ui_cancel][/color] [if input:gamepad]按钮[else]按键[/if]的东西。[WAIT@]然后，只要按下它就好![WAIT@]这能让你释放出足以击碎任何坚固物体的力量。[WAIT@]来吧，试试看！"
+
+#. DIALOGUE_PODUNK_IGGY_FORGET_SPEAKER_Iggy
+msgid "Iggy"
+msgstr "Iggy"
+
+#. DIALOGUE_PODUNK_IGGY_RETURN_SHOVEL_0
+msgid "[@]Thank you for returning my shovel."
+msgstr "[@]谢谢你把我的铲子还给了我。"
+
+#. DIALOGUE_PODUNK_IGGY_RETURN_SHOVEL_SPEAKER_Iggy
+msgid "Iggy"
+msgstr "Iggy"
+
+#. DIALOGUE_PODUNK_ISABELLA_0
+msgid "[@]The guy at Canary Village is my idol.[WAIT@]I wonder if he's single..."
+msgstr "[@]金丝雀村的那家伙是我的偶像。[WAIT@]不知道他是不是单身..."
+
+#. DIALOGUE_PODUNK_ISABELLA_SPEAKER_Isabella
+msgid "Isabella"
+msgstr "Isabella"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_0
+msgid "[@]Is that Canary Chick from Canary Village?"
+msgstr "[@]那是金丝雀村的小金丝雀吗？"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_1
+msgid "[@]Aww, what a cutie."
+msgstr "[@]啊啊啊啊啊啊啊啊啊好可爱。"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_2
+msgid "[@]The chicks there have lovely voices.[WAIT@]I hope they start singing again soon."
+msgstr "[@]那些雏鸟的声音很好听。[WAIT@]希望它们很快就会再次开始唱歌。"
+
+#. DIALOGUE_PODUNK_ISABELLA_2_SPEAKER_Isabella
+msgid "Isabella"
+msgstr "Isabella"
+
+#. DIALOGUE_PODUNK_JONATHAN_0
+msgid "[@]You ever think about how the menu calls it a hamburger when it's clearly a cheeseburger?[WAIT@]Honestly, that's just blatant false advertising."
+msgstr "[@]你有没有想过菜单上写的明明是汉堡，上来的却是芝士汉堡？[WAIT@]老实说，这可是无耻的虚假宣传。"
+
+#. DIALOGUE_PODUNK_JONATHAN_SPEAKER_Jonathan
+msgid "Jonathan"
+msgstr "Jonathan"
+
+#. DIALOGUE_PODUNK_LAURA_THOUGHTS_0
+msgid "[@](My baby...)"
+msgstr "[@]（我的宝宝...）"
+
+#. DIALOGUE_PODUNK_LAURA_THOUGHTS_SPEAKER_Laura
+msgid "Laura"
+msgstr "Laura"
+
+#. DIALOGUE_PODUNK_LAURA_THOUGHTS_2_0
+msgid "[@](My baby is back! Thank you so much!)"
+msgstr "[@]（我的宝宝回来了！真是太谢谢你了！）"
+
+#. DIALOGUE_PODUNK_LAURA_THOUGHTS_2_SPEAKER_Laura
+msgid "Laura"
+msgstr "Laura"
+
+#. DIALOGUE_PODUNK_LUCY_0
+msgid "[@]Hey [Ninten], how's your asthma holding up?[WAIT@]Mine's a bit better now, but car exhausts still makes it-[WAITBR]*Cough*     *Cough*     *ReeeEEETCH*[WAITBR]pretty bad sometimes..."
+msgstr "[@]嘿[Ninten]，你的哮喘怎么样了？[WAIT@]我的好多了，但是汽车尾气有的时候还是会让它-[WAITBR]*咳嗽*     *咳嗽*     *呃呃呃*[WAITBR]变得很严重..."
+
+#. DIALOGUE_PODUNK_LUCY_SPEAKER_Lucy
+msgid "Lucy"
+msgstr "Lucy"
+
+#. DIALOGUE_PODUNK_MARSHAL_0
+msgid "[@]See for yourself, all the animals have escaped.[WAIT@]Sigh... Hopefully we'll have a new pet to sell soon."
+msgstr "[@]你自己看看吧，所有动物都逃走了。[WAIT@]唉...希望我们很快就会有新的宠物可以出售。"
+
+#. DIALOGUE_PODUNK_MARSHAL_LOOKING_0
+msgid "[@]Why are you looking at me like that?"
+msgstr "[@]你为什么那样看着我？"
+
+#. DIALOGUE_PODUNK_MARSHAL_LOOKING_SPEAKER_Marshal
+msgid "Marshal"
+msgstr "Marshal"
+
+#. DIALOGUE_PODUNK_MARSHAL_QUESTION_0
+msgid "[@]How's the canary?"
+msgstr "[@]金丝雀怎么样了？"
+
+#. DIALOGUE_PODUNK_MARSHAL_QUESTION_SPEAKER_Marshal
+msgid "Marshal"
+msgstr "Marshal"
+
+#. DIALOGUE_PODUNK_MARSHAL_SPEAKER_Marshal
+msgid "Marshal"
+msgstr "Marshal"
+
+#. DIALOGUE_PODUNK_MATT_0
+msgid "[@]If you head north and then west, you'll find the Canary Village.[WAIT@]You should check it out, it's free!"
+msgstr "[@]如果你先往北走然后转而向西，你就会找到金丝雀镇。[WAIT@]你应该去看看，毕竟那里可不收门票。"
+
+#. DIALOGUE_PODUNK_MATT_SPEAKER_Matt
+msgid "Matt"
+msgstr "Matt"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_0
+msgid "[@]Citizen, I know you'd like to help your town.[WAIT@]Well...[WAIT@]A child has strayed into the [color]cemetery to the south of town[/color].[WAIT@]And...[WAIT@]I'm up for re-election soon.[WAIT@]You must help![WAIT@]Please, help me!"
+msgstr "[@]市民，我知道你想要帮助咱们镇。[WAIT@]所以...[WAIT@]有个孩子不小心闯进了[color]镇南边的那片墓地[/color]。[WAIT@]同时...[WAIT@]我马上就要参加连任竞选了。[WAIT@]你一定要帮帮我！[WAIT@]求求你了，帮帮我吧！"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_6-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_6-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_7
+msgid "[@]Oh!? You'll go there and save her?[WAIT@]Return her to me alive, and surely I'll be a hero...[WAIT@]Er, umh, I mean... You'll be a hero!"
+msgstr "[@]哦！你要去那里救她？[WAIT@]要是能让她平安到我身边，我就会成为英雄！[WAIT@]额，啊，我意思是...你就会成为英雄！"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_10
+msgid "[@]How could you do this to me?!"
+msgstr "[@]你怎么能这样对我？！"
+
+#. DIALOGUE_PODUNK_MAYOR_HELP_SPEAKER_Mayor_Goodman
+msgid "Mayor Goodman"
+msgstr "Goodman镇长"
+
+#. DIALOGUE_PODUNK_MAYOR_REPORT_0
+msgid "[@]So, have you taken care of the [color]zoo[/color] yet?"
+msgstr "[@]那么，你是已经解决[color]动物园[/color]发生的事了吗？"
+
+#. DIALOGUE_PODUNK_MAYOR_REPORT_SPEAKER_Mayor_Goodman
+msgid "Mayor Goodman"
+msgstr "Goodman镇长"
+
+#. DIALOGUE_PODUNK_MAYOR_SIDE_DESK_0
+msgid "[@]Do you mind speaking to me in front of my desk?"
+msgstr "[@]能到我桌子前面来说话吗？"
+
+#. DIALOGUE_PODUNK_MAYOR_SIDE_DESK_SPEAKER_Mayor_Goodman
+msgid "Mayor Goodman"
+msgstr "Goodman市长"
+
+#. DIALOGUE_PODUNK_MAYOR_ZOO_FREED_0
+msgid "[@]Why if it isn't our hero, [Ninten]?[WAIT@]Now that the commotion at the zoo is over, the bridge at the [color]northeast[/color] of town is now open."
+msgstr "[@]这不是我们的英雄[Ninten]吗？[WAIT@]现在动物园的骚乱已经平息，[color]镇子东北部[/color]的那座桥现在也开放通行了。"
+
+#. DIALOGUE_PODUNK_MAYOR_ZOO_FREED_2
+msgid "[@]By the way... You have some tiger droppings on your clothes.[WAIT@]Haha, just joking. Now run along, kid."
+msgstr "[@]顺带一提...你衣服上有沾着老虎粪便。[WAIT@]哈哈，逗你玩而已。现在就走吧，孩子。"
+
+#. DIALOGUE_PODUNK_MAYOR_ZOO_FREED_SPEAKER_Mayor_Goodman
+msgid "Mayor Goodman"
+msgstr "Goodman镇长"
+
+#. DIALOGUE_PODUNK_MILLER_0
+msgid "[@]I need to do a call, but the payphone costs $5.[WAIT@]That's crazy expensive![WAIT@]If only I could find a rotary phone...[WAIT@]Those ones, you can use for free."
+msgstr "[@]我需要打个电话，但公用电话一次就要5美元。[WAIT@]实在是太贵了！[WAIT@]要是我能找到一部转盘电话就好了......[WAIT@]那些可以免费使用的啊。"
+
+#. DIALOGUE_PODUNK_MILLER_SPEAKER_Miller
+msgid "Miller"
+msgstr "Miller"
+
+#. DIALOGUE_PODUNK_MIMMIE_DEAD_DOLL_0
+msgid "[@]It's dead? What a relief![WAIT@]I knew we shouldn't have taken that doll from the basement..."
+msgstr "[@]它死了？真是松了一口气！[WAIT@]我早就知道我们不该把地下室的那个娃娃拿走......"
+
+#. DIALOGUE_PODUNK_MIMMIE_DEAD_DOLL_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_DOLL_DEFEATED_0
+msgid "[@]Hurry up![WAIT@]I won't be able to sleep at night knowing it might still be alive..."
+msgstr "[@]快点！[WAIT@]一想到它可能还活着，我晚上连觉都睡不了..."
+
+#. DIALOGUE_PODUNK_MIMMIE_DOLL_DEFEATED_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_GOT_KEY_0
+msgid "[@]Woah, is that the basement key?"
+msgstr "[@]哇，那是地下室的钥匙吗？"
+
+#. DIALOGUE_PODUNK_MIMMIE_GOT_KEY_1
+msgid "[@]Quick, open the basement and I'll find all of the Orange Juice for you!"
+msgstr "[@]快点，把地下室的门打开，然后我会帮你找到所有的橙汁！"
+
+#. DIALOGUE_PODUNK_MIMMIE_GOT_KEY_2
+msgid "[@]I'll let you know that there's a lifetime supply of Orange Juice in the basement.[WAIT@]If you unlock the basement, I'll find all of it for you."
+msgstr "[@]我跟你说，地下室里有够喝一辈子的橙汁呢。[WAIT@]要是你能把地下室的锁解开，我就把这些橙汁全给你找出来。"
+
+#. DIALOGUE_PODUNK_MIMMIE_GOT_KEY_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_JUICE_1
+msgid "[@]Here, have some Orange Juice."
+msgstr "[@] 来，喝点橙汁。"
+
+#. DIALOGUE_PODUNK_MIMMIE_JUICE_2
+msgid "[@][ItemReceiver] got some Orange Juice."
+msgstr "[@][ItemReceiver]得到了一些橙汁。"
+
+#. DIALOGUE_PODUNK_MIMMIE_JUICE_3
+msgid "[@]You're carrying too much stuff."
+msgstr "[@] 你携带了太多东西。"
+
+#. DIALOGUE_PODUNK_MIMMIE_JUICE_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_JUICE_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MIMMIE_KEY_0
+msgid "[@]The Basement Key?[WAIT@]Ah, I see...[WAIT@]So you're also after the secret treasure in the basement, aren't you?[WAIT@]I'm talking about the lifetime supply of Orange Juice.[WAIT@]Unfortunately, the basement is locked right now.[WAIT@]I tried asking mom where the key is, but she won't tell me.[WAIT@]Maybe she'll listen to you, though. Try asking her."
+msgstr "[@]地下室钥匙？[WAIT@]啊，我明白了......[WAIT@]所以你也在寻找地下室里的秘密宝藏，不是吗？[WAIT@]我指的是足够喝一辈子的橙汁。[WAIT@]不幸的是，地下室现在上了锁。[WAIT@]我试过问妈妈钥匙在哪儿，但她就是不告诉我。[WAIT@]不过也许她会回答你的。试着去问问她。"
+
+#. DIALOGUE_PODUNK_MIMMIE_KEY_7
+msgid "[@]If you manage to unlock the basement, I'll find all of the Orange Juice for you."
+msgstr "[@]如果你能解开地下室的锁，我会帮你找到放在里面的所有的橙汁。"
+
+#. DIALOGUE_PODUNK_MIMMIE_KEY_AGAIN_0
+msgid "[@]I tried asking mom where the key is, but she won't tell me.[WAIT@]Maybe she'll listen to you, though. Try asking her.[WAIT@]If you manage to unlock the basement, I'll find all of the Orange Juice for you."
+msgstr "[@]我试过问妈妈钥匙在哪儿，但她就是不告诉我。[WAIT@]不过也许她会回答你的。试着去问问她。[WAIT@]如果你能解开地下室的锁，我会帮你找到那里放着的所有的橙汁。"
+
+#. DIALOGUE_PODUNK_MIMMIE_KEY_AGAIN_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_KEY_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_0
+msgid "[@]You opened up the basement?[WAIT@]Great! Let me grab all the Orange Juice."
+msgstr "[@]你打开了地下室的门？[WAIT@]太好了！让我把所有的橙汁都拿过来。"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_4
+msgid "[@]Here, you can have some."
+msgstr "[@]给，哥哥也可以有一份。"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_5
+msgid "[@][ItemReceiver] got some Orange Juice!"
+msgstr "[@][ItemReceiver]得到了一些橙汁！"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_6
+msgid "[@]Oh wait, you're carrying too much stuff."
+msgstr "[@]哦不等下，你携带的东西太多了。"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_MIMMIE_OPEN_BASEMENT_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MINNIE_DOOR_OPEN_0
+msgid "[@]Woah! You got the door to open![WAIT@]Now hurry up and check if Mimmie's okay!"
+msgstr "[@] 哇哦！你打开门了！[WAIT@]快点去看看Mimmie有没有事！"
+
+#. DIALOGUE_PODUNK_MINNIE_DOOR_OPEN_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MINNIE_PILLOW_DEFEATED_0
+msgid "[@]Oh my! Our house is falling apart!"
+msgstr "[@]我的天！我们的房子就要塌了！"
+
+#. DIALOGUE_PODUNK_MINNIE_PILLOW_DEFEATED_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_0
+msgid "[@]I can't get the door to open![WAIT@]Looks like we'll need to use brute force.[WAIT@][Ninten], do you need a reminder on how to run?"
+msgstr "[@]我打不开门！[WAIT@]看来我们得用蛮力了。[WAIT@][Ninten]，你需要我提醒你该怎么跑吗？"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_3
+msgid "[@]This might sound odd, but imagine something called a [color][ui_toggle][/color] [if input:gamepad]button[else]key[/if].[WAIT@]Then, [color]hold[/color] that [if input:gamepad]button[else]key[/if] down [color]without moving to crouch.[/color][WAIT@]Once you're in that position, [color]release the [if input:gamepad]button[else]key[/if] to start running.[/color][WAIT@]You can also just [color]hold down[/color] the [color][ui_toggle][/color] [if input:gamepad]button[else]key[/if] while moving to run."
+msgstr "[@]听起来可能有点奇怪，你可以先想象一个叫作[color][ui_toggle][/color][if input:gamepad]的按钮[else]的按键[/if]。[WAIT@]接着，[color]按住[/color]这个[if input:gamepad]按钮[else]按键[/if][color]同时保持静止，这样你就可以下蹲。[/color][WAIT@]蹲好之后，[color]放开[if input:gamepad]按钮[else]按键[/if]开始奔跑。[/color][WAIT@]你也可以在移动的时候，直接[color]按住[/color]这个[color][ui_toggle][/color][if input:gamepad]按钮[else]按键[/if]来奔跑。"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_7
+msgid "[@]Try ramming into the door!"
+msgstr "[@]试试撞门！"
+
+#. DIALOGUE_PODUNK_MINNIE_RUN_TUTORIAL_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MINNIE_STORAGE_0
+msgid "[@]What can I do for you?"
+msgstr "[@]我能帮你做些什么？"
+
+#. DIALOGUE_PODUNK_MINNIE_STORAGE_0-OPT_0
+msgid "Storage"
+msgstr "存储"
+
+#. DIALOGUE_PODUNK_MINNIE_STORAGE_0-OPT_1
+msgid "Nothing, really"
+msgstr "什么都没有，真的"
+
+#. DIALOGUE_PODUNK_MINNIE_STORAGE_3
+msgid "[@]See you later, and take care!"
+msgstr "[@]回头见，保重！"
+
+#. DIALOGUE_PODUNK_MINNIE_STORAGE_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_MOUSE_ADRENALINE_0
+msgid "[@](Have you ever heard of [color]adrenaline rushes[/color]?[WAITBR]If you receive [color]mortal damage[/color], your body will be filled with adrenaline.[WAITBR]During an adrenaline rush, your [color]attack damage will be increased[/color]![WAITBR]Be careful though, the rush will only last while your [color]HP is dropping down to zero[/color].)"
+msgstr "[@]（你听说过[color]肾上腺素激增[/color]吗？[WAITBR]当你受到[color]致命伤害[/color]后，体内就会充满肾上腺素。[WAITBR]进入肾上腺素激增状态后，你的[color]攻击力将会提升[/color]！[WAITBR]不过要注意，这个状态只会在你的[color]生命值持续降至零的过程中[/color]有效。）"
+
+#. DIALOGUE_PODUNK_MOUSE_ADRENALINE_SPEAKER_Noisy_Mouse
+msgid "Nosy Mouse"
+msgstr "多事鼠"
+
+#. DIALOGUE_PODUNK_MOUSE_DOORS_0
+msgid "[@](Have you noticed that you can enter some buildings while some you cannot?[WAITBR]As a house entering professional, I can say that doors that are [color]round[/color] or have a sign can be entered.[WAITBR][color]Rectangular doors[/color], on the other hand, [color]will not open[/color] no matter what.[WAITBR]Although, if you try knocking on some of those doors, you might get an answer.)"
+msgstr "[@]（你有没有发现有些建筑可以进入，有些却不行？[WAITBR]作为一个擅闯民宅的行家，我可以告诉你，[color]圆形[/color]的门或者带招牌的门都能进。[WAITBR]而[color]长方形的门[/color]呢，不管怎么试都[color]打不开[/color]。[WAITBR]不过，要是你试着去敲敲，说不定也能得到回应呢。）"
+
+#. DIALOGUE_PODUNK_MOUSE_DOORS_SPEAKER_Noisy_Mouse
+msgid "Nosy Mouse"
+msgstr "多事鼠"
+
+#. DIALOGUE_PODUNK_MOUSE_POISON_0
+msgid "[@](Be careful if you ever get [color]poisoned[/color] ([Poisoned]) out there![WAITBR]You might think it works the same as in Dragon Quest, but it's totally different![WAITBR]Instead of taking damage each turn, it'll make your [color]HP drop faster[/color] than usual after taking a hit.[WAITBR]This means you'll have to act more quickly if you've taken mortal damage.)"
+msgstr "[@]（要是在外面不慎[color]中毒[/color]([Poisoned])可得当心！[WAITBR]你可能以为它和《勇者斗恶龙》里的中毒效果一样，但其实完全不同！[WAITBR]它不会让你每回合都掉血，而是会让你在受到攻击后，[color]生命值下降的[/color]比平时更快。[WAITBR]这就意味着，一旦你受到致命伤害，必须更快采取行动。）"
+
+#. DIALOGUE_PODUNK_MOUSE_POISON_SPEAKER_Noisy_Mouse
+msgid "Nosy Mouse"
+msgstr "多事鼠"
+
+#. DIALOGUE_PODUNK_MOUSE_TEA_0
+msgid "[@](You must be feeling pretty worn out from battle right now.[WAITBR]Why not take a break then?[WAITBR]I heard drinking tea from a [color]blue kettle[/color] can make you feel [color]good as new[/color].[WAITBR]I would have some myself, but I'm too short to reach it.)"
+msgstr "[@]（刚刚结束一场战斗，你现在一定感觉很累吧。[WAITBR]那为什么不休息一下呢？[WAITBR]我听说用[color]蓝色水壶[/color]泡的茶喝了能让人感到[color]恢复如初[/color]哦。[WAITBR]我其实也很想喝点，可惜我太矮了，根本够不着。）"
+
+#. DIALOGUE_PODUNK_MOUSE_TEA_SPEAKER_Noisy_Mouse
+msgid "Nosy Mouse"
+msgstr "多事鼠"
+
+#. DIALOGUE_PODUNK_NATALIA_0
+msgid "[@]A little ginger girl strayed into the cemetery earlier.[WAIT@]Her mother's worried sick right now!"
+msgstr "[@]有个红头发的小女孩早些时候去了墓地。[WAIT@]她妈妈现在担心得要命！"
+
+#. DIALOGUE_PODUNK_NATALIA_SPEAKER_Natalia
+msgid "Natalia"
+msgstr "Natalia"
+
+#. DIALOGUE_PODUNK_NATALIA_2_0
+msgid "[@]Oh, looks like you found the lost girl![WAIT@]Great job!"
+msgstr "[@]哦，看来你找到了那个失踪的女孩！[WAIT@]干得好！"
+
+#. DIALOGUE_PODUNK_NATALIA_2_SPEAKER_Natalia
+msgid "Natalia"
+msgstr "Natalia"
+
+#. DIALOGUE_PODUNK_NATALIA_3_0
+msgid "[@]Rescuing a little girl and clearing the commotion at the zoo...[WAIT@]Is there anything you can't do?"
+msgstr "[@]救出一个小女孩，平息动物园里的骚乱...[WAIT@]还有什么事你做不到？"
+
+#. DIALOGUE_PODUNK_NATALIA_3_SPEAKER_Natalia
+msgid "Natalia"
+msgstr "Natalia"
+
+#. DIALOGUE_PODUNK_NIKKI_0
+msgid "[@]We're looking for the lost girl, [Pippi].[WAIT@]She was last seen going down into the cemetery, but it's infested with zombies![WAIT@]I'm too scared to go there myself, could you go there for me?"
+msgstr "[@]我们在搜寻那个失踪的女孩，[Pippi]。[WAIT@]她最后一次被目击时她正在走入墓地，但现在那里到处都是丧尸！[WAIT@]我实在是不敢自己过去，你能替我去一趟吗？"
+
+#. DIALOGUE_PODUNK_NIKKI_3
+msgid "[@]Honestly, I can't blame you..."
+msgstr "[@]说实话，我不能怪你..."
+
+#. DIALOGUE_PODUNK_NIKKI_4
+msgid "[@]Oh, you're a life saver!"
+msgstr "[@]哦，你真是我的救命恩人！"
+
+#. DIALOGUE_PODUNK_NIKKI_SPEAKER_Nikki
+msgid "Nikki"
+msgstr "Nikki"
+
+#. DIALOGUE_PODUNK_NIKKI_2_0
+msgid "[@]Oh wow, you found her![WAIT@]That must have taken a lot of courage."
+msgstr "[@]哇哦，你找到她了！[WAIT@]那种事实在很需要胆量。"
+
+#. DIALOGUE_PODUNK_NIKKI_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NIKKI_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NIKKI_2_SPEAKER_Nikki
+msgid "Nikki"
+msgstr "Nikki"
+
+#. DIALOGUE_PODUNK_NURSE_0
+msgid "[@]Who here needs our assistance?"
+msgstr "[@]这里有谁需要我们的帮助？"
+
+#. DIALOGUE_PODUNK_NURSE_1
+msgid "[@]If you are the patient, come into the back room."
+msgstr "[@]如果你就是病人的话，请进里屋来吧。"
+
+#. DIALOGUE_PODUNK_NURSE_3
+msgid "[@]Oh my! [Ninten] looks like he's still unconscious."
+msgstr "[@]我的天哪！[Ninten]看起来他还没有醒。"
+
+#. DIALOGUE_PODUNK_NURSE_4
+msgid "[@]Please pay $150 for the doctor's fee."
+msgstr "[@]请支付150美元的诊疗费用。"
+
+#. DIALOGUE_PODUNK_NURSE_4-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NURSE_4-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NURSE_5
+msgid "[@]I'm so glad that you recovered, [Ninten]."
+msgstr "[@]我真的很高兴你康复了，[Ninten]。"
+
+#. DIALOGUE_PODUNK_NURSE_7
+msgid "[@]Oh my! [Ana] looks like she's still unconscious."
+msgstr "[@]哎呀！看起来[Ana]她还没有恢复意识。"
+
+#. DIALOGUE_PODUNK_NURSE_8
+msgid "[@]Please pay $150 for the doctor's fee."
+msgstr "[@]请支付150美元的诊疗费用。"
+
+#. DIALOGUE_PODUNK_NURSE_8-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NURSE_8-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NURSE_9
+msgid "[@]I'm so glad that you recovered, [Ana]."
+msgstr "[@]我真的很高兴你康复了，[Ana]。"
+
+#. DIALOGUE_PODUNK_NURSE_11
+msgid "[@]Oh my! [Lloyd] looks like he's still unconscious."
+msgstr "[@]哎呀！看起来[Lloyd]他还没有恢复意识。"
+
+#. DIALOGUE_PODUNK_NURSE_12
+msgid "[@]Please pay $150 for the doctor's fee."
+msgstr "[@]请支付150美元的诊疗费用。"
+
+#. DIALOGUE_PODUNK_NURSE_12-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NURSE_12-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NURSE_13
+msgid "[@]I'm so glad that you recovered, [Lloyd]."
+msgstr "[@]我真的很高兴你康复了，[Lloyd]。"
+
+#. DIALOGUE_PODUNK_NURSE_15
+msgid "[@]Oh my! [Teddy] looks like he's still unconscious."
+msgstr "[@]哎呀！看起来[Teddy]他还没有恢复意识。"
+
+#. DIALOGUE_PODUNK_NURSE_16
+msgid "[@]Please pay $150 for the doctor's fee."
+msgstr "[@]请支付150美元的诊疗费用。"
+
+#. DIALOGUE_PODUNK_NURSE_16-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NURSE_16-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NURSE_17
+msgid "[@]I'm so glad that you recovered, [Teddy]."
+msgstr "[@]我真高兴你康复了，[Teddy]。"
+
+#. DIALOGUE_PODUNK_NURSE_19
+msgid "[@]Oh my! [Pippi] looks like she's still unconscious."
+msgstr "[@]哎呀！看起来[Pippi]她还没有恢复意识。"
+
+#. DIALOGUE_PODUNK_NURSE_20
+msgid "[@]Please pay $150 for the doctor's fee."
+msgstr "[@]请支付150美元的诊疗费用。"
+
+#. DIALOGUE_PODUNK_NURSE_20-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NURSE_20-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NURSE_21
+msgid "[@]I'm so glad that you recovered, [Pippi]."
+msgstr "[@]我真高兴你康复了，[Pippi]。"
+
+#. DIALOGUE_PODUNK_NURSE_22
+msgid "[@]Come back any time you need."
+msgstr "[@]随时欢迎有需要的时候回来。"
+
+#. DIALOGUE_PODUNK_NURSE_23
+msgid "[@]Isn't that your friend?... It's very serious."
+msgstr "[@]那不是你的朋友吗？...[WAIT@]情况看起来很严重。"
+
+#. DIALOGUE_PODUNK_NURSE_24
+msgid "[@]We don't have a person like that in our hospital."
+msgstr "[@]我们医院里没有这样一位患者。"
+
+#. DIALOGUE_PODUNK_NURSE_25
+msgid "[@]The doctor's fee is $150, but it seems like you're short on cash."
+msgstr "[@]诊疗费用共计150美元，不过看起来你手头很紧。"
+
+#. DIALOGUE_PODUNK_NURSE_26
+msgid "[@]Feel free to use the ATM on the side to withdraw the amount needed."
+msgstr "[@]你可以随时用旁边的ATM机取够需要的钱。"
+
+#. DIALOGUE_PODUNK_NURSE_SPEAKER_Nurse
+msgid "Nurse"
+msgstr "护士"
+
+#. DIALOGUE_PODUNK_OLD_WOMAN_0
+msgid "[@]It's easy as pie to use the ATM.[WAIT@]All you need is a cash card and a dad with deep pockets![WAIT@]By the way, I heard that your victories in battle will motivate your father to work even harder."
+msgstr "[@]ATM机用起来简单得很。[WAIT@]你只需要一张现金卡还有一位有钱的爸爸！[WAIT@]顺带一提，我听说你在战斗中取胜能够激励你爸爸，让他更卖力地工作呢。"
+
+#. DIALOGUE_PODUNK_OLD_WOMAN_SPEAKER_Celine
+msgid "Celine"
+msgstr "Celine"
+
+#. DIALOGUE_PODUNK_OLIVER_0
+msgid "[@]Oh man... Are the zombies going to take over the town?[WAIT@]Actually, that might be an improvement over the local government."
+msgstr "[@]唉...这个小镇不会要被丧尸占领了吧。[WAIT@]不过话说回来，跟地方政府一比，它们说不定反而更好。"
+
+#. DIALOGUE_PODUNK_OLIVER_SPEAKER_Oliver
+msgid "Oliver"
+msgstr "Oliver"
+
+#. DIALOGUE_PODUNK_OLIVER_2_0
+msgid "[@]You did it!"
+msgstr "[@]你做到了！"
+
+#. DIALOGUE_PODUNK_OLIVER_2_SPEAKER_Oliver
+msgid "Oliver"
+msgstr "Oliver"
+
+#. DIALOGUE_PODUNK_PIERRE_0
+msgid "[@]I want to help the zombies become friendly by teaching them about God.[WAIT@]But... Zombies freak me out!"
+msgstr "[@]我想过把上帝的教诲传达给丧尸们，以此让它们变得\\n友好起来。[WAIT@]可是...丧尸好可怕！"
+
+#. DIALOGUE_PODUNK_PIERRE_SPEAKER_Pierre
+msgid "Pierre"
+msgstr "Pierre"
+
+#. DIALOGUE_PODUNK_PIERRE_2_0
+msgid "[@]What the devils?![WAIT@]How did you get through that door?"
+msgstr "[@]这到底是怎么回事？！[WAIT@]你是怎么通过那扇门进来的？"
+
+#. DIALOGUE_PODUNK_PIERRE_2_SPEAKER_Pierre
+msgid "Pierre"
+msgstr "Pierre"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_0
+msgid "[@]We meet once more, [Ninten]!"
+msgstr "[@]我们又见面了，[Ninten]！"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_1
+msgid "[@]I'd join you on your adventure, but my mom says I'm not allowed to go too far from the house for a while."
+msgstr "[@]我也想跟你一起去冒险，可是妈妈说我最近不能去太远的地方！"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_3
+msgid "[@]Here, take this shiny badge.[WAIT@]My mom said that as long as I have it, it'll give me courage."
+msgstr "[@]给你，拿好这枚闪亮的徽章。[WAIT@]妈妈说，只要带着它，就会给我勇气来着。"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_5
+msgid "[@]But I think you'll probably need it more than me, so keep it!"
+msgstr "[@]但我觉得你可能比我更需要它，所以留着吧！"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_6
+msgid "[@]Oh, and by the way, you forgot the badge I gave you."
+msgstr "[@]哦，对了，你忘了我给你的徽章。"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_7
+msgid "[@][Ninten] got the Courage Badge!"
+msgstr "[@][Ninten]拿到勇气徽章了！"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_8
+msgid "[@]Wait, you can't carry it? What a shame!"
+msgstr "[@]等等，你拿不了了？真是太遗憾了！"
+
+#. DIALOGUE_PODUNK_PIPPI_HOUSE_9
+msgid "[@]Well, have fun on your adventure.[WAIT@]I hope we meet again someday."
+msgstr "[@]那么，祝你冒险愉快。[WAIT@]希望有一天我们还能再见面。"
+
+#. DIALOGUE_PODUNK_PIPPI_TOWN_HALL_0
+msgid "[@]Remember to come by [color]my house[/color], I'll be waiting there to see you again!"
+msgstr "[@]记得来[color]我家[/color]，我会在那里等着和你再见！"
+
+#. DIALOGUE_PODUNK_PIPPI_TOWN_HALL_1
+msgid "[@]I'll give you [color]something special[/color] if you do."
+msgstr "[@]你要是来了的话，我就给你一份[color]特别的东西[/color]。"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_0
+msgid "[@]Oh me, oh my![WAIT@]It seems my dear [color][Pippi][/color]'s gone missing![WAIT@]If you're going into town, please ask [color]Mayor Goodman[/color] if anyone's seen her, okay?"
+msgstr "[@]天哪，天哪！[WAIT@]我亲爱的[color][Pippi][/color]不见了！[WAIT@]如果你要去镇上，拜托你问问[color]Goodman镇长[/color]有没有人见过她，好吗？"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Lindgren夫人"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_CANARY_0
+msgid "[@]I don't think Laura's [color]inside the village[/color], but she's definitely [color]somewhere on this island[/color].[WAIT@]I suggest you try [color]scoping[/color] the area.[WAIT@]You can easily do so by imagining a [color][ui_scope][/color] [if input:gamepad]button[else]key[/if] and holding it down.[WAIT@]This will help you view [color]places you can't normally see[/color]."
+msgstr "[@]我不觉得Laura还在[color]村子里[/color]，但她一定在[color]岛上的某个地方[/color]！[WAIT@]我觉得你可以试着[color]观察[/color]一下周围？[WAIT@]很简单，只要想象一个[color][ui_scope][/color][if input:gamepad]按钮[else]按键[/if]并按住它。[WAIT@]这样就能看到[color]平时看不到的地方[/color]了。"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_CANARY_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Lindgren夫人"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_MAYOR_0
+msgid "[@]Thank you for finding my daughter, [Ninten].[WAIT@]By the way, the [color]mayor[/color] is itching to see you, [Ninten]...[WAIT@][Pippi], go with [Ninten] and help straighten this out."
+msgstr "[@]谢谢你找到了我的女儿，[Ninten]。[WAIT@]对了，[color]镇长[/color]迫不及待地想要见你，[Ninten]...[WAIT@][Pippi]，跟着[Ninten]一起去，帮忙把事情理清楚。"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_MAYOR_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Lindgren夫人"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_THANKS_0
+msgid "[@]I want to thank you again for your help.[WAIT@][Pippi] is fine now, but all she talks about now is you![WAIT@]You should play with her again someday."
+msgstr "[@]让我再次感谢你的帮忙。[WAIT@][Pippi]她现在没事了，不过他现在整天念叨的全是你！[WAIT@]我觉得你以后有空应该常来陪她玩玩。"
+
+#. DIALOGUE_PODUNK_PIPPISMOM_THANKS_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Lindgren夫人"
+
+#. DIALOGUE_PODUNK_PODUNK_BURGER_SHOP_0
+msgid "[@]Welcome! Would you like to see what's on our menu?"
+msgstr "[@]欢迎！您想看看我们的菜单吗？"
+
+#. DIALOGUE_PODUNK_PODUNK_BURGER_SHOP_2
+msgid "[@]Thank you for coming!"
+msgstr "[@]感谢您的到来！"
+
+#. DIALOGUE_PODUNK_PODUNK_BURGER_SHOP_SPEAKER_Katie
+msgid "Katie"
+msgstr "Katie"
+
+#. DIALOGUE_PODUNK_PODUNK_DRUG_STORE_0
+msgid "[@]Welcome! What would you like?"
+msgstr "[@]欢迎！您想要来点什么？"
+
+#. DIALOGUE_PODUNK_PODUNK_DRUG_STORE_2
+msgid "[@]Have a nice day!"
+msgstr "[@]祝您今天过得愉快！"
+
+#. DIALOGUE_PODUNK_PODUNK_DRUG_STORE_SPEAKER_Jane
+msgid "Jane"
+msgstr "Jane"
+
+#. DIALOGUE_PODUNK_PODUNK_FOOD_STORE_0
+msgid "[@]Welcome! What would you like?"
+msgstr "[@]欢迎！您想要来点什么？"
+
+#. DIALOGUE_PODUNK_PODUNK_FOOD_STORE_2
+msgid "[@]Have a nice day!"
+msgstr "[@]祝您今天过得愉快！"
+
+#. DIALOGUE_PODUNK_PODUNK_FOOD_STORE_SPEAKER_Marcie
+msgid "Marcie"
+msgstr "Marcie"
+
+#. DIALOGUE_PODUNK_PODUNK_SPORTS_SHOP_0
+msgid "[@]Welcome! What would you like?"
+msgstr "[@]欢迎！您想要来点什么？"
+
+#. DIALOGUE_PODUNK_PODUNK_SPORTS_SHOP_2
+msgid "[@]Have a nice day!"
+msgstr "[@]祝您今天过得愉快！"
+
+#. DIALOGUE_PODUNK_PODUNK_SPORTS_SHOP_SPEAKER_Iris
+msgid "Iris"
+msgstr "Iris"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_0
+msgid "[@]Welcome to the Podunk Hotel."
+msgstr "[@]欢迎来到波顿克酒店。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_1
+msgid "[@]We offer a stay for $50."
+msgstr "[@]住宿每晚收费50美元。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_2
+msgid "[@]Will you be staying with us for the night?"
+msgstr "[@]请问您今晚要留在这里住店吗？"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_5
+msgid "[@]Have a nice stay."
+msgstr "[@]祝您住得愉快。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_7
+msgid "[@]During the night, [Lloyd] fixed the broken item."
+msgstr "[@]夜里，[Lloyd]修好了坏掉的物品。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_8
+msgid "[@]Broken Item turned into Fixed Item."
+msgstr "[@]坏掉的物品变成了修好的物品。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_12
+msgid "[@]Goodbye!"
+msgstr "[@]再见！"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_13
+msgid "[@]Oh, well it looks like you don't have enough money."
+msgstr "[@]哦，看起来你带的钱不够。"
+
+#. DIALOGUE_PODUNK_PODUNKHOTEL_SPEAKER_Simon
+msgid "Simon"
+msgstr "Simon"
+
+#. DIALOGUE_PODUNK_SANDRA_0
+msgid "[@]It looks like the dead have risen.[WAIT@]Thankfully, we have God to protect us!"
+msgstr "[@]看来死者们复活了！[WAIT@]不过好在，上帝会保佑我们！"
+
+#. DIALOGUE_PODUNK_SANDRA_SPEAKER_Sandra
+msgid "Sandra"
+msgstr "Sandra"
+
+#. DIALOGUE_PODUNK_SANDRA_2_0
+msgid "[@]I can sense God loves you!"
+msgstr "[@]我能感觉到上帝在眷顾着你！"
+
+#. DIALOGUE_PODUNK_SANDRA_2_SPEAKER_Sandra
+msgid "Sandra"
+msgstr "Sandra"
+
+#. DIALOGUE_PODUNK_STEPHEN_0
+msgid "[@]You're not actually going to the cemetery, right?"
+msgstr "[@]你其实并不是真的要去墓地吧？"
+
+#. DIALOGUE_PODUNK_STEPHEN_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_STEPHEN_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_STEPHEN_1
+msgid "[@]I thought you were a sensible child..."
+msgstr "[@]我还以为你是个理智的孩子......"
+
+#. DIALOGUE_PODUNK_STEPHEN_2
+msgid "[@]You children better stay safe."
+msgstr "[@]你们这些孩子最好待在安全的地方。"
+
+#. DIALOGUE_PODUNK_STEPHEN_SPEAKER_Stephen
+msgid "Stephen"
+msgstr "Stephen"
+
+#. DIALOGUE_PODUNK_STEPHEN_2_0
+msgid "[@]I always believed in you!"
+msgstr "[@]我一直都相信着你！"
+
+#. DIALOGUE_PODUNK_STEPHEN_2_SPEAKER_Stephen
+msgid "Stephen"
+msgstr "Stephen"
+
+#. DIALOGUE_PODUNK_THOMAS_0
+msgid "[@]The mayor's looking for a brave hero.[WAIT@]If you find anyone, bring them to the town hall."
+msgstr "[@]镇长先生正在寻找一位勇敢的英雄。[WAIT@]如果你找到了，把他们带到镇政府去。"
+
+#. DIALOGUE_PODUNK_THOMAS_SPEAKER_Thomas
+msgid "Thomas"
+msgstr "Thomas"
+
+#. DIALOGUE_PODUNK_THOMAS_2_0
+msgid "[@]Who could have known the hero of our town would end up being a child!"
+msgstr "[@] 谁能想到我们镇的英雄竟然是个孩子！"
+
+#. DIALOGUE_PODUNK_THOMAS_2_SPEAKER_Thomas
+msgid "Thomas"
+msgstr "Thomas"
+
+#. DIALOGUE_PODUNK_TIGER_0
+msgid "[@]Whimper."
+msgstr "[@] 呜呜。"
+
+#. DIALOGUE_PODUNK_TIGER_SPEAKER_Tiger
+msgid "Tiger"
+msgstr "老虎"
+
+#. DIALOGUE_PODUNK_TIGER_THOUGHTS_1_0
+msgid "[@](I apologize for earlier, we all make mistakes.)"
+msgstr "[@] （对于刚才的事我很抱歉，我们都犯了错。）"
+
+#. DIALOGUE_PODUNK_TIGER_THOUGHTS_1_SPEAKER_Tiger
+msgid "Tiger"
+msgstr "老虎"
+
+#. DIALOGUE_PODUNK_TIGER_THOUGHTS_2_0
+msgid "[@](I'm not usually like that, someone else told me to do it.)"
+msgstr "[@] （平常的我不是那样的，是有别人让我那么做。）"
+
+#. DIALOGUE_PODUNK_TIGER_THOUGHTS_2_SPEAKER_Tiger
+msgid "Tiger"
+msgstr "老虎"
+
+#. DIALOGUE_PODUNK_WALLY_HIDDEN_0
+msgid "[@]What do you want?"
+msgstr "[@] 你想要什么？"
+
+#. DIALOGUE_PODUNK_WALLY_HIDDEN_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_WANDA_0
+msgid "[@]The animals have gone crazy, and the dead have risen...[WAIT@]I knew we should've cremated Rex."
+msgstr "[@]动物们发了疯，[WAIT@]死者又复了活...[WAIT@]我就知道，当初该火化Rex来着的。"
+
+#. DIALOGUE_PODUNK_WANDA_SPEAKER_Wanda
+msgid "Wanda"
+msgstr "Wanda"
+
+#. DIALOGUE_PODUNK_WANDA_2_0
+msgid "[@]You're super!"
+msgstr "[@] 你太棒了！"
+
+#. DIALOGUE_PODUNK_WANDA_2_SPEAKER_Wanda
+msgid "Wanda"
+msgstr "Wanda"
+
+#. DIALOGUE_PODUNK_WILLIAM_0
+msgid "[@]Please be honest."
+msgstr "[@]老实回答我。"
+
+#. DIALOGUE_PODUNK_WILLIAM_1
+msgid "[@]You're not a z-zombie... Right?"
+msgstr "[@]你不是丧-丧尸...对吧？"
+
+#. DIALOGUE_PODUNK_WILLIAM_1-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_WILLIAM_1-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_WILLIAM_2
+msgid "[@]Uh oh. I heard there's no cure for zombies!"
+msgstr "[@]糟了。我听说变成丧尸就无药可救了！"
+
+#. DIALOGUE_PODUNK_WILLIAM_3
+msgid "[@]AAAAAAAHHH!"
+msgstr "[@]啊啊啊啊啊啊啊啊呀！"
+
+#. DIALOGUE_PODUNK_WILLIAM_4
+msgid "[@]Ah, so you're really a human? That's a relief.[WAIT@]Just don't look at my pants...[WAIT@]I've got bladder issues, alright!?"
+msgstr "[@]啊，所以你真的是个人类？那我就放心了。[WAIT@]不过别看我的裤子...[WAIT@]我膀胱有问题，行吗！？"
+
+#. DIALOGUE_PODUNK_WILLIAM_SPEAKER_William
+msgid "William"
+msgstr "William"
+
+#. DIALOGUE_PODUNK_WILLIAM_2_0
+msgid "[@]It was dreadful..."
+msgstr "[@] 那真是太可怕了..."
+
+#. DIALOGUE_PODUNK_WILLIAM_2_SPEAKER_William
+msgid "William"
+msgstr "William"
+
+#. DIALOGUE_PODUNK_WOOF_0
+msgid "[@]Woof woof![WAITBR](Grrr, my butt is so itchy![WAITBR]Stop standing there and lend me a hand!)"
+msgstr "[@]汪汪！[WAITBR]（咕噜，我的屁股好痒！[WAITBR]别只是站着，帮我一把！）"
+
+#. DIALOGUE_PODUNK_WOOF_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_WOOF_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_WOOF_3
+msgid "[@][Ninten] gave Mick a good scratch!"
+msgstr "[@][Ninten]给Mick挠了挠痒！"
+
+#. DIALOGUE_PODUNK_WOOF_4
+msgid "[@](Ahhh, many thanks.[WAITBR]Wait a minute, you can understand me?[WAITBR]You must have learned [color]Telepathy[/color]![WAITBR]That's great and all, but don't you dare use it on me by pressing [color][ui_select][/color] and selecting it within the [color]PSI menu[/color]."
+msgstr "[@] （啊呀呀，感激不尽。[WAITBR]等下，你能明白我的意思？[WAITBR]你一定是学会了[color]心灵感应[/color]！[WAITBR]这当然很棒，但你可别按下[color][ui_select][/color]，然后在[color]灵能菜单[/color]中选择它再对我使用。"
+
+#. DIALOGUE_PODUNK_WOOF_8
+msgid "And don't even think of using it by simply holding down [color][ui_toggle][/color] and pressing [color][ui_accept][/color].)"
+msgstr "连按下[color][ui_toggle][/color]再按下[color][ui_accept][/color]来使用这个能力这样的念头都不要再有。）"
+
+#. DIALOGUE_PODUNK_WOOF_9
+msgid "[@]Whimper..."
+msgstr "[@]呜呜..."
+
+#. DIALOGUE_PODUNK_WOOF_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_ANIMALS_0
+msgid "[@]Woof woof![WAITBR](If you see any other animals, try listening to their thoughts.)"
+msgstr "[@]汪汪！[WAITBR]（如果你看到了其他动物，试着听听它们的想法。）"
+
+#. DIALOGUE_PODUNK_WOOF_ANIMALS_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_DEAL_0
+msgid "[@](I can smell some Dog Treats in the basement.[WAITBR]If you fetch them for me, I'll let you go.)"
+msgstr "[@]（我能闻到地下室里有狗狗零食的味道。[WAITBR]如果你帮我去拿，我就放你走。）"
+
+#. DIALOGUE_PODUNK_WOOF_DEAL_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_FOOD_0
+msgid "[@](I hope they make more [FavFood]...)"
+msgstr "[@]（希望他们能多做点[FavFood]...）"
+
+#. DIALOGUE_PODUNK_WOOF_FOOD_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_KEY_0
+msgid "[@](I hope they haven't found out I ate all of the [FavFood]...[WAITBR]Hey, are you reading my thoughts?[WAITBR]Cut it out! That's an invasion of privacy![WAITBR]Take this and forget what you just heard.)"
+msgstr "[@]（希望它们没发现我把所有的[FavFood]都吃光了...[WAITBR]嘿，你是在读取我的想法吗？[等待]给我停下！这算是侵犯隐私！[WAITBR]拿上这个，忘了你刚才听到的事情。）"
+
+#. DIALOGUE_PODUNK_WOOF_KEY_4
+msgid "[@]You got the Basement Key."
+msgstr "[@]你得到了地下室钥匙。"
+
+#. DIALOGUE_PODUNK_WOOF_KEY_5
+msgid "[@](I can smell some Dog Treats in the basement."
+msgstr "[@]（我能闻到地下室里有狗狗零食的味道。"
+
+#. DIALOGUE_PODUNK_WOOF_KEY_6
+msgid "If you fetch them for me, I'll let you go.)"
+msgstr "如果你帮我去拿，我就放你走。）"
+
+#. DIALOGUE_PODUNK_WOOF_KEY_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_SECRET_0
+msgid "[@]Woof woof![WAITBR](Don't you dare use [color]Telepathy[/color] on me by pressing [color][ui_select][/color] and selecting it within the [color]PSI menu[/color].[WAITBR]And don't even think of using it by simply holding down [color][ui_toggle][/color] and pressing [color][ui_accept][/color].)"
+msgstr "[@]汪汪！[WAITBR]（你可别再通过按下[color][ui_select][/color]，再在[color]灵能菜单[/color]里选中它，对我使用[color]心灵感应[/color]。[WAITBR]而且你甚至最好不要有按住[color][ui_toggle][/color]再按下[color][ui_accept][/color]来使用这个能力的念头。）"
+
+#. DIALOGUE_PODUNK_WOOF_SECRET_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WOOF_TREATS_0
+msgid "[@]Woof![WAITBR](Woah, are those Dog Treats? Give them to me!)"
+msgstr "[@]汪！[WAITBR]（哇哦，那是狗狗零食？把它们给我！）"
+
+#. DIALOGUE_PODUNK_WOOF_TREATS_2
+msgid "[@][PartyLead] gave Mick the Dog Treats."
+msgstr "[@][PartyLead]把狗狗零食给了Mick。"
+
+#. DIALOGUE_PODUNK_WOOF_TREATS_3
+msgid "[@](It's a secret to everybody.)"
+msgstr "[@]（这是大家都知道的秘密。）"
+
+#. DIALOGUE_PODUNK_WOOF_TREATS_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_WORKING_0
+msgid "[@]*SNORE*-MIMimimi..."
+msgstr "[@]呼噜---呼噜噜..."
+
+#. DIALOGUE_PODUNK_WORKING_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_ZOO_MAN_TOILET_0
+msgid "[@]I've been stuck here since the animals escaped, and I'm too scared to come out.[WAIT@]You'll have to find another toilet, sorry."
+msgstr "[@]自从动物逃走后我就被困在这里，害怕得不敢出来。[WAIT@]所以你得去找别的厕所，抱歉。"
+
+#. DIALOGUE_PODUNK_ZOO_MAN_TOILET_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_ZOO_MAN_TOILET_2_0
+msgid "[@]I know everything has calmed down, but I think I've found the true comfort on a toilet seat.[WAIT@]I'll be staying here for a while."
+msgstr "[@]我知道现在骚乱都被平息了，但我发现坐在马桶圈上是真的舒坦。[WAIT@]我还要在这儿再待一会儿。"
+
+#. DIALOGUE_PODUNK_ZOO_MAN_TOILET_2_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
