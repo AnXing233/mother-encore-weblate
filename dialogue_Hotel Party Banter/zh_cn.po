@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_HOTEL_PARTY_BANTER_ANA_01_0
+msgid "[@]Despite his cowardice, I think [Lloyd] handled himself pretty well back there."
+msgstr "[@]尽管他很懦弱，但我认为[Lloyd]在那边应对得相当不错。"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYFOUND_CANARY_0
+msgid "[@]Chirp chirp!"
+msgstr "[@]叽叽喳喳！"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYFOUND_CANARY_SPEAKER_Canary_Chick
+msgid "Canary Chick"
+msgstr "金丝雀雏鸟"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYFOUND_CANARYTHOUGHTS_0
+msgid "[@](I wanna see my momma...)"
+msgstr "[@]( 我想见妈妈··· )"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYFOUND_CANARYTHOUGHTS_SPEAKER_Canary_Chick
+msgid "Canary Chick"
+msgstr "金丝雀雏鸟"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYFOUND_PIPPI_0
+msgid "[@]That chick's mom must be worried sick.[WAIT@]Let's hurry up and reunite them, okay?[WAIT@]If I remember correctly, Canary Village should be to the north west of town."
+msgstr "[@]那只小鸟的妈妈一定非常担心。[WAIT@]我们赶快去把他们团聚，好吗？[WAIT@]如果我没记错的话，金丝雀村应该在镇子的西北方向。"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_CANARYMELODY_PIPPI_0
+msgid "[@]I'm glad we were able to find that canary's mother.[WAIT@]There's something about seeing a mother reunite with her child that just warms my heart.[WAIT@]Anyway, my mom asked us to go see the mayor.[WAIT@]I wonder what he has to say."
+msgstr "[@]我很高兴我们能够找到那只金丝雀的妈妈。[WAIT@]看到妈妈与孩子重聚总是让我心里暖洋洋的。[WAIT@]啊对了，顺便说一下，我妈妈让我们去见市长。[WAIT@]我想知道他会说些什么。"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_1
+msgid "[@]Why didn't you tell me earlier?!"
+msgstr "[@]那你为什么不早点告诉我？!"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_2
+msgid "[@]It definitely would have lessened the shock factor."
+msgstr "[@]这肯定会大大减少震惊感。"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_3
+msgid "[@]Oh please, I'm willing to bet if [Ninten] told you earlier, you wouldn't have come at all."
+msgstr "[@]哦，拜托，我打赌如果[Ninten]早点告诉你，你根本不会来的。"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_4
+msgid "[@]H-hey! I'm not scared of aliens!"
+msgstr "[@]嘿——！我才不害怕外星人呢！"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_6
+msgid "[@]Man, what an asshole!"
+msgstr "[@]天啊，这个人真混蛋！"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_LLOYD_01_7
+msgid "[@]I-I didn't know we were going to fight a-aliens when I went along on this adventure..."
+msgstr "我-我不知道我们去冒险的时候会去跟外星人打架···"
+
+#. DIALOGUE_HOTEL_PARTY_BANTER_PIPPIRESCUED_PIPPI_0
+msgid "[@]Thanks for freeing me from that coffin, [Ninten].[WAIT@]I was scared I was going to be eaten by zombies or starve to death.[WAIT@]You say the mayor's looking for me, right?[WAIT@]Well maybe we don't have to see that old guy just yet.[WAIT@]I really want to go see that pet shop in the department store.[WAIT@]It's practically like a zoo, but you don't even have to PAY to see the animals."
+msgstr "[@]谢谢你把我从那个棺材里救出来， [Ninten]。[WAIT@]我当时真的很害怕，害怕自己会被丧尸吃掉或者饿死。[WAIT@]你说市长在找我，对吧？[WAIT@]嗯···也许我们还不必去见那个老家伙。[WAIT@]我很想去看看百货商场里的宠物店。[WAIT@]那里几乎像一个动物园，但你甚至不需要付钱就能看到动物。"
+
