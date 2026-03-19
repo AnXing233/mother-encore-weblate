@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_ITEMDESCRIPTIONS_EAGLEFEATHER_1
+msgid "[@][PartyLead] got the [color][ItemName][/color]!"
+msgstr "[@][PartyLead]得到了[color][ItemName][/color]！"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_EAGLEFEATHER_2
+msgid "[@]A feather dropped by a bald eagle.[WAIT@]Press [color][ui_accept][/color] near certain ledges to [color]jump[/color]!"
+msgstr "[@]一根秃鹰掉下的羽毛。[WAIT@]在某些悬崖附近按[color][ui_accept][/color]以[color]跳跃[/color]！"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_FIRSTBAT_0
+msgid "[@][PartyLead] opened the present."
+msgstr "[@][PartyLead]拆开了礼物盒。"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_FIRSTBAT_1
+msgid "[@][ItemReceiver] got [ItemArt3][ItemName]![WAIT@]There's a note attached to it."
+msgstr "[@][ItemReceiver]获得了[ItemArt3][ItemName]![WAIT@]上面附有一张便条。"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_FIRSTBAT_3
+msgid "[@]Bats are pretty cool, but they don't really do much unless you equip them."
+msgstr "[@]球棒很酷，但前提是你得装备它，否则它实际上没什么用。"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_FIRSTBAT_SPEAKER_Note
+msgid "Note"
+msgstr "便条"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_ITEMCHECK_0
+msgid "[@][ItemReceiver] got [ItemArt3][ItemName]!"
+msgstr "[@][ItemReceiver]获得了[ItemArt3][ItemName]！"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_ITEMFULL_0
+msgid "[@]Your inventory's full..."
+msgstr "[@]你的背包空间已满···"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_PRESENTCHECK_0
+msgid "[@][PartyLead] opened the present."
+msgstr "[@][PartyLead]拆开了礼物盒。"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_PRESENTCHECK_1
+msgid "[@][ItemReceiver] got [ItemArt3][ItemName]!"
+msgstr "[@][ItemReceiver]获得了[ItemArt3][ItemName]！"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_PRESENTEMPTY_0
+msgid "[@]It's empty..."
+msgstr "[@]是空的···"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_PRESENTFULL_0
+msgid "[@][PartyLead] opened the present.[WAIT@]Found [ItemArt3][ItemName], but your inventory's full..."
+msgstr "[@][PartyLead]拆开了礼物盒。[WAIT@]获得了[ItemArt3][ItemName]，但是拿的东西太多了···"
+
+#. DIALOGUE_ITEMDESCRIPTIONS_RULER_0
+msgid "[@][ItemReceiver] can now figure out the lengths of many things."
+msgstr "[@][ItemReceiver]现在能测算出许多物体的长度了。"
+
