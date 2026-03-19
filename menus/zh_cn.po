@@ -1,6 +1,14 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-19 06:08+0000\n"
+"Last-Translator: AnXing233 <aian656@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/mother-encore/menus/zh_Hans/>\n"
+"Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #. ﻿DISCLAIMER_TITLE
 msgid "DISCLAIMER"
@@ -464,7 +472,7 @@ msgstr "三文鱼"
 
 #. LONGEST_POSSIBLE_NAME
 msgid "ŒŒŒŒŒŒŒ"
-msgstr ""
+msgstr "ŒŒŒŒŒŒŒ"
 
 #. LONGEST_POSSIBLE_FOOD
 msgid "ŒŒŒŒŒŒŒŒŒŒŒŒŒ"
@@ -472,7 +480,7 @@ msgstr ""
 
 #. LONGEST_POSSIBLE_PLAYER_NAME
 msgid "ŒŒŒŒŒŒŒŒŒŒŒŒŒ"
-msgstr ""
+msgstr "ŒŒŒŒŒŒŒŒŒŒŒŒŒ"
 
 #. NAME_BIO0
 msgid "What is this boy's name?"
@@ -848,51 +856,62 @@ msgstr "语言"
 
 #. OPTIONS_LANGUAGE_EN
 msgid "English"
-msgstr ""
+msgstr "English"
 
 #. OPTIONS_LANGUAGE_FR
+#, fuzzy
 msgid "Français"
-msgstr ""
+msgstr "Français"
 
 #. OPTIONS_LANGUAGE_ES
+#, fuzzy
 msgid "Español latino"
-msgstr ""
+msgstr "Español latino"
 
 #. OPTIONS_LANGUAGE_ES_ES
+#, fuzzy
 msgid "Español castellano"
-msgstr ""
+msgstr "Español castellano"
 
 #. OPTIONS_LANGUAGE_JA
+#, fuzzy
 msgid "にほんご"
-msgstr ""
+msgstr "にほんご"
 
 #. OPTIONS_LANGUAGE_KO
+#, fuzzy
 msgid "한국어"
-msgstr ""
+msgstr "한국어"
 
 #. OPTIONS_LANGUAGE_IT
+#, fuzzy
 msgid "Italiano"
-msgstr ""
+msgstr "Italiano"
 
 #. OPTIONS_LANGUAGE_PL
+#, fuzzy
 msgid "Polski"
-msgstr ""
+msgstr "Polski"
 
 #. OPTIONS_LANGUAGE_PT_BR
+#, fuzzy
 msgid "Português brasileiro"
-msgstr ""
+msgstr "Português brasileiro"
 
 #. OPTIONS_LANGUAGE_DE
+#, fuzzy
 msgid "Deutsch"
-msgstr ""
+msgstr "Deutsch"
 
 #. OPTIONS_LANGUAGE_RU
+#, fuzzy
 msgid "Русский"
-msgstr ""
+msgstr "Русский"
 
 #. OPTIONS_LANGUAGE_UK
+#, fuzzy
 msgid "Українська"
-msgstr ""
+msgstr "Українська"
 
 #. LANGUAGE_CODE
 msgid "en"
@@ -1447,16 +1466,18 @@ msgid "[plur_num:{0}::s]"
 msgstr "[plur_num:{0}::s]"
 
 #. WORD_SEPARATOR
+#, fuzzy
 msgid " "
-msgstr ""
+msgstr " "
 
 #. $_LEFT
 msgid "$ "
 msgstr "$"
 
 #. $_RIGHT
+#, fuzzy
 msgid "​"
-msgstr ""
+msgstr "​"
 
 #. SYMBOL_BULLET_MAIN
 msgid "@ "
@@ -1479,6 +1500,6 @@ msgid "…"
 msgstr "···"
 
 #. OPTIONS_LANGUAGE_ZH_CN
+#, fuzzy
 msgid "简体中文"
-msgstr ""
-
+msgstr "简体中文"
