@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿INTRO_CUTSCENE_OLD_01
+msgid "In the early 1900's,\\na dark shadow covered a small\\ncountry town in rural America."
+msgstr "在20世纪初，\\n一片黑暗的阴影笼罩了美国乡村的一座小镇。"
+
+#. INTRO_CUTSCENE_OLD_02
+msgid "The dark shadow formed\\nmysteriously at the\\nsummit of Mt Itoi."
+msgstr "这片黑暗的阴影\\n在糸井山的山顶神秘地凝聚成形。"
+
+#. INTRO_CUTSCENE_OLD_03
+msgid "At that time,\\nnumerous paranormal\\nincidents occured."
+msgstr "那时，超自然事件\\n频发不止。"
+
+#. INTRO_CUTSCENE_OLD_04
+msgid "The last incident\\ninvolved the disappearance\\nof a young married couple."
+msgstr "最后一次事件\\n涉及到一对年轻夫妇\\n的离奇失踪。"
+
+#. INTRO_CUTSCENE_OLD_05
+msgid "The man's name was George.\\nThe woman's name was Maria."
+msgstr "丈夫名为乔治。\\n妻子名为玛丽亚。"
+
+#. INTRO_CUTSCENE_OLD_06
+msgid "As soon as they disappeared,\\nso did the dark shadow."
+msgstr "他们消失的那一刻，\\n黑暗的阴影也随之散去。"
+
+#. INTRO_CUTSCENE_OLD_07
+msgid "Two years later,\\nas suddenly as he left,\\nGeorge returned."
+msgstr "两年后，\\n乔治回来了，\\n来得和他当初离开时一样突然。"
+
+#. INTRO_CUTSCENE_OLD_08
+msgid "He never told anyone\\nwhere he had been\\nor what he had done."
+msgstr "他从未向任何人透露\\n自己去了哪里\\n又都做了什么。"
+
+#. INTRO_CUTSCENE_OLD_09
+msgid "But he began an odd\\nstudy of psychic powers,\\nall by himself."
+msgstr "但随后\\n他开始独自进行\\n奇异的灵能研究。"
+
+#. INTRO_CUTSCENE_OLD_10
+msgid "As for Maria,\\nhis wife..."
+msgstr "至于玛丽亚，\\n他的妻子···"
+
+#. INTRO_CUTSCENE_OLD_11
+msgid "She never returned."
+msgstr "她再也没有回来。"
+
+#. INTRO_CUTSCENE_OLD_12
+msgid "80 years have passed\\nsince then."
+msgstr "自那之后，\\n时间过去了80年。"
+
+#. INTRO_CUTSCENE_NOW_01
+msgid "The year is 1988."
+msgstr "时间来到1988年。"
+
+#. INTRO_CUTSCENE_NOW_02
+msgid "Outside Podunk, a small town in America."
+msgstr "美国的一座小镇，波顿克的郊外。"
+
+#. INTRO_CUTSCENE_PUNCTUATION
+msgid ".,;:…!?"
+msgstr "。，；：···！？"
+
