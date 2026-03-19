@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿BATTLE_ACTION_BASH
+msgid "Bash"
+msgstr "攻击"
+
+#. BATTLE_ACTION_SKILLS
+msgid "Skills"
+msgstr "技能"
+
+#. BATTLE_ACTION_SKILLS_NINTEN
+msgid "Swings"
+msgstr "挥棒"
+
+#. BATTLE_ACTION_SKILLS_LLOYD
+msgid "Tools"
+msgstr "工具"
+
+#. BATTLE_ACTION_SKILLS_TEDDY
+msgid "Skills"
+msgstr "技能"
+
+#. BATTLE_ACTION_PSI
+msgid "PSI"
+msgstr "灵能"
+
+#. BATTLE_ACTION_DEFEND
+msgid "Defend"
+msgstr "防御"
+
+#. BATTLE_ACTION_ITEMS
+msgid "Items"
+msgstr "物品"
+
+#. BATTLE_ACTION_RUN
+msgid "Run"
+msgstr "逃跑"
+
+#. BATTLE_PSIMENU_OFFENSE
+msgid "Offense"
+msgstr "攻击力"
+
+#. BATTLE_PSIMENU_RECOVERY
+msgid "Recovery"
+msgstr "恢复类"
+
+#. BATTLE_PSIMENU_ASSIST
+msgid "Assist"
+msgstr "辅助类"
+
+#. BATTLE_TARGET_ALL_ENEMIES
+msgid "All Enemies"
+msgstr "所有敌人"
+
+#. BATTLE_TARGET_ALL_ALLIES
+msgid "All Allies"
+msgstr "所有队员"
+
+#. BATTLE_MSG_EXP_ONE_ALLY
+msgid "{name} gained {value} exp."
+msgstr "{name}获得了{value}点经验值。"
+
+#. BATTLE_MSG_EXP_TWO_ALLIES
+msgid "{name} and {target} gained {value} exp each."
+msgstr "{name}和{target}各获得了{value}点经验值。"
+
+#. BATTLE_MSG_EXP_MANY_ALLIES
+msgid "{name} and {n4} friends gained {value} exp each."
+msgstr "{name}和{n4}个队友各获得了{value}点经验值。"
+
+#. BATTLE_MSG_EXP0_ONE_ALLY
+msgid "{name} gained 0 exp."
+msgstr "{name}获得了0点经验值。"
+
+#. BATTLE_MSG_EXP0_TWO_ALLIES
+msgid "{name} and {target} gained 0 exp each."
+msgstr "{name}和{target}各获得了0点经验值。"
+
+#. BATTLE_MSG_EXP0_MANY_ALLIES
+msgid "{name} and {n4} friends gained 0 exp each."
+msgstr "{name}和{n4}个队友各获得了0点经验值。"
+
+#. BATTLE_MSG_PRESENT
+msgid "The enemy dropped a present!"
+msgstr "敌人身上掉落了一个礼物盒！"
+
+#. BATTLE_MSG_PRESENT_INSIDE
+msgid "Inside the present, there {i6} {i3}{item}."
+msgstr "礼物盒的里面有{i6}{i3}{item}。"
+
+#. BATTLE_MSG_PRESENT_TAKING
+msgid "{n0}{name} took {i5}."
+msgstr "{n0}{name}把{i5}拿上了。"
+
+#. BATTLE_MSG_PRESENT_GIVING
+msgid "{i0}{item} {i6} put inside {name}'s bag."
+msgstr "{i0}{item}{i6}放到了{name}的包里。"
+
+#. BATTLE_MSG_PRESENT_FULL
+msgid "But you can't carry any more stuff..."
+msgstr "但是你不能再携带更多物品了......"
+
+#. BATTLE_MSG_GAME_OVER
+msgid "The party was defeated..."
+msgstr "整个队伍全军覆没了···"
+
+#. BATTLE_MSG_SKILL
+msgid "{n0}{name} attacks!"
+msgstr "{n0}{name}的攻击！"
+
+#. BATTLE_MSG_PSI
+msgid "{n0}{name} tried {skill}{skillLevel}!"
+msgstr "{name}使出了{skill}{skillLevel}！"
+
+#. BATTLE_MSG_ITEM_SELF
+msgid "{n0}{name} uses {i1}{item}!"
+msgstr "{n0}{name}使用了{i1}{item}！"
+
+#. BATTLE_MSG_ITEM_OTHER
+msgid "{n0}{name} uses {i1}{item} on {t1}{target}!"
+msgstr "{n0}{name}对{i1}{item}使用了{t1}{target}！"
+
+#. BATTLE_MSG_FLEE
+msgid "{n0}{name} ran away!"
+msgstr "{n0}{name}逃脱了！"
+
+#. BATTLE_MSG_FLEE_FAILED
+msgid "Couldn't run!"
+msgstr "跑不掉！"
+
+#. BATTLE_MSG_REFLECT_BEAM_COURAGE
+msgid "{t0}{target}'s {item} shined a bright light!{wait}\\nIt reflected the beam back!"
+msgstr "{t0}{target}的{item}发出耀眼的光芒！{wait}\\n它将光束原封不动的反射了回去！"
+
+#. BATTLE_MSG_REFLECT_BEAM_COURAGE_1
+msgid "{t0}{target}'s {item} shined a bright light!"
+msgstr "{t0}{target}的{item}发出耀眼的光芒！"
+
+#. BATTLE_MSG_REFLECT_BEAM_COURAGE_2
+msgid "It reflected the beam back!"
+msgstr "它将光束原封不动的反射了回去！"
+
+#. BATTLE_MSG_REFLECT_BEAM
+msgid "{t0}{target}'s {item} reflected the beam back!"
+msgstr "{t0}{target}的{item}将光束原封不动的反射了回去！"
+
+#. BATTLE_MSG_REFLECT_LIGHTNING
+msgid "{t0}{target}'s {item} reflected the lightning back!"
+msgstr "{t0}{target}的{item}发出了耀眼的光芒！"
+
+#. BATTLE_MSG_SPY_NAME
+msgid "Name: "
+msgstr "角色："
+
+#. BATTLE_MSG_SPY_FAILED
+msgid "{n0}{name} could not gather any information from the enemy!"
+msgstr "{n0}{name}无法从敌人那里获得任何信息！"
+
+#. BATTLE_MSG_NPC_PROTECTION
+msgid "But {n1}{name} took the hit for {t1}{target}!"
+msgstr "但是{n1}{name}站出来为{t1}{target}挡住了这一击！"
+
+#. BATTLE_MSG_FLYING_MAN_COLLAPSED
+msgid "The light faded from {n1}{name}'s eyes..."
+msgstr "{n1}{name}的眼睛里失去了光彩···"
+
+#. BATTLE_MSG_MORTAL_DAMAGE
+msgid "{t0}{target} took mortal damage!"
+msgstr "{t0}{target} 受到了致命一击！"
+
+#. BATTLE_MSG_STATUS_ASTHMA
+msgid "Oh no!! {t0}{target} caught the asthma!"
+msgstr "噢不！！{t0}{target}的哮喘发作了！"
+
+#. BATTLE_MSG_STATUS_BLINDED
+msgid "{t0}{target} can't see!"
+msgstr "{t0}{target}的眼睛看不见了！"
+
+#. BATTLE_MSG_STATUS_BURNED
+msgid "{t0}{target} caught on fire!"
+msgstr "{t0}{target}身上着火了！"
+
+#. BATTLE_MSG_STATUS_COLD
+msgid "Oh no!! {t0}{target} caught the cold!"
+msgstr "噢不！！{t0}{target}得了感冒！"
+
+#. BATTLE_MSG_STATUS_CONFUSED
+msgid "{t0}{target} felt a little strange!"
+msgstr "{t0}{target}感觉有点奇怪！"
+
+#. BATTLE_MSG_STATUS_FORGETFUL
+msgid "{t0}{target} forgot how to perform {t4} special techniques!"
+msgstr "{t0}{target}忘记了如何使用{t4}特技！"
+
+#. BATTLE_MSG_STATUS_MUSHROOMIZED
+msgid "Oh no!! {t0}{target} caught a mushroom!"
+msgstr "噢不！！{t0}{target}感染了蘑菇孢子！"
+
+#. BATTLE_MSG_STATUS_NAUSEA
+msgid "Oh no!! {t0}{target} has nausea!"
+msgstr "噢不！{t0}{target}感到恶心！"
+
+#. BATTLE_MSG_STATUS_NUMB
+msgid "{t0}{target} felt numb!"
+msgstr "{t0}{target}的身体麻痹了！"
+
+#. BATTLE_MSG_STATUS_POISONED
+msgid "{t0}{target} got poisoned!"
+msgstr "{t0}{target}中毒了！"
+
+#. BATTLE_MSG_STATUS_ROPE
+msgid "{t0}{target} got tied up with the Rope!"
+msgstr "{target}被绳子绑起来了！"
+
+#. BATTLE_MSG_STATUS_SLEEPING
+msgid "{t0}{target} fell asleep!"
+msgstr "{t0}{target}睡着了！"
+
+#. BATTLE_MSG_STATUS_SUNSTROKED
+msgid "Oh no!! {t0}{target} has sunstroke!"
+msgstr "不好！！{t0}{target}中暑了！"
+
+#. BATTLE_MSG_STATUS_CONFUSED_EFFECT
+msgid "{n0}{name} is feeling a bit confused..."
+msgstr "{n0}{name}感到有点困惑..."
+
+#. BATTLE_MSG_STATUS_ROPE_EFFECT
+msgid "{n0}{name} is tied up..."
+msgstr "{name}被绑起来了..."
+
+#. BATTLE_MSG_HEAL_STATUS_ASTHMA
+msgid "{t0}{target} could breathe again!"
+msgstr "{t0}{target}又能呼吸了！"
+
+#. BATTLE_MSG_HEAL_STATUS_BLINDED
+msgid "{t0}{target} could see again!"
+msgstr "{t0}{target}恢复视觉了！"
+
+#. BATTLE_MSG_HEAL_STATUS_BURNED
+msgid "{t0}{target}'s burns went away!"
+msgstr "{t0}{target}的烧伤好了！"
+
+#. BATTLE_MSG_HEAL_STATUS_COLD
+msgid "{t0}{target}'s cold went away!"
+msgstr "{t0}{target}的感冒好了！"
+
+#. BATTLE_MSG_HEAL_STATUS_CONFUSED
+msgid "{t0}{target} is no longer confused!"
+msgstr "{t0}{target}不困惑了！"
+
+#. BATTLE_MSG_HEAL_STATUS_FORGETFUL
+msgid "{t0}{target} remembered how to perform {t4} special techniques!"
+msgstr "{t0}{target}记住了如何使用{t4}的特殊技能！"
+
+#. BATTLE_MSG_HEAL_STATUS_MUSHROOMIZED
+msgid "The mushroom fell off {t1}{target}'s head!"
+msgstr "蘑菇从{t1}{target}的头上掉了下来！"
+
+#. BATTLE_MSG_HEAL_STATUS_NAUSEA
+msgid "{t0}{target} is no longer nauseous!"
+msgstr "{t0}{target}不反胃了！"
+
+#. BATTLE_MSG_HEAL_STATUS_NUMB
+msgid "{t0}{target} was able to move again!"
+msgstr "{t0}{target}又能动了！"
+
+#. BATTLE_MSG_HEAL_STATUS_POISONED
+msgid "The poison was removed from {t1}{target}'s body!"
+msgstr "{t1}{target}体内的毒素消除了！"
+
+#. BATTLE_MSG_HEAL_STATUS_ROPE
+msgid "{t0}{target} escaped from the Rope!"
+msgstr "{t0}{target}挣脱了绳子！"
+
+#. BATTLE_MSG_HEAL_STATUS_SLEEPING
+msgid "{t0}{target} woke up!"
+msgstr "{t0}{target}醒了！"
+
+#. BATTLE_MSG_HEAL_STATUS_STONE
+msgid "{t0}{target} softened up!"
+msgstr "{t0}{target}软化了！"
+
+#. BATTLE_MSG_HEAL_STATUS_SUNSTROKED
+msgid "{t0}{target} no longer has sunstroke!"
+msgstr "{t0}{target}不再软化了！"
+
+#. BATTLE_MSG_HEAL_STATUS_UNCONSCIOUS
+msgid "{t0}{target} was revived!"
+msgstr "{t0}{target}复活了！"
+
+#. BATTLE_MSG_HEAL_NONE
+msgid "It had no effect on {t1}{target}!"
+msgstr "它对{t1}{target}没有影响！"
+
+#. BATTLE_MSG_HEAL_ALL
+msgid "{t0}{target} was healed of all statuses!"
+msgstr "{t0}{target}所有的异常状态消失了！"
+
+#. BATTLE_MSG_STATS_UP
+msgid "{t0}{target}'s {stat} went up by {value}!"
+msgstr "{t0}{target}的{stat}提高了{value}点！"
+
+#. BATTLE_MSG_STATS_UP_MAX
+msgid "{t0}{target}'s {stat} could not go any higher."
+msgstr "{t0}{target}的{stat}提高到最大值了。"
+
+#. BATTLE_MSG_STATS_DOWN
+msgid "{t0}{target}'s {stat} went down by {value}!"
+msgstr "{t0}{target}的{stat}降低了{value}点！"
+
+#. BATTLE_MSG_STATS_DOWN_MAX
+msgid "{t0}{target}'s {stat} could not go any lower."
+msgstr "{t0}{target}的{stat}降低到最小值了。"
+
+#. BATTLE_MSG_LEVEL_UP
+msgid "{name} leveled up to {value}!"
+msgstr "{name}升级到{value}！"
+
+#. BATTLE_MSG_LEVEL_UP_HP
+msgid "HP raised by {value}."
+msgstr "HP 增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_PP
+msgid "PP raised by {value}."
+msgstr "PP 增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_IQ
+msgid "IQ raised by {value}."
+msgstr "IQ 增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_OFFENSE
+msgid "Offense raised by {value}."
+msgstr "战力增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_DEFENSE
+msgid "Defense raised by {value}."
+msgstr "防御增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_SPEED
+msgid "Speed raised by {value}."
+msgstr "速度增加了{value}。"
+
+#. BATTLE_MSG_LEVEL_UP_GUTS
+msgid "Guts raised by {value}."
+msgstr "勇气增加了{value}。"
+
+#. BATTLE_MSG_LEARNING
+msgid "{n0}{name} learned {skill}{skillLevel}!"
+msgstr "{n0}{name}学会了{skill}{skillLevel}！"
+
+#. BATTLE_MSG_BADGE_REVEAL
+msgid "The Courage Badge turned out to be the Franklin Badge v0.8!"
+msgstr "勇气徽章变成了富兰克林徽章v0.8!"
+
+#. ARTICLES_NINTEN
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. ARTICLES_ANA
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. ARTICLES_LLOYD
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. ARTICLES_TEDDY
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. ARTICLES_PIPPI
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. ARTICLES_FLYINGMAN
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. ARTICLES_CANARYCHICK
+msgid "The ,the ,The ,the ,its"
+msgstr ",,,,它的"
+
+#. ARTICLES_EVE
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. ARTICLES_DEFAULT
+msgid ",,,,its"
+msgstr ",,,,它的"
+
+#. BATTLE_NAME_ENEMIES
+msgid "enemies"
+msgstr "敌人"
+
+#. BATTLE_NAME_ENEMIES_ART
+msgid "The ,the ,The ,the ,their"
+msgstr ",,,,它们的"
+
+#. BATTLE_NAME_ALLIES
+msgid "{target}'s party"
+msgstr "{target}的队伍"
+
+#. BATTLE_NAME_ALLIES_ART
+msgid ",,,,their"
+msgstr ",,,,它们的"
+
+#. BATTLE_LETTER_WHITESPACE
+msgid " "
+msgstr " "
+
+#. BATTLE_LETTER_SPACING
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#. BATTLE_LETTER_ALPHABET
+msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
