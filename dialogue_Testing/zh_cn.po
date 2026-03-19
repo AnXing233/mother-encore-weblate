@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_TESTING_ADDLLOYD_0
+msgid "[@]Do you want to be my friend?"
+msgstr "[@]你想成为我的朋友吗？"
+
+#. DIALOGUE_TESTING_ADDLLOYD_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_TESTING_ADDLLOYD_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_TESTING_ADDLLOYD_1
+msgid "[@]:("
+msgstr "[@]:("
+
+#. DIALOGUE_TESTING_ADDLLOYD_2
+msgid "[@]Yippie!"
+msgstr "[@]哇耶！"
+
+#. DIALOGUE_TESTING_ADDPARTY_0
+msgid "[@]I can add party members."
+msgstr "[@]可招募队员入队。"
+
+#. DIALOGUE_TESTING_ADDPARTY_1
+msgid "[@]Who do you want?"
+msgstr "[@]你想要谁？"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_0
+msgid "ninten"
+msgstr "任天"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_1
+msgid "lloyd"
+msgstr "罗伊德"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_2
+msgid "ana"
+msgstr "安娜"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_3
+msgid "teddy"
+msgstr "泰迪"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_4
+msgid "pippi"
+msgstr "皮皮"
+
+#. DIALOGUE_TESTING_ADDPARTY_1-OPT_5
+msgid "all"
+msgstr "全部"
+
+#. DIALOGUE_TESTING_ADDPARTY_2
+msgid "[@]ok bitch"
+msgstr "[@]好吧呆瓜"
+
+#. DIALOGUE_TESTING_ADDPARTY_3
+msgid "[@]added ninten"
+msgstr "[@]添加任天"
+
+#. DIALOGUE_TESTING_ADDPARTY_4
+msgid "[@]added lloyd"
+msgstr "[@]添加罗伊德"
+
+#. DIALOGUE_TESTING_ADDPARTY_5
+msgid "[@]added ana"
+msgstr "[@]添加安娜"
+
+#. DIALOGUE_TESTING_ADDPARTY_6
+msgid "[@]added teddy"
+msgstr "[@]添加泰迪"
+
+#. DIALOGUE_TESTING_ADDPARTY_7
+msgid "[@]added pippi"
+msgstr "[@]添加皮皮"
+
+#. DIALOGUE_TESTING_ADDPARTY_8
+msgid "[@]added all party members"
+msgstr "[@]添加所有可招募队员"
+
+#. DIALOGUE_TESTING_ADDPARTY_SPEAKER_kirb
+msgid "kirb"
+msgstr "柯比"
+
+#. DIALOGUE_TESTING_BOBOO_0
+msgid "[@]Lemme heal you!"
+msgstr "[@]让我治愈你！"
+
+#. DIALOGUE_TESTING_BOBOO_SPEAKER_Healer
+msgid "Healer"
+msgstr "治疗者"
+
+#. DIALOGUE_TESTING_DEBUGTUT_0
+msgid "[@]Hello! and welcome to the debug world[WAIT@]press c to open the menu, shift to run and press x to attack[WAIT@]press ` to open the debug menu to check the games info and to edit your party[WAIT@]for the commands menu: choosing OPTIONS will start a test battle[WAIT@]Press A and S to switch party leaders and status to check your stats[WAIT@]ight have fun while i do your mother"
+msgstr "[@]你好！欢迎来到调试世界。[WAIT@]按C键打开菜单，按住Shift键奔跑，按X键攻击。[WAIT@]按 ` 键（波浪号键）可打开调试菜单，查看游戏信息或编辑你的队伍。[WAIT@]在命令菜单中：选择“选项”将开始一场测试战斗。[WAIT@]按A键和S键切换领队，按状态键查看属性。[WAIT@]玩得开心，我也得去处理你的\"MOTHER\"事务了。"
+
+#. DIALOGUE_TESTING_GAY_THOUGHTS_0
+msgid "[@]I like men!!!"
+msgstr "[@]我喜欢男人！！"
+
+#. DIALOGUE_TESTING_GAY_THOUGHTS_1
+msgid "[@]Alright, sending us to a fruity place."
+msgstr "[@]好吧，把我们送到一个水果味的地方。"
+
+#. DIALOGUE_TESTING_GAY_THOUGHTS_4
+msgid "[@]You're gay now."
+msgstr "[@]你现在是男同性恋了。"
+
+#. DIALOGUE_TESTING_GAY_THOUGHTS_SPEAKER_Kirby
+msgid "Kirby"
+msgstr "卡比"
+
+#. DIALOGUE_TESTING_HELLOWORLD_0
+msgid "[@]Hello World!"
+msgstr "[@]你好世界！"
+
+#. DIALOGUE_TESTING_HELLOWORLD_1
+msgid "[@]Whats your opinion on [tornado radius=3 freq=-4]special [rainbow]text[/rainbow] effects[/tornado]?"
+msgstr "[@]你对[tornado radius=3 freq=-4]特殊[/rainbow]文字[/tornado]效果有什么看法？"
+
+#. DIALOGUE_TESTING_HELLOWORLD_1-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_TESTING_HELLOWORLD_1-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_TESTING_HELLOWORLD_2
+msgid "[@]I know right? Btw, next time you talk to me, I'll say something else."
+msgstr "[@]我懂吧？对了，下次你跟我说话的时候，我会说点别的。"
+
+#. DIALOGUE_TESTING_HELLOWORLD_3
+msgid "[@]Fuck you go get stuck in an infinite text loop"
+msgstr "[@]该死的无尽文字循环"
+
+#. DIALOGUE_TESTING_HELLOWORLD_SPEAKER_Ben
+msgid "Ben"
+msgstr "Ben"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_0
+msgid "[@]This is my second dialog, pretty neat huh?"
+msgstr "[@]这是我的第二个对话，很不错吧？"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_1
+msgid "[@]Here, take this Bread and 30 quids"
+msgstr "[@]嘿，带上这块面包和30英镑"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_2
+msgid "[@]Ay bruv, your inventory's full"
+msgstr "[@]唉老铁，你的库存已经满了。"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_3
+msgid "[@][ItemReceiver] got the Bread!"
+msgstr "[@][ItemReceiver] 得到了面包！"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_4
+msgid "[@]Anyways, next time you talk to me, I'll talk like a weird sign"
+msgstr "[@]无论如何，下次你跟我说话的时候，我会像个奇怪的标志一样说话。"
+
+#. DIALOGUE_TESTING_HELLOWORLD2_SPEAKER_Ben
+msgid "Ben"
+msgstr "Ben"
+
+#. DIALOGUE_TESTING_NAMES_0
+msgid "[@]Hi guys Im Benichi"
+msgstr "[@]嗨伙计我是Benichi"
+
+#. DIALOGUE_TESTING_NAMES_1
+msgid "[@]Ok now my name is Jeff"
+msgstr "[@]好的现在我的名字是Jeff"
+
+#. DIALOGUE_TESTING_NAMES_2
+msgid "[@]Ok now my name is really long for no reason"
+msgstr "[@]好吧，现在我的名字真的很长，没有为什么"
+
+#. DIALOGUE_TESTING_NAMES_3
+msgid "[@]Ok now I have no name"
+msgstr "[@]好了现在我没有名字了。"
+
+#. DIALOGUE_TESTING_NAMES_4
+msgid "[@]Btw, restart this scene and I'll be gone forever"
+msgstr "[@]随便说一下, 如果重新上演这一幕，我就要永远消失了。"
+
+#. DIALOGUE_TESTING_NAMES_SPEAKER_Jeff
+msgid "Jeff"
+msgstr "Jeff"
+
+#. DIALOGUE_TESTING_NAMES_SPEAKER_Nerd_Face_Emoji
+msgid "Nerd Face Emoji"
+msgstr "书呆脸表情符号"
+
+#. DIALOGUE_TESTING_NAMES_SPEAKER_Really_long_for_no_reason
+msgid "Really long for no reason"
+msgstr "很长，没有为什么"
+
+#. DIALOGUE_TESTING_NAMES_SPEAKER_Shy
+msgid "Shy"
+msgstr "害羞"
+
+#. DIALOGUE_TESTING_PLAYERNAME_0
+msgid "[@]Hey you! Yes, you, the person holding the controller.[WAIT@]What is your name?"
+msgstr "[@]嘿你！对，就是你，拿着手柄的人。[WAIT@]你的名字是什么？"
+
+#. DIALOGUE_TESTING_PLAYERNAME_2
+msgid "[@]Happy to meet you, [PlayerName]!"
+msgstr "[@]很高兴认识你，[Playername]！"
+
+#. DIALOGUE_TESTING_PLAYERNAME_SPEAKER_Developer
+msgid "Developer"
+msgstr "开发者"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_1
+msgid "[@]come back once Lloyd is in your party"
+msgstr "[@]等Lloyed回到队伍了你就回来"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_2
+msgid "[@]Do you want to ditch that nerd?"
+msgstr "[@]你想甩掉那个书呆子吗？"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_3
+msgid "[@]ok bye"
+msgstr "[@]好的再见"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_4
+msgid "[@]I can't blame you."
+msgstr "[@]我不会怪你的。"
+
+#. DIALOGUE_TESTING_REMOVELLOYD_SPEAKER_kirb
+msgid "kirb"
+msgstr "kirb"
+
+#. DIALOGUE_TESTING_SKILLS_0
+msgid "[@]I shall grant you power."
+msgstr "[@]我将授予你权力。"
+
+#. DIALOGUE_TESTING_SKILLS_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_TESTING_SKILLS_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_TESTING_SOUNDS_0
+msgid "[@]hello iam very shy, fuck you btw"
+msgstr "[@]你好我很害羞，还有，我吃柠檬。"
+
+#. DIALOGUE_TESTING_SOUNDS_1
+msgid "[@]hello iam a responsible adult, fuck you btwr"
+msgstr "[@]你好我是个负责的大人，顺便一提，草拟麻痹的。"
+
+#. DIALOGUE_TESTING_SOUNDS_2
+msgid "[@]hello iam a stupid kid, fuck you btw"
+msgstr "[@]你好我是个傻孩子，还有，泥木琴石蜡。"
+
+#. DIALOGUE_TESTING_SOUNDS_3
+msgid "[@]hello iam a useless robot, fuck you btw"
+msgstr "[@]你好我是个没用的机器人，还有，日你仙人的"
+
+#. DIALOGUE_TESTING_SOUNDS_4
+msgid "[@]hello iam mr saturn, Boing, fuck you btw"
+msgstr "[@]你好我是土星先生，波嘤，卧槽泥马"
+
+#. DIALOGUE_TESTING_SOUNDS_5
+msgid "[@]hello your moms aint sexy, fuck you btw"
+msgstr "[@]你好你妈一点都不性感，去你母的"
+
+#. DIALOGUE_TESTING_SOUNDS_SPEAKER_Ben
+msgid "Ben"
+msgstr "Ben"
+
