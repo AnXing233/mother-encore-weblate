@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_1
+msgid "[@]This canary seems sad."
+msgstr "[@]这只金丝雀看上去很伤心。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_2
+msgid "[@]Show her the Canary chick?"
+msgstr "[@]给她看金丝雀雏鸟吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_10
+msgid "[@]Overjoyed with her reunion, Laura started to sing."
+msgstr "[@]劳拉因重逢感到非常高兴，她开始唱歌。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CANARY_REUNITE_12
+msgid "[@][PartyLead] remembered the tune."
+msgstr "[@][PartyLead] 记住了这首曲子。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_0
+msgid "[@]Are you okay, [Ninten]?"
+msgstr "[@]你还好吗，[Ninten]？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_1
+msgid "[@]What on earth is happening to our home?[WAIT@]I'm so scared..."
+msgstr "[@]我们家到底发生了什么事了？[WAIT@]我好怕..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_3
+msgid "[@]If only your father were here now..."
+msgstr "[@]如果你爸爸在这就好了..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_6
+msgid "[@]Oh! That must be him."
+msgstr "[@]哦！那肯定是你爸爸。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_7
+msgid "[@]Could you get it, [Ninten]?"
+msgstr "[@]你要接电话吗，[Ninten]？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_CALL_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_PHONE_0
+msgid "[@]Telephone! [Ninten], would you please get it?"
+msgstr "[@]有人打电话！[Ninten]，你想接吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CAROL_PHONE_SPEAKER_Carol
+msgid "Carol"
+msgstr "Carol"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_0
+msgid "[@]?!"
+msgstr "[@]?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_1
+msgid "[@]AHHHH!"
+msgstr "[@]啊啊啊啊啊！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_2
+msgid "[@]Z-Z-ZOMBIE!!!"
+msgstr "[@]丧-丧-丧尸！！！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_4
+msgid "[@]Stop lying! I can clearly tell you're a zombie![WAIT@]No normal person would walk around with clothes like that!"
+msgstr "[@]别撒谎了！我可以很明确地告诉你你是个丧尸！[WAIT@]没有正常人会像那样穿着衣服走来走去！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_7
+msgid "[@]You might be scary, zombie,"
+msgstr "[@]你可能很吓人，丧尸，"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_8
+msgid "[@]but [Pippi] never goes down without a fight!"
+msgstr "[@]但[Pippi]从不会不战而败！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_REMATCH_0
+msgid "[@]?!"
+msgstr "[@]?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_REMATCH_1
+msgid "[@]Y-Y-YOU AGAIN?!!"
+msgstr "[@]又-又-又是你?!!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_REMATCH_4
+msgid "[@]I don't care how many times you come back, zombie,"
+msgstr "[@]我不关心你回来几次，丧尸，"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_ATTACK_REMATCH_5
+msgid "[@]but [Pippi] always wins!"
+msgstr "[@]但[Pippi]还是会赢的！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_0
+msgid "[@]Okay, okay! I surrender!"
+msgstr "[@]好的，好的！我投降！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_1
+msgid "[@]Just, please don't eat my brain..."
+msgstr "[@]就是，请别吃我的脑子..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_3
+msgid "[@]Huh?"
+msgstr "[@]哈？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_5
+msgid "[@]So... you're NOT a zombie?"
+msgstr "[@]所以...你不是个丧尸？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_7
+msgid "[@]Why didn't you say so earlier?[WAIT@]This entire situation could have been avoided!"
+msgstr "[@]你怎么不早点说？[WAIT@]这整个局面本来是可以避免的！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_10
+msgid "[@]Wait a minute... I think I finally recognize you.[WAIT@]You're Mimmie and Minnie's older brother, [Ninten]!"
+msgstr "[@]等下...我想我终于认出你了。[WAIT@]你是Mimmie和Minnie的哥哥，[Ninten]！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_12
+msgid "[@]Wow, the rumors are true. You really do look like that galactic farm boy!"
+msgstr "[@]哇，传言是真的。你看起来真的很像那个银河农场的男孩！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_14
+msgid "[@]What's that?[WAIT@]My mom's looking for me?[WAIT@]And you came all this way just to find me?"
+msgstr "[@]什么？[WAIT@]我妈妈在找我？[WAIT@]你大老远跑来就是为了找我吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_18
+msgid "[@]Well, aren't you a brave boy!"
+msgstr "[@]哦，你真是个勇敢的男孩！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_18-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_18-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_19
+msgid "[@]Don't get too swell headed, ha-ha-ha!"
+msgstr "[@]别太得意忘形了，哈-哈-哈！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_20
+msgid "[@]Really? Well, I think you ARE brave.[WAIT@]You know what? I think I like you, [Ninten]. Do you like me?"
+msgstr "[@]真的吗？嗯，我觉得你很勇敢。[WAIT@]你知道吗？我觉得我喜欢你，[Ninten]。你喜欢我吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_21-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_21-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_22
+msgid "[@]Yeah... You probably have someone special already..."
+msgstr "[@]是的...你可能已经拥有了一个特别的人..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_23
+msgid "[@]Oh me, oh my... You have such a way with words...[WAIT@]Here, take this shiny badge.[WAIT@]My mom said that as long as I have it, it'll give me courage."
+msgstr "[@]哦，天哪，哦，天哪……你说话真有一套……[WAIT@]给，拿着这个闪亮的徽章吧。[WAIT@]我妈妈说，只要我拿着它，它就会给我勇气。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_26
+msgid "[@]But I think you'll probably need it more than me, so keep it!"
+msgstr "[@]我觉得你可能比我更需要它，所以拿上吧！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_27
+msgid "[@][Ninten] got the Courage Badge!"
+msgstr "[@][@Ninten得到了勇气徽章！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_28
+msgid "[@]Wait, you can't carry it? What a shame!"
+msgstr "[@]等等，你不能带走它？真可惜！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_29
+msgid "[@]Now, let's go back to town."
+msgstr "[@]现在，我们回镇上吧。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_31
+msgid "[@]Actually, can you please go first, [Ninten]? This place gives me the creeps."
+msgstr "[@]不过你能走在前面吗，[Ninten]？这个地方令我\\n毛骨悚然。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_CATACOMBS_PIPPI_DEFEAT_33
+msgid "[@][Pippi] joined your party!"
+msgstr "[@][Pippi]加入了队伍！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_ATTACK_2
+msgid "[@]Ahhhh!"
+msgstr "[@]啊啊啊！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_ATTACK_4
+msgid "[@]Big brother! Help!"
+msgstr "[@]哥哥！救命啊！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_ATTACK_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_DEFEATED_2
+msgid "[@]Is it over?"
+msgstr "[@]这就完了？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_DEFEATED_7
+msgid "[@]It doesn't seem to be moving...[WAIT@]But I can still hear something coming out of it.[WAIT@][Ninten], can you check it to make sure it's dead?"
+msgstr "[@]看样子它不动了...[WAIT@]但我还能听见它里面发出的声音。[WAIT@][Ninten]，你能不能检查一下，确定它死了？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_DOLL_DEFEATED_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_0
+msgid "[@][PartyLead] opened the present."
+msgstr "[@][PartyLead]打开了礼物。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_1
+msgid "[@][Ninten] got his [color]Great Grand-Father's Diary[/color]!"
+msgstr "[@][Ninten] 得到了他的[color]曾祖父的日记[/color]!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_4
+msgid "[@][Ninten]... Please... come find me..."
+msgstr "[@][Ninten]...请...来找我..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_5
+msgid "[@]Seek the [color]shell in the cave[/color]..."
+msgstr "[@]找到[color]山洞里的壳[/color]..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_6
+msgid "[@]Do so, and the wisdom of the world shall be unveiled..."
+msgstr "[@]这样做，世界的智慧就会显露出来……"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_8
+msgid "[@]Something awoke inside [Ninten]!"
+msgstr "[@]有些东西在里面苏醒了[Ninten]！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_9
+msgid "[@][Ninten] learned Lifeup!"
+msgstr "[@][Ninten]学会了生命提升！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_10
+msgid "[@]Press [color][ui_select][/color] and open your [color]PSI[/color] menu to use [color]Lifeup.[/color]"
+msgstr "[@]按下[color][ui_select][/color] 并打开你的 [color]PSI[/color] 菜单以使用 [color]生命提升。[/color]"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GGF_DIARY_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_0
+msgid "[@]Wow! You're a natural!"
+msgstr "[@]哇！你是天生的！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_1
+msgid "[@]It took me years to master that skill."
+msgstr "[@]我花了几年来掌握这个技能。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_3
+msgid "[@]Oh thank heavens, it's okay."
+msgstr "[@]哦，感谢玉皇大帝，没事了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_5
+msgid "[@]You have my gratitude, boy.[WAIT@]Now if you'll excuse me, I have some zombies to put down."
+msgstr "[@]我很感激你，小子。[WAIT@]如果你不介意的话，我要去把丧尸揍扁了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_8
+msgid "[@]Oh, and you can keep the bat.[WAIT@]I don't need it anymore."
+msgstr "[@]哦，你可以留着这根球棒。[WAIT@]我不需要它了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_GETSHOVEL_SPEAKER_Iggy
+msgid "Iggy"
+msgstr "Iggy"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_0
+msgid "[@]Oh, it's no use."
+msgstr "[@]哦，这没用。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_1
+msgid "[@]I'll never get it back..."
+msgstr "[@]这可就没辙了啊…"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_3
+msgid "[@]Who's there?![WAIT@]A child?[WAIT@]What are you doing here?[WAIT@]This place is dangerous! Haven't you noticed all the zombies walking around?"
+msgstr "[@]是谁？![WAIT@]一个小孩子？[WAIT@]你怎么会在这里？[WAIT@]这里很危险！你没看到到处都是四处走动的丧尸吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_7
+msgid "[@]Eh, whatever. I'm too busy to worry about that."
+msgstr "[@]唉，随便吧。我太忙了，没空管这管那。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_8
+msgid "[@]Hold on..."
+msgstr "[@]等一下..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_9
+msgid "[@]I recognize that hat.[WAIT@]You must be a baseball player![WAIT@]Just my luck!"
+msgstr "[@]我认得出那顶帽子。[WAIT@]你一定是个打棒球的！[WAIT@]真是走运！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_12
+msgid "[@]You see, I left my shovel over there, but when I came back, a strange root was blocking the way.[WAIT@]I know a special batting technique that could get rid of it."
+msgstr "[@]你看，我之前把铲子搁在那里了，但当我回来时，冒出一个怪树根挡住了路。[WAIT@]我知道一种特殊的击打技巧，可以把它弄走。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_14
+msgid "[@]However, I've become too old to use it.[WAIT@]If you promise to help get my shovel back, I'll teach you this skill."
+msgstr "[@]不过，我年纪大了，用不了了。[WAIT@]如果你答应帮我找回我的铲子，我就教你这个技巧。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_16
+msgid "[@]Do we have a deal?"
+msgstr "[@]这事成不成？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_16-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_16-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_17
+msgid "[@]Please, it's urgent!"
+msgstr "[@]拜托了，这件事要紧得很！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_18
+msgid "[@]Wonderful![WAIT@]All you need is a baseball bat.[WAIT@]Any bat, really.[WAIT@]To prove it, I'll give you my [color]Old Bat[/color] to test it out!"
+msgstr "[@]太棒了！[WAIT@]你需要的是一根棒球棒。[WAIT@]任何球棒，真的。[WAIT@]为了证明这个 我将会把我的[color]老旧球棒[/color]给你来测试这个！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_22
+msgid "[@][Ninten] got the Old Bat!"
+msgstr "[@][Ninten]得到了老旧球棒！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_23
+msgid "[@]Now, strength alone isn't enough to break this strange root."
+msgstr "[@]光靠蛮力还不足以折断这奇怪的根。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_24
+msgid "[@]It's all about the technique![WAIT@]Try to imagine a [color][ui_cancel][/color] [if input:gamepad]button[else]key[/if] in your mind.[WAIT@]Then... Simply press it![WAIT@]This allows you to unleash a swing powerful enough to break any tough object.[WAIT@]Come on, try it!"
+msgstr "[@]这个的关键全在技巧！[WAIT@] 试着在脑海中想象一个[color][ui_cancel][/color][if input:gamepad]按钮[else]按键[/if]。[WAIT@] 接下来... 只需按下它就好！[WAIT@] 这能让你施展出一记强力重击，威力足以击碎任何坚硬之物。[WAIT@] 来吧，试试看！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_SWING_SPEAKER_Iggy
+msgid "Iggy"
+msgstr "Iggy"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_TRYTOLEAVE_0
+msgid "[@]Hey, where do you think you're going?!"
+msgstr "[@]嘿，你想到哪去？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GRAVEDIGGER_TRYTOLEAVE_SPEAKER_Iggy
+msgid "Iggy"
+msgstr "Iggy"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GUARD_NORTH_MOVE_0
+msgid "[@]The curfew has been lifted.[WAIT@]I can't see why travel was ever restricted, though...[WAIT@]Sorry, let me move out of the way."
+msgstr "[@]宵禁已经解除了。[WAIT@]不过我也想不通之前为什么要限制通行...[WAIT@]对不起，我让路。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GUARD_NORTH_MOVE_4
+msgid "[@]I heard that you can communicate with Telepathy.[WAIT@]Have you heard of all the people talking about you?"
+msgstr "[@]我听说你会通过心灵感应交流。[WAIT@]那你有听到所有人都在传你的事情吧？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GUARD_NORTH_MOVE_6
+msgid "[@]Oh right, you probably don't even need to “listen” to them!"
+msgstr "[@]哦，不过你也不需要“听”说就能知道吧！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_GUARD_NORTH_MOVE_SPEAKER_Guard
+msgid "Guard"
+msgstr "守卫"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_1
+msgid "[@]All the canaries in the village are singing again.[WAIT@]I assume you've reunited the lost canary chick to its mother, correct?"
+msgstr "[@]村里的所有金丝雀又开始唱歌了。[WAIT@]我想你已经让丢失的小金丝雀和妈妈团聚了，对吧？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_3
+msgid "[@]Yep! We found her on the other side of a crack in the wall."
+msgstr "[@]是的!我们在墙缝的另一边发现了她。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_4
+msgid "[@]Great! I knew you'd find her![WAIT@]Oh, and by the way, the [color]mayor[/color] is itching to see you, [Ninten]...[WAIT@][Pippi], go with [Ninten] and help straighten this out."
+msgstr "[@]太好了！我就知道你会找到她的！[WAIT@]哦，顺便说一下，[color]市长[/color]很想见你，[Ninten]……[WAIT@][Pippi]，去和[Ninten]一起解决这个问题。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_7
+msgid "[@]Sure thing, mom!"
+msgstr "[@]当然，妈妈！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_8
+msgid "[@]Come on, [Ninten]! Let's go see the [color]mayor[/color]!"
+msgstr "[@]来吧，[Ninten]！我们去见[color]市长[/color]吧！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_LEAVE_CANARY_VILLAGE_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Lindgren夫人"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_0
+msgid "[@]Look for yourself, all the animals have escaped.[WAIT@]Only this Canary Chick is left.[WAIT@]We found this poor bird alone without its mommy at Canary Village, so we rescued it.[WAIT@]Yeah, I know, we're sort of like heroes.[WAIT@]Anyway, do you want it?"
+msgstr "[@]你自己看看吧，所有动物都逃跑了。[WAIT@]只剩下了这只金丝雀雏鸟。[@]我们在金丝雀村发现了这只没有妈妈的可怜的小鸟，\\n所以我们救了它。[WAIT@]是的，我知道，我们跟英雄一样。[WAIT@]无论如何，你想要它吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_5
+msgid "[@]Oh, we gotta help it.[WAIT@]It must be so sad without its mommy."
+msgstr "[@]哦，我们想帮助它。[WAIT@]它没有妈妈一定很伤心。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_7
+msgid "[@]You heard the little girl. Well, how about $55?"
+msgstr "[@]你听到了这个小女孩。好的，我卖它55美元怎么样？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_7-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_7-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_9
+msgid "[@]You don't have enough money?"
+msgstr "[@]你没有足够的钱？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_10
+msgid "[@]Well, if it's free, do you want it? Then take it!"
+msgstr "[@]好的，如果不要钱，你想要它吗？然后把它带走吧！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_11
+msgid "[@]Take care of it. Come see us again!"
+msgstr "[@]好好照顾它。欢迎下次光临！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_12
+msgid "[@]You got the Canary Chick!"
+msgstr "[@]你得到了金丝雀雏鸟！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_13
+msgid "[@]Come on, let's go to Canary Village to see if we can find its mom!"
+msgstr "[@]走吧，我们去金丝雀村看看能不能找到她的妈妈！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MARSHAL_CANARY_SPEAKER_Marshal
+msgid "Marshal"
+msgstr "元帅"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_1
+msgid "[@]Is she the lost girl, [Pippi]?[WAIT@]Well, that's just great.[WAIT@]I knew that you could fulfill your civic duty.[WAIT@]Applause,[BR]applause...[WAIT@]Here's your reward for your good deed."
+msgstr "[@]她就是那个走失的女孩，[Pippi]吗？[WAIT@]嗯，那太好了。[WAIT@]我就知道你能履行身为公民的义务。[WAIT@]鼓掌，[BR]鼓掌...这是你做好事的报酬。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_6
+msgid "[@][PartyLead] got $100!"
+msgstr "[@][PartyLead]得到了100美元！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_7
+msgid "[@]Now that you're here, pretty [Pippi], we can finally call off the search party."
+msgstr "[@]现在你在这了，美丽的[Pippi]，我们终于可以让搜索队停止寻找了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_8
+msgid "[@]Ahem."
+msgstr "[@]嗯哼。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_9
+msgid "[@]ABBOTT!!"
+msgstr "[@]ABBOTT!!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_11
+msgid "[@]Yes, sir?"
+msgstr "[@]是的，先生？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_12
+msgid "[@]Tell the [Pippi] search party that your mayor has finally found her."
+msgstr "[@]告诉[Pippi]搜索队，你们的镇长终于找到她了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_13
+msgid "[@]Right away, sir!"
+msgstr "[@]马上就去，先生！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_15
+msgid "[@]By the way, hero, there's been some commotion up at the [color]zoo[/color].[WAIT@]All the animals have broken out of their cages,[WAITBR]and most importantly, all the tourists have stopped coming.[WAIT@]For the sake of the economy, do you mind seeing what's up at the [color]zoo[/color]?"
+msgstr "[@]顺便说一下，英雄，[color]动物园[/color]里发生了一些骚乱。[WAIT@]所有的动物都从笼子里跑了出来，[WAITBR]最重要的是，所有的游客都不来了。[WAIT@]看在经济发展的份上，你不介意看看[color]动物园[/color]里 发生什么吧？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_18-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_18-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_19
+msgid "[@]What's that? You'll go? Great, great, great![WAIT@]You'll need a key to get in."
+msgstr "[@]什么？你要去？太好了，太好了，太好了！[WAIT@]你需要一把钥匙才能进去。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_21
+msgid "[@]Ahem."
+msgstr "[@]嗯哼。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_22
+msgid "[@]ABBOTT!!"
+msgstr "[@]ABBOTT!!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_24
+msgid "[@]*Pant, pant*... Yes... sir?"
+msgstr "[@]*喘气，喘气*…是...先生?"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_25
+msgid "[@]Give this young lad the [color]key to the zoo[/color]."
+msgstr "[@]给这个小伙子[color]动物园的钥匙[/color]。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_26
+msgid "[@]Right... away... sir!"
+msgstr "[@]我...马上...先生！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_28
+msgid "[@][PartyLead] got the Zoo Key."
+msgstr "[@][PartyLead] 得到了动物园钥匙。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_30
+msgid "[@]Oh, and little girl, I'll need you to stay here for a bit.[WAIT@]There are some matters we need to attend to."
+msgstr "[@]哦，小姑娘，我需要你在这里待一会儿。[WAIT@]有一些事情我们需要处理。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_32
+msgid "[@]Oh... I guess it's time to say goodbye.[WAIT@]I had a lot of fun."
+msgstr "[@]哦...我猜是时候说再见了。[WAIT@]我玩得很开心。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_34
+msgid "[@]Remember to come by [color]my house[/color], I'll be waiting there to see you again!"
+msgstr "[@]记得来[color]我家[/color]，我会在那里等你！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_35
+msgid "[@]By the way...[WAIT@]Do you think my hair needs styling?"
+msgstr "[@]顺便说一下...[WAIT@]你觉得我需要做一下发型吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_36-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_36-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_37
+msgid "[@]Heehee, you didn't have to answer, cutie."
+msgstr "[@]嘿嘿，你不用回答，小可爱。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_38
+msgid "[@]I'll give you [color]something special[/color] if you do."
+msgstr "[@]你要是来了的话，我就给你一份[color]特别的东西[/color]。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_SPEAKER_Abbott
+msgid "Abbott"
+msgstr "Abbott"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MAYOR_PIPPI_RESCUE_SPEAKER_Mayor_Goodman
+msgid "Mayor Goodman"
+msgstr "好人镇长"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MICK_BARK_0
+msgid "[@]Woof woof!"
+msgstr "[@]汪汪！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MICK_BARK_1
+msgid "[@]Looks like Mick has something to tell you."
+msgstr "[@]看样子Mick有事情要告诉你。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MICK_BARK_SPEAKER_Mick
+msgid "Mick"
+msgstr "Mick"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MIMMIE_IGNORE_0
+msgid "[@]Hey, where are you going?!"
+msgstr "[@]嘿，你要上哪去?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MIMMIE_IGNORE_1
+msgid "[@]Please make sure it's dead..."
+msgstr "[@]请保证它已经死了..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_MIMMIE_IGNORE_SPEAKER_Mimmie
+msgid "Mimmie"
+msgstr "Mimmie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MINNIE_DOOR_1
+msgid "[@]Ugh, it won't open!"
+msgstr "[@]啊，它打不开！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MINNIE_DOOR_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MINNIE_LEAVE_1
+msgid "[@]Way to go, [Ninten]![WAIT@]But our house is still falling apart!"
+msgstr "[@]干得好，[Ninten]！[WAIT@]但我们的房子还是散架的状态！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MINNIE_LEAVE_4
+msgid "[@]I wonder how Mimmie's doing. Let's go check if she's okay!"
+msgstr "[@]我想知道Mimmie怎么样了。我们去看看她怎么样了！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MINNIE_LEAVE_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MONKEY_APOLOGIZE_1
+msgid "[@]EEK, EE EEEK, EEK."
+msgstr "[@]哎呀，哎呀呀，哎呀。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MONKEY_APOLOGIZE_2
+msgid "(Sorry for stealing your key earlier.[WAITBR]Let me make it up to you with a song.)"
+msgstr "（对不起，我刚才偷了你的钥匙。[WAITBR]让我用一首歌来补偿你吧。)"
+
+#. DIALOGUE_PODUNK_CUTSCENES_MONKEY_APOLOGIZE_SPEAKER_Monkey
+msgid "Monkey"
+msgstr "猴子"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PILLOW_ATTACK_2
+msgid "[@]Big brother, is that you?!"
+msgstr "[@]哥哥，是你吗?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PILLOW_ATTACK_4
+msgid "[@]Watch out! It's a crazy pillow!"
+msgstr "[@]小心点！那是个疯狂的枕头！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PILLOW_ATTACK_SPEAKER_Minnie
+msgid "Minnie"
+msgstr "Minnie"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_0
+msgid "[@]Sigh... She's not here either..."
+msgstr "[@]嘶...她也不在这..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_3
+msgid "[@]Mom?"
+msgstr "[@]妈妈？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_4
+msgid "[@][Pippi]...?[WAIT@]Is that you?"
+msgstr "[@][Pippi]...？[WAIT@]是你吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_6
+msgid "[@]Yup!"
+msgstr "[@]是的！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_7
+msgid "[@]Oh, what a relief![WAIT@]I thought I lost you forever...[WAIT@]Where in the world did you wander off to this time?"
+msgstr "[@]哦，真是松了口气！[WAIT@]我以为我永远失去了你...[WAIT@]这次你究竟到哪儿去了？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_10
+msgid "[@]You won't believe it, but I was chasing a butterfly when suddenly, some zombies kidnapped me!"
+msgstr "[@]你肯定不信，我正在追一只蝴蝶，突然， 一些丧尸绑架了我！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_11
+msgid "[@]Really?"
+msgstr "[@]真的吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_12
+msgid "[@]Yeah! They even locked me in a coffin!"
+msgstr "[@]真的！他们甚至还把我锁在棺材里！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_13
+msgid "[@]That must have been terrifying!"
+msgstr "[@]那一定很可怕！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_14
+msgid "[@]Eh, not really. It was kind of cozy actually."
+msgstr "[@]嗯，不完全是。[DELAY]实际上还挺舒服的。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_15
+msgid "[@]And I assume it was [Ninten] over there that saved you, right?"
+msgstr "[@]我猜是那边的[Ninten]救了你，对吧？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_16
+msgid "[@]Hmm, I guess you could say that."
+msgstr "[@]呣，可以那么说。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_17
+msgid "[@]Oh, I knew I could count on you to save my precious [Pippi]."
+msgstr "[@]哦，我就知道我可以指望你来救我的宝贝[Pippi]。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_18
+msgid "[@]Thank you, [Ninten]. You truly are a hero."
+msgstr "[@]谢谢你，[Ninten]。你真是个英雄。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_19
+msgid "[@]Say mom, you mind helping us with something?"
+msgstr "[@]妈妈，你能帮我们个忙吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_20
+msgid "[@]Yeah, sure! What is it?"
+msgstr "[@]好的，当然！什么忙？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_21
+msgid "[@]You see... This poor birdie got lost and we're trying to find its mommy."
+msgstr "[@]你看...这只可怜的小鸟走丢了，我们正在找它的妈妈。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_22
+msgid "[@]Have you seen her?"
+msgstr "[@]你们见过它的妈妈吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_23
+msgid "[@]Oh! That must be singing Laura's baby![WAIT@]She's so sad, she's hardly showing herself to anyone these days."
+msgstr "[@]哦！那一定是鸣鸟Laura的孩子！[WAIT@]她很伤心，这些天几乎不露面。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_25
+msgid "[@]I don't know where she is now, but I do know [color]she's still somewhere on this island[/color]."
+msgstr "[@]我不知道她在哪里，但是我知道[color]她还在这个岛上的某个地方[/color]。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_26
+msgid "[@]If you need anything else, feel free to ask me."
+msgstr "[@]如果你还需要什么，尽管问我。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_27
+msgid "[@]Okay thanks, mom!"
+msgstr "[@]好的谢谢，妈妈！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_REUNITE_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Mrs. Lindgren"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_TOWN_HALL_CANARY_0
+msgid "[@]Hey! We're supposed to deliver this canary to its mom, remember?[WAIT@]Canary Village is at the northwest of town.[WAIT@]Come on, let's go!"
+msgstr "[@]嘿！我们应该把这只金丝雀交给它妈妈，还记得吗？[WAIT@]金丝雀村在城镇的西北部。[WAIT@]来吧，我们走吧！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPI_TOWN_HALL_REJECT_0
+msgid "[@]Hey, why are we going to the town hall?[WAIT@]Isn't that place boring?[WAIT@]Come on, let's go somewhere else![WAIT@]How about the [color]department store[/color]?[WAIT@]I hear they have a new animal at the [color]pet shop[/color] there!"
+msgstr "[@]喂，我们去市政厅干嘛呀？[WAIT@] 那地方不是很无聊吗？[WAIT@] 拜托，咱们换个地方去吧！[WAIT@] 去[color]百货商店[/color]怎么样？[WAIT@] 我听说那儿的[color]宠物店[/color]新来一只小动物呢！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_0
+msgid "[@][Pippi]!"
+msgstr "[@][Pippi]!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_1
+msgid "[@]Oh, [Pippi]!"
+msgstr "[@]哦，[Pippi]！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_2
+msgid "[@]Oh me, oh my!"
+msgstr "[@]我的天，我的天！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_3
+msgid "[@]Oh me, oh my!"
+msgstr "[@]我的天，我的天！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_4
+msgid "[@]What can I do, what should I do?!"
+msgstr "[@]我能做什么，我应该做什么?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_CALL_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Mrs. Lindgren"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_1
+msgid "[@]Oh, hello [Ninten]..."
+msgstr "[@]哦，你好[Ninten]..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_4
+msgid "[@]It seems my dear [color][Pippi][/color]'s gone missing![WAIT@]She always goes outside to play, but she hasn't come home since yesterday...[WAIT@]If you're going into town, please ask [color]Mayor Goodman[/color] if anyone's seen her, okay?"
+msgstr "[@]我心爱的[color][Pippi][/color]好像不见了！[WAIT@] 她总爱跑到外面去玩，可从昨天起就再也没回过家...[WAIT@] 你要是要进城的话，麻烦帮我问问[color]好人市长[/color]，看有没有人见过她，好吗？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_7
+msgid "[@](Sniffle sniffle... Sob sob...)"
+msgstr "[@]（抽泣...抽泣...）"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_9
+msgid "[@]Yes, you will?"
+msgstr "[@]是的，你会？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_10
+msgid "[@]Thank you so much, [Ninten]!"
+msgstr "[@]非常感谢你，[Ninten]！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_PIPPISMOM_HELP_SPEAKER_Mrs._Lindgren
+msgid "Mrs. Lindgren"
+msgstr "Mrs. Lindgren"
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_ATTACK_2
+msgid "[@]I'm surprised that a human child such as yourself has managed to get here...[WAIT@]More surprising however, is that my analysis indicates that you possess the ability to harness PSI.[WAIT@]While those powers seem to have only awakened recently, you appear to be quite skilled at using them.[WAIT@]If left unchecked, they could prove themselves to be a problem...[WAIT@]We must not allow someone like you to interfere with our plans."
+msgstr "[@] 真没想到，你这样的人类小孩竟能一路闯到这里……[WAIT@]更令人意外的是，我的分析显示，你拥有操控灵能的潜质。[WAIT@]虽说这份力量似乎才刚觉醒不久，你运用起来却相当娴熟。[WAIT@]若是放任不管，日后定会成为我们的隐患...[WAIT@]绝不能让你这样的人，妨碍我们的计划。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_ATTACK_7
+msgid "[@]You may have bested the vicious beasts of this place, but you are no match to me!"
+msgstr "[@]你也许打败了这里的恶兽，但你绝对不是我的对手！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_ATTACK_REMATCH_2
+msgid "[@]No matter how many times you come back, you will never beat me!"
+msgstr "[@]不管你回来多少次，你永远也打不过我！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_DEFEAT_1
+msgid "[@]Impossible... I can't believe that I've been defeated by a mere human child...[WAIT@]I'll have to report this incident to the mothership..."
+msgstr "[WAIT@]不可能...我不敢相信我竟然被一个人类小孩打败了...[WAIT@]我得把这件事报告给母舰..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_DEFEAT_7
+msgid "[@]The odd sound that drove the animals insane died down."
+msgstr "[@]这些动物发疯的奇怪声音渐渐消失了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_STARMAN_JR_DEFEAT_8
+msgid "[@]The Zoo became a safe place once more."
+msgstr "[@]动物园变安全了。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_0
+msgid "[@]Who's there?!"
+msgstr "[@]谁在哪?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_3
+msgid "[@]Uh oh, it's Wally!"
+msgstr "[@]啊哦，是Wally！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_4
+msgid "[@]Hey, I recognize that little ginger face!"
+msgstr "[@]嘿，我认得那张姜黄色的小脸！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_5
+msgid "[@]You're that kid who's been eating all my flowers!"
+msgstr "[@]你是那个吃光了我的花的孩子！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_6
+msgid "[@]Well excuuuse me, but there weren't any signs telling me NOT to eat them."
+msgstr "[@]拜托原谅我吧，没有任何标志告诉我不要吃它们。"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_7
+msgid "[@]Also, they weren't that good anyway..."
+msgstr "[@]而且，他们也没那么好吃..."
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_8
+msgid "[@]GRRR! I've had enough!"
+msgstr "[@]啊啊啊！我受够了！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_9
+msgid "[@]It's about time I taught you brats a lesson!"
+msgstr "[@]是时候给你们这些熊孩子上一课了！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_ATTACK_1_SPEAKER_Wally
+msgid "Wally"
+msgstr "Wally"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_0
+msgid "[@]Who's there?!"
+msgstr "[@]谁在哪?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_3
+msgid "[@]Uh oh, it's Wally again!"
+msgstr "[@]啊哦，又是Wally！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_4
+msgid "[@]You brats once more?!"
+msgstr "[@]又是你们这些熊孩子?!"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_5
+msgid "[@]It looks like you two have learnt nothing!"
+msgstr "[@]看样子你们俩什么都没学到！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_6
+msgid "[@]But I won't stop until I've taught you brats a lesson!"
+msgstr "[@]但直到给你们这帮熊孩子上一课前我都不会停下！"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_CUTSCENES_WALLY_REMATCH_1_SPEAKER_Wally
+msgid "Wally"
+msgstr "Wally"
+
