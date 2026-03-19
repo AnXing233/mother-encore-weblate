@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿BATTLE_STARMANJR_1_0
+msgid "[@]It seems that I've miscalculated...[WAIT@]You appear to be much stronger than I've anticipated.[WAIT@]But no matter...[WAIT@]This next attack is sure to wipe you out!"
+msgstr "[@]看来是我失算了······[WAIT@]你似乎比我预想中要强得多。[WAIT@]不过无所谓·····[WAIT@]下一招必定会将你彻底击溃！"
+
