@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BASEBALL_0
+msgid "[@]A really cool baseball bat.[WAIT@]It's even signed by the one and only Will Clark![WAIT@]You know it's too valuable to swing around yourself."
+msgstr "[@]一根超酷的棒球球棒。[WAIT@]上面甚至有威尔·克拉克的亲笔签名！[WAIT@]你知道它太珍贵了，可不能随便拿来挥棒。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BEDSIDE_DRAWER_0
+msgid "[@][PartyLead] opened the Bedside drawer."
+msgstr "[@][PartyLead] 打开了床头柜的抽屉。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BEDSIDE_DRAWER_1
+msgid "[@]Inside, there was an Asthma Spray."
+msgstr "[@]里面放着一瓶哮喘喷雾。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BEDSIDE_DRAWER_2
+msgid "[@][ItemReceiver] got an Asthma Spray."
+msgstr "[@][ItemReceiver]获得了哮喘喷雾。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BEDSIDE_DRAWER_3
+msgid "[@]Found an Asthma Spray, but your inventory's full..."
+msgstr "[@]找到了一瓶哮喘喷雾，但你拿的东西太多了···"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_BEDSIDE_DRAWER_4
+msgid "[@]There's nothing much to see here..."
+msgstr "[@]这里没什么好看的......"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_DOWNSTAIRS_TV_0
+msgid "[@]There's a man on the news being interviewed about a recent surge in paranormal activity.[WAIT@]He sure is waving his arms around a lot."
+msgstr "[@]新闻上有一名男子正在接受采访，谈论最近超自然活动的激增。[WAIT@]他的手臂挥舞得可真够忙活的。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_ELECTRIC_GUITAR_0
+msgid "[@]Your electric guitar.[WAIT@]Your old man got you this for Christmas.[WAIT@]Mick sometimes sneaks up to hear you rock out."
+msgstr "[@]你的电吉他。[WAIT@]你老爸在圣诞节的时候送你的礼物。[WAIT@]米克有时会悄悄过来听你的摇滚。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_ENTRANCE_LOCKED_0
+msgid "[@]The door won't budge!"
+msgstr "[@]门打不开！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_MIMMIE_TOYBOX_0
+msgid "[@]A treasure trove of old toys."
+msgstr "[@]一堆珍贵的旧玩具。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_NES_0
+msgid "[@]A [Ninten]do Entertainment System.[WAIT@]Inside is a cartridge with a dozen games packed in.[WAIT@]Whoever made this must be really generous."
+msgstr "[@]一台[Ninten]堂红白机。[WAIT@]上面插着一张包含十多款游戏的卡带。[WAIT@]做这张卡带的人一定非常慷慨。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_OLD_PHOTOS_0
+msgid "[@]Two photographs stand on the drawer.[WAIT@]The first one has your family standing in front of the house.[WAIT@]Everyone's overjoyed beyond words.[WAIT@]The second is an old sepia photo.[WAIT@]A couple standing beside each other with similar glee."
+msgstr "[@]抽屉上摆着两张照片。[WAIT@]第一张是你全家站在屋前的合影。[WAIT@]每个人都喜悦得无以言表。[WAIT@]第二张是张老旧的棕褐色照片。[WAIT@]一对夫妇并肩而立，洋溢着同样灿烂的笑容。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_PINBOARD_0
+msgid "[@]A mess of notes and newspaper clippings about the George and Maria case.[WAIT@]One note sticks out in particular.[WAIT@](A curiosity the police uncovered was Maria's missing necklace.[WAIT@]It was a family pendant passed down from generation to generation.[WAIT@]She always kept it safe, but when she went missing, the necklace was nowhere to be found.)"
+msgstr "[@]关于乔治和玛利亚案件的一堆笔记和报纸剪报。[WAIT@]有一条笔记特别引人注目。[WAIT@]( 警方发现一个疑点：玛丽亚的项链不见了。[WAIT@]那是件世代相传的家传挂坠。[WAIT@]她总是将其妥善保管，但失踪时项链却遍寻无踪。 )"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_NINTEN_S_HOUSE_TV_0
+msgid "[@]TV with a built-in VHS player.[WAIT@]Star Wars, Rambo and a bunch of other movie tapes are scrambled on the floor."
+msgstr "[@]带内置录像机的电视机。[WAIT@]《星球大战》《第一滴血》等大量录像带散落在 地板上。"
+
