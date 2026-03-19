@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_SHITPOST_DIALOGUE_BOXES_0
+msgid "[@]The contents are mainly air and paper"
+msgstr "[@]内容主要是空气和纸张"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_BUTTON_0
+msgid "[@]No response"
+msgstr "[@]没有回应"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_CAPSULE_0
+msgid "[@]The dazzling glare makes you unable to open your eyes, but you still squint hard to see where you are now."
+msgstr "[@]耀眼的强光让你睁不开眼，但你还是努力眯着眼，想看清自己此刻身处何方。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_CAPSULE_1
+msgid "[@]Through the hazy eyes, you find yourself in a very strange room.[WAIT@]Your hands and feet are week, your head is dizzy, and you are soaked.[WAIT@]The most important thing is that you feel hungry as if you haven't eaten for years.[WAIT@]Obviously, you were kidnapped, and your last fuzzy memory before the coma also verified this.[WAIT@]You were attacked by a group of people and then brought here.[WAIT@]You are confused ([Confused]), but you clearly understand that the most important thing is to escape from this room.[WAIT@]Obviously, you have only one choice."
+msgstr "[@]透过模糊的视线，你发现自己身处一间格外陌生的房间。[WAIT@]你的手脚无力，头晕目眩，浑身湿透。而且饿得跟好几年没吃过东西似的。[WAIT@]很明显，你被绑架了——昏迷前最后一段模糊的记忆也印证了这一点。[WAIT@]你遭到一群人的袭击，之后就被带到了这里。[WAIT@]你满心困惑（[Confused]），但也清楚此刻最重要的事，是逃出这间屋子。[WAIT@]显然，你别无选择。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_FLOORVENT_0
+msgid "[@]A sewer that can wash away the waste."
+msgstr "[@]可以冲走废物的下水道。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_GOO_0
+msgid "[@]Strange goo splashed on the wall."
+msgstr "[@]奇怪的粘液溅在墙上。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_GOO_1
+msgid "[@]Considering the current situation, it is better not to touch."
+msgstr "[@]考虑到目前的情况，还是不碰为好。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_MACHINE_0
+msgid "[@]It seems that the machine that controls the life support chamber next door has been turned on."
+msgstr "[@]看来控制隔壁生命支持系统的机器已经打开了。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_MACHINE_1
+msgid "[@]The dust on it is very thick, there is no trace of usage by humans."
+msgstr "[@]上面的灰尘很厚，没有人使用的痕迹。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPER_0
+msgid "[@]Rehabilitation training plan:"
+msgstr "[@]康复训练计划："
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPER_1
+msgid "[@]After the subject is awake, please be sure to instruct the subject to complete the rehabilitation training under surveillance."
+msgstr "[@]受试者清醒后，请务必指导受试者在监护下完成康复训练。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPERCLIP_0
+msgid "[@]Don't know whose notes these are."
+msgstr "[@]不知道这些是谁的笔记。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPERCLIP_0-OPT_0
+msgid "First page"
+msgstr "第一页"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPERCLIP_0-OPT_1
+msgid "Second page"
+msgstr "第二页"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPERCLIP_1
+msgid "[@]Don't make any contact with them![WAIT@]Once you touch them, you will lose yourself immediately![WAIT@]If you don't want to be part of them![WAIT@]Just be sure to avoid them![WAIT@]Bless you, survivor![WAIT@]...[WAIT@]Who are \"they\"?[WAIT@]The handwriting of this note is very sloppy, and...[WAIT@]It doesn't look like it could have been written by the kidnappers, it is obviously a warning.[WAIT@]In an instant, you kind of hope that all of this is just a reality show."
+msgstr "[@]别跟他们有任何接触！[WAIT@]一旦碰到他们，你会立刻失去自我！[WAIT@]要是你不想变成他们的一员！[WAIT@]务必躲开他们！[WAIT@]保佑你，幸存者！[WAIT@]……[WAIT@]“他们”到底是谁？[WAIT@]这张纸条的字迹非常潦草，而且……[WAIT@]看起来不像是绑匪写的，这显然是个警告。[WAIT@]一瞬间，你反倒有点希望，这一切都只是场真人秀而已。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PAPERCLIP_11
+msgid "[@]The smart sweage system will automatically absorb the sewage above the sewer opening.[WAIT@]Do not dump untreated sticky substances, samples, chemicals into the sewer.[WAIT@]Especially biological samples."
+msgstr "[@]智能排污系统会自动吸收下水道口上方的污水。[WAIT@]请勿将未经处理的黏性物质、样本及化学品倒入下水道。[WAIT@]生物样本尤其严禁倒入。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_PIPES_0
+msgid "[@]Full of pipes and wires inside the wall."
+msgstr "[@]墙里面充满了水管和电线。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_SCREEN_0
+msgid "[@]Screen doesn't work anymore."
+msgstr "[@]屏幕不工作了。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_SCREEN_1
+msgid "[@]Dust is all over the screen."
+msgstr "[@]屏幕上布满灰尘。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_SUBSTANCES_0
+msgid "[@]Dried unknown chemicals precipitates at the bottom of test tubes."
+msgstr "[@]干燥的不明化学物质沉淀在试管底部。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_SUBSTANCES_1
+msgid "[@]You are hungry as hell but raise no desire to eat this thing at all."
+msgstr "[@]你饿得要死，但根本不想吃这个东西。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_VENT_0
+msgid "[@]There is a glowing switch inside the vent."
+msgstr "[@]通风口内有一个发光开关。"
+
+#. DIALOGUE_SHITPOST_DIALOGUE_VENT_1
+msgid "[@]But this little hatch can only be opened from the inside.[WAIT@]You look inside, then give up the idea of crawling in.[WAIT@]...[WAIT@]It sounds like something is dragging and sliding.[WAIT@]Don't get closer..."
+msgstr "[@]但是这个小舱口只能从里面打开。[WAIT@]你望向里面，然后放弃爬进去的想法。[WAIT@]..[WAIT@]听起来好像有什么东西悄无声息地移动并拖曳。[WAIT@]不要靠近..."
+
