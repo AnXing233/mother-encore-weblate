@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_REUSABLE_ATM_1
+msgid "[@]PLEASE INSERT CASH CARD."
+msgstr "[@]请插入金融卡。"
+
+#. DIALOGUE_REUSABLE_ATM_2
+msgid "[@]WELCOME TO THE AUTOMATIC TELLER MACHINE."
+msgstr "[@]欢迎使用自动提款机。"
+
+#. DIALOGUE_REUSABLE_ATM_SPEAKER_ATM
+msgid "ATM"
+msgstr "ATM"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_0
+msgid "[@][Ninten]? It's your dad."
+msgstr "[@][Ninten]? 这里是爸爸。"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_1
+msgid "[@]I've deposited $[EarnedCash] into your bank account."
+msgstr "[@]我往你的银行账户里存入了[EarnedCash]美元。"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_2
+msgid "[@]Taking away what you've spent, you should now have $[BankCash] in the bank.[WAIT@]Anyways, what do you need from me?"
+msgstr "[@]除去你花掉的，你的账户里应该还有[BankCash]美元。[WAIT@]你找我还有什么事吗？"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_3-OPT_0
+msgid "Record"
+msgstr "记录"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_3-OPT_1
+msgid "Nothing, really"
+msgstr "没什么，真的"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_5
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_6
+msgid "[@]Well, good luck with your adventure and whatnot.[WAIT@]Just remember to take a break once in a while, okay?"
+msgstr "[@]好，祝你冒险和其它事都顺利。[WAIT@]记得偶尔休息一下，好吗？"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_7
+msgid "[@](Click! Beep-beep-beep...)"
+msgstr "[@]（挂了！哔-哔-哔-...）"
+
+#. DIALOGUE_REUSABLE_DAD_NORMAL_SPEAKER_Dad
+msgid "Dad"
+msgstr "爸爸"
+
+#. DIALOGUE_REUSABLE_DOORBLOCKED_0
+msgid "[@]The door won't open!"
+msgstr "[@]这扇门打不开！"
+
+#. DIALOGUE_REUSABLE_EASYTOBREAK_0
+msgid "[@]You could easily break this with your bat."
+msgstr "[@]你可以很容易地用你的球棒打破它。"
+
+#. DIALOGUE_REUSABLE_HARDTOBREAK_0
+msgid "[@]This looks too hard to break."
+msgstr "[@]看样子太硬了打不破。"
+
+#. DIALOGUE_REUSABLE_HEALER_0
+msgid "[@]Though you may not believe it, I'm a healer.[WAIT@]If you have some illness that cannot be treated at the hospital, it's my job to cure you."
+msgstr "[@]虽然你可能不信，但我是个治疗师。[WAIT@]我的工作就是治愈那些你在医院治不好的病。"
+
+#. DIALOGUE_REUSABLE_HEALER_2
+msgid "[@]It will cost $120 to cure any and all ailments from your body."
+msgstr "[@]治疗你身体里的所有疾病将会花费120美元。"
+
+#. DIALOGUE_REUSABLE_HEALER_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_REUSABLE_HEALER_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_REUSABLE_HEALER_3
+msgid "[@]Who needs healing?"
+msgstr "[@]谁需要治疗？"
+
+#. DIALOGUE_REUSABLE_HEALER_5
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_HEALER_7
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_HEALER_9
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_HEALER_11
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_HEALER_13
+msgid "[@]All done."
+msgstr "[@]没事。"
+
+#. DIALOGUE_REUSABLE_HEALER_14
+msgid "[@]Does anyone else need healing?"
+msgstr "[@]还有人需要治疗吗？"
+
+#. DIALOGUE_REUSABLE_HEALER_14-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_REUSABLE_HEALER_14-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_REUSABLE_HEALER_15
+msgid "[@]Mmm, come back when necessary."
+msgstr "[@]呣，必要时再来吧。"
+
+#. DIALOGUE_REUSABLE_HEALER_16
+msgid "[@]This person doesn't have an illness I can treat."
+msgstr "[@]这个人没有我能治愈的疾病。"
+
+#. DIALOGUE_REUSABLE_HEALER_18
+msgid "[@]If you don't have any money, I'm afraid you'll just have to keep on going in your current state."
+msgstr "[@]如果你没有钱，恐怕你就只能维持现在的状态了。"
+
+#. DIALOGUE_REUSABLE_HEALER_SPEAKER_Healer
+msgid "Healer"
+msgstr "治疗"
+
+#. DIALOGUE_REUSABLE_LOCKLOCKED_0
+msgid "[@]It's locked."
+msgstr "[@]锁上了。"
+
+#. DIALOGUE_REUSABLE_LOCKOPENED_0
+msgid "[@][PartyLead] used [ItemArt1][ItemName]."
+msgstr "[@][PartyLead] 使用了 [ItemArt1][ItemName]."
+
+#. DIALOGUE_REUSABLE_NOTHOUGHTS_0
+msgid "[@]No thoughts here."
+msgstr "[@]没有思想。"
+
+#. DIALOGUE_REUSABLE_NOTTIME_0
+msgid "[@]Now's not the time for that!"
+msgstr "[@]现在不是说这个的时候！"
+
+#. DIALOGUE_REUSABLE_PAYPHONENOMONEY_0
+msgid "[@]You're missing $5."
+msgstr "[@]你失去了5美元。"
+
+#. DIALOGUE_REUSABLE_PHONENOANSWER_0
+msgid "[@]Beeep..."
+msgstr "[@]哔..."
+
+#. DIALOGUE_REUSABLE_PINKSHELL_0
+msgid "[@]A voice is speaking into [PartyLead]'s mind."
+msgstr "[@]一个声音回荡在[PartyLead]的脑海中。"
+
+#. DIALOGUE_REUSABLE_PINKSHELLTELEPATHY_0
+msgid "[@][PartyLead] felt this question enter [LeadArt4] mind.[WAIT@]“Who has lost his tail?”"
+msgstr "[@][PartyLead]感到这个问题进入了[LeadArt4]的脑海。[WAIT@]“神的尾巴在哪里？”"
+
+#. DIALOGUE_REUSABLE_PINKSHELLTELEPATHY_2
+msgid "[@]Finding the entry in the Great-Grand Father's Diary,[WAITBR][PartyLead] read out loud..."
+msgstr "[@]在曾祖父的日记中找到了答案，[WAITBR][PartyLead]读了出来..."
+
+#. DIALOGUE_REUSABLE_PINKSHELLTELEPATHY_4
+msgid "[@]The forgotten one of the ship that sails the cosmos!"
+msgstr "[@]在被遗忘的宇宙飞船上！"
+
+#. DIALOGUE_REUSABLE_SQUEAK_0
+msgid "[@]Squeeeak squeak."
+msgstr "[@]吱吱。"
+
+#. DIALOGUE_REUSABLE_SQUEAK_SPEAKER_Noisy_Mouse
+msgid "Nosy Mouse"
+msgstr "多事鼠"
+
+#. DIALOGUE_REUSABLE_STRAYTHOUGHTS_0
+msgid "[@]Nothing but stray thoughts."
+msgstr "[@]只有一些杂念。"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_0
+msgid "[@]Would you like some tea?"
+msgstr "[@]你想来些茶吗？"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_1
+msgid "[@]You enjoyed some quality tea time."
+msgstr "[@]你享受了一段珍贵的下午茶时光。"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_2
+msgid "[@]There's no time for tea."
+msgstr "[@]没有喝茶的时间了。"
+
+#. DIALOGUE_REUSABLE_TEAKETTLE_6
+msgid "[@]You enjoyed some quality tea time."
+msgstr "[@]你享受了一段珍贵的下午茶时光。"
+
