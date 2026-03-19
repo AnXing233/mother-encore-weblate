@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿CREDITS_TITLE
+msgid "MOTHER ENCORE STAFF CREDITS"
+msgstr "地球冒险 加演 制作人员名单"
+
+#. CREDITS_CREATOR
+msgid "PROJECT CREATOR"
+msgstr "项目创建"
+
+#. CREDITS_DIRECTOR
+msgid "DIRECTOR"
+msgstr "总监"
+
+#. CREDITS_PROGRAMMERS
+msgid "PROGRAMMERS"
+msgstr "程序"
+
+#. CREDITS_ARTISTS_NPC
+msgid "NPC SPRITE ARTISTS"
+msgstr "NPC精灵图美术"
+
+#. CREDITS_ANIM_CHARA
+msgid "CHARACTER ANIMATORS"
+msgstr "角色动画"
+
+#. CREDITS_ANIM_EFFECTS
+msgid "EFFECTS ANIMATORS"
+msgstr "特效动画"
+
+#. CREDITS_ARTISTS_BATTLEBG
+msgid "BATTLE BACKGROUND ARTISTS"
+msgstr "战斗背景美术"
+
+#. CREDITS_DESIGN_MAPS
+msgid "MAP DESIGNERS"
+msgstr "地图设计"
+
+#. CREDITS_ARTISTS_ILLUSTRATION
+msgid "ILLUSTRATION ARTISTS"
+msgstr "插画"
+
+#. CREDITS_ARTISTS_CONCEPT
+msgid "CONCEPT ARTISTS"
+msgstr "概念艺术"
+
+#. CREDITS_ARTISTS_PROMO
+msgid "PROMOTIONAL ARTISTS"
+msgstr "宣传艺术"
+
+#. CREDITS_DESIGN_LOGO
+msgid "MOTHER ENCORE LOGO DESIGNER"
+msgstr "地球冒险 加演 LOGO设计师"
+
+#. CREDITS_WRITERS
+msgid "WRITERS"
+msgstr "编剧"
+
+#. CREDITS_MUSICIANS
+msgid "MUSICIANS"
+msgstr "作曲"
+
+#. CREDITS_SINGERS
+msgid "SINGERS"
+msgstr "歌手"
+
+#. CREDITS_VOICE
+msgid "VOICE ACTOR"
+msgstr "配音演员"
+
+#. CREDITS_TESTERS_BUGS
+msgid "BUG TESTERS"
+msgstr "BUG测试员"
+
+#. CREDITS_TRANSLATION_MANAGER
+msgid "TRANSLATION MANAGER"
+msgstr "翻译经理"
+
+#. CREDITS_TRANSLATORS
+msgid "TRANSLATORS"
+msgstr "翻译"
+
+#. CREDITS_TRANSLATORS_TEAM
+msgid "Team: "
+msgstr "团队"
+
+#. CREDITS_TRANSLATOR_JA
+msgid "JAPANESE TRANSLATORS"
+msgstr "日语翻译"
+
+#. CREDITS_TRANSLATOR_FR
+msgid "FRENCH TRANSLATORS"
+msgstr "法语翻译"
+
+#. CREDITS_TRANSLATOR_IT
+msgid "ITALIAN TRANSLATORS"
+msgstr "意大利语翻译"
+
+#. CREDITS_TRANSLATOR_KO
+msgid "KOREAN TRANSLATORS"
+msgstr "韩语翻译"
+
+#. CREDITS_TRANSLATOR_ES
+msgid "LATIN AMERICAN SPANISH TRANSLATORS"
+msgstr "拉丁美洲西班牙语翻译"
+
+#. CREDITS_TRANSLATOR_ES_ES
+msgid "EUROPEAN SPANISH TRANSLATORS"
+msgstr "欧洲西班牙语翻译"
+
+#. CREDITS_TRANSLATOR_PT_BR
+msgid "BRAZILIAN PORTUGUESE TRANSLATORS"
+msgstr "巴西葡萄牙语翻译"
+
+#. CREDITS_TRANSLATOR_PL
+msgid "POLISH TRANSLATORS"
+msgstr "波兰语翻译"
+
+#. CREDITS_TRANSLATOR_DE
+msgid "GERMAN TRANSLATORS"
+msgstr "德语翻译"
+
+#. CREDITS_TRANSLATOR_RU
+msgid "RUSSIAN TRANSLATORS"
+msgstr "俄语翻译"
+
+#. CREDITS_TRANSLATOR_UK
+msgid "UKRAINIAN TRANSLATORS"
+msgstr "乌克兰语翻译"
+
+#. CREDITS_FUN
+msgid "MANAGER OF FUN"
+msgstr "功能经理"
+
+#. CREDITS_THANKS
+msgid "SPECIAL THANKS"
+msgstr "特别鸣谢"
+
+#. CREDITS_THANKS_VERY
+msgid "VERY SPECIAL THANKS"
+msgstr "及其特别鸣谢"
+
+#. CREDITS_NAME_FAN_TRANSL
+msgid "The Mother 1 + 2 Fan Translation Team"
+msgstr "《地球冒险1+2》粉丝翻译小组"
+
+#. CREDITS_NAME_COMMUNITY
+msgid "The Mother Community"
+msgstr "地球冒险社区"
+
+#. CREDITS_NAME_DISCORD
+msgid "The Mother Encore Discord Server"
+msgstr "地球冒险 加演 Discord频道"
+
+#. CREDITS_ORIG_TITLE
+msgid "ORIGINAL MOTHER STAFF CREDITS"
+msgstr "原地球冒险制作人员名单"
+
+#. CREDITS_ORIG_DIRECTOR
+msgid "DIRECTOR"
+msgstr "总监"
+
+#. CREDITS_ORIG_DESIGNERS_GAME
+msgid "GAME DESIGNERS"
+msgstr "游戏设计"
+
+#. CREDITS_ORIG_MUSIC_PROD
+msgid "MUSIC PRODUCERS"
+msgstr "音乐"
+
+#. CREDITS_ORIG_MUSIC_EFFECTS
+msgid "MUSICAL EFFECTS"
+msgstr "音效"
+
+#. CREDITS_ORIG_DESIGN_CHARA
+msgid "CHARACTER DESIGNERS"
+msgstr "角色设计"
+
+#. CREDITS_ORIG_FIGURE
+msgid "FIGURE MODELING"
+msgstr "人物建模"
+
+#. CREDITS_ORIG_PROGRAMMERS
+msgid "PROGRAMMERS"
+msgstr "程序"
+
+#. CREDITS_ORIG_SCENARIO
+msgid "SCENARIO ASSISTANTS"
+msgstr "场景助理"
+
+#. CREDITS_ORIG_COORDINATORS
+msgid "COORDINATORS"
+msgstr "协调员"
+
+#. CREDITS_ORIG_ENGLISH
+msgid "ENGLISH SCRIPT WRITER"
+msgstr "英语编剧"
+
+#. CREDITS_ORIG_TRANSLATORS
+msgid "TRANSLATORS"
+msgstr "翻译者"
+
+#. CREDITS_ORIG_THANKS
+msgid "SPECIAL THANKS"
+msgstr "特别鸣谢"
+
+#. CREDITS_ORIG_PRODUCER
+msgid "PRODUCER"
+msgstr "制作人"
+
+#. CREDITS_ORIG_PRODUCER_EXEC
+msgid "EXECUTIVE PRODUCER"
+msgstr "执行制作人"
+
+#. CREDITS_PLAYER
+msgid "PLAYER"
+msgstr "玩家"
+
+#. CREDITS_PLAYER_THANK_YOU
+msgid "THANK YOU FOR PLAYING"
+msgstr "感谢您的游玩"
+
