@@ -1,0 +1,1436 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿ALARMGHOST_NAME
+msgid "Alarm Ghost"
+msgstr "警报幽灵"
+
+#. ALARMGHOST_DESC
+msgid "Don't alarm this ghost, he has friends!"
+msgstr "不要惊动这个幽灵，他还有同伙！"
+
+#. ALARMGHOST_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ALLIGATOR_NAME
+msgid "Alligator"
+msgstr "鳄鱼"
+
+#. ALLIGATOR_DESC
+msgid "Don't accept his invitation to dinner."
+msgstr "千万别接受他发出的晚餐邀请。"
+
+#. ALLIGATOR_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ANTOID_NAME
+msgid "Antoid"
+msgstr "蚁虫"
+
+#. ANTOID_DESC
+msgid "They're small, quick and they attack in teams."
+msgstr "它们体型小巧，行动迅捷，并且擅长团队作战。"
+
+#. ANTOID_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ARMOR_NAME
+msgid "Armor"
+msgstr "盔甲"
+
+#. ARMOR_DESC
+msgid "It would be nice to have armor of your own."
+msgstr "要是你有一身自己的盔甲就好了。"
+
+#. ARMOR_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. BAGLADY_NAME
+msgid "Bag Lady"
+msgstr "提袋女士"
+
+#. BAGLADY_DESC
+msgid "Her refrigerator-shaped body holds a heart of ice."
+msgstr "她那冰箱般的身躯里，藏着一颗冰霜之心。"
+
+#. BAGLADY_ART
+msgid "The ,the ,A ,a ,her"
+msgstr ",,,,她的"
+
+#. BARBOT_NAME
+msgid "Barbot"
+msgstr "酒吧机器人"
+
+#. BARBOT_DESC
+msgid "A malnourished robot?"
+msgstr "一个营养不良的机器人？"
+
+#. BARBOT_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BBGANGSTER_NAME
+msgid "BB Gangster"
+msgstr "黑帮BB党"
+
+#. BBGANGSTER_DESC
+msgid "A real bad apple, stay out of his way."
+msgstr "一个烂透了的坏苹果，可别挡了他的路。"
+
+#. BBGANGSTER_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. BEAR_NAME
+msgid "Bear"
+msgstr "熊"
+
+#. BEAR_DESC
+msgid "Somebody ate his porridge, and he isn't too happy about it!"
+msgstr "有人偷喝了他的粥，他对此非常不高兴！"
+
+#. BEAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BIGFOOT_NAME
+msgid "Big Foot"
+msgstr "大脚怪"
+
+#. BIGFOOT_DESC
+msgid "Surprised? It really does exist!"
+msgstr "惊讶吗？它真的存在！"
+
+#. BIGFOOT_ART
+msgid ",,,,its"
+msgstr ",,,,它的"
+
+#. BIGWOODOH_NAME
+msgid "Big Woodoh"
+msgstr "巨大木桩"
+
+#. BIGWOODOH_DESC
+msgid "Should you fight or run?"
+msgstr "你应该战斗还是逃跑？"
+
+#. BIGWOODOH_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BIONICSCORPION_NAME
+msgid "Bionic Scorpion"
+msgstr "仿生蝎子"
+
+#. BIONICSCORPION_DESC
+msgid "Beware of its poison and stone of origin."
+msgstr "务必当心它的剧毒，并谨防其源石。"
+
+#. BIONICSCORPION_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BIOPEDE_NAME
+msgid "Biopede"
+msgstr "生化蜈蚣"
+
+#. BIOPEDE_DESC
+msgid "Its strong poison was developed in a laboratory."
+msgstr "它的剧毒是在实验室里研制的。"
+
+#. BIOPEDE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BISON_NAME
+msgid "Bison"
+msgstr "野牛"
+
+#. BISON_DESC
+msgid "A face only a mother could love."
+msgstr "一张只有妈妈才会喜欢的脸。"
+
+#. BISON_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BLUESTARMAN_NAME
+msgid "Blue Starman"
+msgstr "蓝色星人"
+
+#. BLUESTARMAN_DESC
+msgid "His sole purpose is to keep passengers from passing through the cave."
+msgstr "他的唯一职责就是阻止其他人通过这个洞穴。"
+
+#. BLUESTARMAN_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. BOMBER_NAME
+msgid "Bomber"
+msgstr "轰炸机"
+
+#. BOMBER_DESC
+msgid "Shaped like an egg, but a little tougher."
+msgstr "形状像鸡蛋，不过稍微硬一些。"
+
+#. BOMBER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. BUFFALO_NAME
+msgid "Buffalo"
+msgstr "水牛"
+
+#. BUFFALO_DESC
+msgid "Its father won't even look at its face."
+msgstr "它的父亲甚至不会看它的脸。"
+
+#. BUFFALO_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CAPYBARA_NAME
+msgid "Capybara"
+msgstr "水豚"
+
+#. CAPYBARA_DESC
+msgid "It appears to be a giant hamster."
+msgstr "看起来像一只超大号的仓鼠。"
+
+#. CAPYBARA_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CENTIPEDE_NAME
+msgid "Centipede"
+msgstr "蜈蚣"
+
+#. CENTIPEDE_DESC
+msgid "Exterminate with insecticide."
+msgstr "喷洒杀虫剂来消灭它。"
+
+#. CENTIPEDE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CEREBRUM_NAME
+msgid "Cerebrum"
+msgstr "巨脑怪"
+
+#. CEREBRUM_DESC
+msgid "Its IQ is probably over 200."
+msgstr "它的智商可能超过200。"
+
+#. CEREBRUM_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CRIMINALCATERPILLAR_NAME
+msgid "Criminal Caterpillar"
+msgstr "恶棍毛虫"
+
+#. CRIMINALCATERPILLAR_DESC
+msgid "Defeating it will yield a huge amount of experience points."
+msgstr "击败它获得海量经验值！"
+
+#. CRIMINALCATERPILLAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CROCODILE_NAME
+msgid "Crocodile"
+msgstr "鳄鱼"
+
+#. CROCODILE_DESC
+msgid "If he smiles, don't smile back."
+msgstr "如果他朝你微笑，你可别给他回微笑。"
+
+#. CROCODILE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. CROW_NAME
+msgid "Crow"
+msgstr "乌鸦"
+
+#. CROW_DESC
+msgid "Watch your wallet and count your change, he's a thief."
+msgstr "看好你的钱包，数好你的零钱，他可是个小偷。"
+
+#. CROW_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. DADSEYES_NAME
+msgid "Dadseyes"
+msgstr "爸爸眼珠"
+
+#. DADSEYES_DESC
+msgid "Watch your step, Dadseyes are everywhere."
+msgstr "注意你的脚下，爸爸眼珠无处不在。"
+
+#. DADSEYES_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. DOLL_NAME
+msgid "Doll"
+msgstr "洋娃娃"
+
+#. DOLL_DESC
+msgid "It stares back at you."
+msgstr "它的眼睛直勾勾地盯着你。"
+
+#. DOLL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. DRAGON_NAME
+msgid "Dragon"
+msgstr "龙"
+
+#. DRAGON_DESC
+msgid "It seems to have an important secret."
+msgstr "它似乎藏着一个重要的秘密。"
+
+#. DRAGON_ART
+msgid "The ,the ,The ,the ,its"
+msgstr ",,,,它的"
+
+#. DRDISTORTO_NAME
+msgid "Dr. Distorto"
+msgstr "扭曲博士"
+
+#. DRDISTORTO_DESC
+msgid "His twisted face covers his twisted mind."
+msgstr "他扭曲的面孔掩盖了他扭曲的心灵。"
+
+#. DRDISTORTO_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. DUSTBALL_NAME
+msgid "Dust Ball"
+msgstr "尘球"
+
+#. DUSTBALL_DESC
+msgid "AHH-choooo!"
+msgstr "阿——嚏！"
+
+#. DUSTBALL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. EAGLE_NAME
+msgid "Eagle"
+msgstr "鹰"
+
+#. EAGLE_DESC
+msgid "Its quickness is the source for its pride."
+msgstr "它的速度是它自豪的来源。"
+
+#. EAGLE_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ELDERBATTY_NAME
+msgid "Elder Batty"
+msgstr "蝙蝠长老"
+
+#. ELDERBATTY_DESC
+msgid "Beware of its stone of origin."
+msgstr "小心它的源石。"
+
+#. ELDERBATTY_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ELDERMOOK_NAME
+msgid "Elder Mook"
+msgstr "杂兵大佬"
+
+#. ELDERMOOK_DESC
+msgid "Not only will it attack using PSI, it is a thief!"
+msgstr "它不仅会使用灵能攻击，居然还是个盗贼！"
+
+#. ELDERMOOK_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ELEPHANT_NAME
+msgid "Elephant"
+msgstr "大象"
+
+#. ELEPHANT_DESC
+msgid "Don't let him stop and unpack his trunk!"
+msgstr "别让他停下来甩开鼻子！"
+
+#. ELEPHANT_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. ENERGYROBOT_NAME
+msgid "Energy Robot"
+msgstr "能量机器人"
+
+#. ENERGYROBOT_DESC
+msgid "A walking fuel supply."
+msgstr "行走的燃料供应。"
+
+#. ENERGYROBOT_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. FIREBALL_NAME
+msgid "Fire Ball"
+msgstr "火球"
+
+#. FIREBALL_DESC
+msgid "It looks like it jumped out of a comic book."
+msgstr "看起来就像是从漫画书里跳出来的一样。"
+
+#. FIREBALL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. FISH_NAME
+msgid "Fish!"
+msgstr "鱼！"
+
+#. FISH_DESC
+msgid "It seems to be guarding something."
+msgstr "它似乎在守护某样东西。"
+
+#. FISH_ART
+msgid "The ,the ,The ,the ,its"
+msgstr ",,,,它的"
+
+#. FLY_NAME
+msgid "Fly"
+msgstr "飞虫"
+
+#. FLY_DESC
+msgid "Insecticide is effective"
+msgstr "杀虫剂有效"
+
+#. FLY_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. FOUREYES_NAME
+msgid "Foureyes"
+msgstr "四眼怪"
+
+#. FOUREYES_DESC
+msgid "The optometrist's favorite."
+msgstr "验光师最喜欢的。"
+
+#. FOUREYES_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. FUGITIVE_NAME
+msgid "Fugitive"
+msgstr "逃犯"
+
+#. FUGITIVE_DESC
+msgid "He can be found on the FBI's most wanted list."
+msgstr "他可以从联邦调查局的通缉名单上找到。"
+
+#. FUGITIVE_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. FUNKYFREAK_NAME
+msgid "Funky Freak"
+msgstr "时髦怪咖"
+
+#. FUNKYFREAK_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. GABILAN_NAME
+msgid "Gabilan"
+msgstr "加比兰"
+
+#. GABILAN_DESC
+msgid "Something like this should not exist on the earth..."
+msgstr "这样的生物不应该存在于地球上..."
+
+#. GABILAN_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GANGZOMBIE_NAME
+msgid "Gang Zombie"
+msgstr "帮派丧尸"
+
+#. GANGZOMBIE_DESC
+msgid "Careful, his Smash Hit is quite effective."
+msgstr "小心，他的暴击十分有效。"
+
+#. GANGZOMBIE_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. GARGOYLE_NAME
+msgid "Gargoyle"
+msgstr "石像鬼"
+
+#. GARGOYLE_DESC
+msgid "It has the awful stone of origin."
+msgstr "它拥有一块可怕的源石。"
+
+#. GARGOYLE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GHOST_NAME
+msgid "Ghost"
+msgstr "幽灵"
+
+#. GHOST_DESC
+msgid "Just an ordinary ghost."
+msgstr "只是一个普通的幽灵。"
+
+#. GHOST_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GHOSTOFBARBOT_NAME
+msgid "Ghost of Barbot"
+msgstr "机械幽魂"
+
+#. GHOSTOFBARBOT_DESC
+msgid "It is as light as air."
+msgstr "它轻如空气。"
+
+#. GHOSTOFBARBOT_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GHOSTOFSTARMAN_NAME
+msgid "Ghost of Starman"
+msgstr "星人鬼魂"
+
+#. GHOSTOFSTARMAN_DESC
+msgid "This Starman has come back from the dead to finish its business."
+msgstr "这位星人死而复生，回来完成自己的使命。"
+
+#. GHOSTOFSTARMAN_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GIEGUE_NAME
+msgid "Giegue"
+msgstr "吉格"
+
+#. GIEGUE_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. GIGABORG_NAME
+msgid "Giga Borg"
+msgstr "千兆机械"
+
+#. GIGABORG_DESC
+msgid "He only has PK Beam"
+msgstr "他只有PK光束"
+
+#. GIGABORG_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GORILLA_NAME
+msgid "Gorilla"
+msgstr "大猩猩"
+
+#. GORILLA_DESC
+msgid "Don't let this primate punk pick on you!"
+msgstr "别让这个猿类混混欺负你！"
+
+#. GORILLA_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GRIZZLYBEAR_NAME
+msgid "Grizzly Bear"
+msgstr "灰熊"
+
+#. GRIZZLYBEAR_DESC
+msgid "If you must sleep, don't borrow his bed!"
+msgstr "实在要睡觉的话，他的床碰都别碰！"
+
+#. GRIZZLYBEAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. GROUCHO_NAME
+msgid "Groucho"
+msgstr "笑面格鲁乔"
+
+#. GROUCHO_DESC
+msgid "If he was a mask, someone might mistake your identity!"
+msgstr "如果他戴了面具，旁人或许会把你当成他！"
+
+#. GROUCHO_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. HIPPIE_NAME
+msgid "Hippie"
+msgstr "嬉皮士"
+
+#. HIPPIE_DESC
+msgid "He looks like he could grow flowers in his hair."
+msgstr "他看起来仿佛能在发间自然而然地种出栀子花来。"
+
+#. HIPPIE_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. HYENA_NAME
+msgid "Hyena"
+msgstr "鬣狗"
+
+#. HYENA_DESC
+msgid "He who laughs last laughs best."
+msgstr "笑到最后的人才能笑得最甜。"
+
+#. HYENA_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. JOHN_NAME
+msgid "John"
+msgstr "约翰"
+
+#. JOHN_DESC
+msgid "This elephant's name is John."
+msgstr "这只大象的名字叫约翰。"
+
+#. JOHN_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. JUANA_NAME
+msgid "Juana"
+msgstr "胡安娜"
+
+#. JUANA_DESC
+msgid "She is good at, and not afraid to use a strong PSI attack"
+msgstr "她精于施展强大的灵能攻击，且毫无畏惧。"
+
+#. JUANA_ART
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. KELLY_NAME
+msgid "Kelly"
+msgstr "凯莉"
+
+#. KELLY_DESC
+msgid "Do not be tricked by her beauty."
+msgstr "不要被她的美貌所欺骗。"
+
+#. KELLY_ART
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. LAMP_NAME
+msgid "Lamp"
+msgstr "台灯"
+
+#. LAMP_DESC
+msgid "It hovers in the air!"
+msgstr "它在空中盘旋！"
+
+#. LAMP_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. LILSAUCER_NAME
+msgid "Lil Saucer"
+msgstr "小型飞碟"
+
+#. LILSAUCER_DESC
+msgid "Only as big as a dinner plate."
+msgstr "只有一个晚餐盘那么大。"
+
+#. LILSAUCER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. LYNX_NAME
+msgid "Lynx"
+msgstr "猞猁"
+
+#. LYNX_DESC
+msgid "It is quite different than a pet cat."
+msgstr "它和宠物猫完全不同。"
+
+#. LYNX_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MADCAR_NAME
+msgid "Mad Car"
+msgstr "疯狂的汽车"
+
+#. MADCAR_DESC
+msgid "No one is in the driver's seat."
+msgstr "没有人坐在驾驶席上。"
+
+#. MADCAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MADTRUCK_NAME
+msgid "Mad Truck"
+msgstr "疯狂的卡车"
+
+#. MADTRUCK_DESC
+msgid "Be careful of its exhaust if you're asthmatic."
+msgstr "如果你有哮喘，注意它排放的尾气。"
+
+#. MADTRUCK_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MAGICANTOID_NAME
+msgid "Magic Antoid"
+msgstr "魔法蚁虫"
+
+#. MAGICANTOID_DESC
+msgid "This ant can only be found in Magicant."
+msgstr "这种蚂蚁只能在魔术城找到。"
+
+#. MAGICANTOID_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MAGICSNAIL_NAME
+msgid "Magic Snail"
+msgstr "魔法蜗牛"
+
+#. MAGICSNAIL_DESC
+msgid "Its shell is unbelievably hard."
+msgstr "它的壳非常坚硬。"
+
+#. MAGICSNAIL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MANIACTRUCK_NAME
+msgid "Maniac Truck"
+msgstr "癫狂卡车"
+
+#. MANIACTRUCK_DESC
+msgid "What is going to happen next, speeding, reckless driving, or...?"
+msgstr "接下来会发生什么，是超速、鲁莽驾驶，还是......？"
+
+#. MANIACTRUCK_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MEGABORG_NAME
+msgid "Megaborg"
+msgstr "兆级机械"
+
+#. MEGABORG_DESC
+msgid "Special armor protects it from PSI attacks."
+msgstr "特殊护甲能抵御灵能攻击。"
+
+#. MEGABORG_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MOMSEYES_NAME
+msgid "Momseyes"
+msgstr "妈妈眼珠"
+
+#. MOMSEYES_DESC
+msgid "Momseyes will spot you for sure."
+msgstr "妈妈眼珠必定会察觉到你的行踪。"
+
+#. MOMSEYES_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MOOK_NAME
+msgid "Mook"
+msgstr "杂兵"
+
+#. MOOK_DESC
+msgid "It uses various PSI attacks."
+msgstr "它能使用多种灵能技能。"
+
+#. MOOK_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MOSQUITO_NAME
+msgid "Mosquito"
+msgstr "蚊子"
+
+#. MOSQUITO_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. MRBATTY_NAME
+msgid "Mr. Batty"
+msgstr "蝙蝠先生"
+
+#. MRBATTY_DESC
+msgid "Life itself is a puzzle to Mr. Batty"
+msgstr "生活本身对蝙蝠先生来说是一个谜"
+
+#. MRBATTY_ART
+msgid ",,,,its"
+msgstr ",,,,它的"
+
+#. NANCY_NAME
+msgid "Nancy"
+msgstr "南希"
+
+#. NANCY_DESC
+msgid "Do not be tricked by her smile."
+msgstr "不要让她的笑容蒙蔽了你。"
+
+#. NANCY_ART
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. NASTYZOMBIE_NAME
+msgid "Nasty Zombie"
+msgstr "令人讨厌的丧尸"
+
+#. NASTYZOMBIE_DESC
+msgid "It attacks with bare hands."
+msgstr "它用赤手空拳攻击。"
+
+#. NASTYZOMBIE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. NUCLEARENERGYROBOT_NAME
+msgid "Nuclear Energy Robot"
+msgstr "核能机器人"
+
+#. NUCLEARENERGYROBOT_DESC
+msgid "There's plenty of fuel inside."
+msgstr "里面有着充足的燃料。"
+
+#. NUCLEARENERGYROBOT_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. OCTOBOT_NAME
+msgid "Octobot"
+msgstr "章鱼机器人"
+
+#. OCTOBOT_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. OLDROBOT_NAME
+msgid "Old Robot"
+msgstr "老旧机器人"
+
+#. OLDROBOT_DESC
+msgid "This robot does not sleep."
+msgstr "这个机器人不会睡觉。"
+
+#. OLDROBOT_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. OMEGABARBOT_NAME
+msgid "Omega Barbot"
+msgstr "终极酒吧机器人"
+
+#. OMEGABARBOT_DESC
+msgid "Despite its appearance, it is quite heavy."
+msgstr "尽管它看上去很轻，但实际上相当重。"
+
+#. OMEGABARBOT_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. OMEGABORG_NAME
+msgid "Omega Borg"
+msgstr "终极机械"
+
+#. OMEGABORG_DESC
+msgid "Strong as an ox."
+msgstr "强壮如牛。"
+
+#. OMEGABORG_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. OMEGASAUCER_NAME
+msgid "Omega Saucer"
+msgstr "终极飞碟"
+
+#. OMEGASAUCER_DESC
+msgid "This is as big as a manhole cover."
+msgstr "这个和一个下水道的井盖一样大。"
+
+#. OMEGASAUCER_ART
+msgid "The ,the ,An ,an ,its"
+msgstr ",,,,它的"
+
+#. PILLOW_NAME
+msgid "Pillow"
+msgstr "枕头"
+
+#. PILLOW_DESC
+msgid "It doesn't hit very hard."
+msgstr "它的攻击力不是特别大。"
+
+#. PILLOW_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. PIPPI_ART
+msgid ",,,,her"
+msgstr ",,,,她的"
+
+#. POLARBEAR_NAME
+msgid "Polar Bear"
+msgstr "北极熊"
+
+#. POLARBEAR_DESC
+msgid "His chair was broken, and he isn't very happy!"
+msgstr "他的椅子坏掉了，他对此可是不太高兴！"
+
+#. POLARBEAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. PSEUDOZOMBIE_NAME
+msgid "Pseudo Zombie"
+msgstr "拟态丧尸"
+
+#. PSEUDOZOMBIE_DESC
+msgid "Watch out for further sneak attacks."
+msgstr "小心他进一步的突袭。"
+
+#. PSEUDOZOMBIE_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,它的"
+
+#. PSYCHOCAR_NAME
+msgid "Psycho Car"
+msgstr "疯癫汽车"
+
+#. PSYCHOCAR_DESC
+msgid "It's the vehicular psycho!"
+msgstr "就是那个疯癫的驾驶者！"
+
+#. PSYCHOCAR_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. PSYCHOTRUCK_NAME
+msgid "Psycho Truck"
+msgstr "疯癫卡车"
+
+#. PSYCHOTRUCK_DESC
+msgid "This truck won't stop until it has finished its job."
+msgstr "这辆卡车在完成工作之前不会停止。"
+
+#. PSYCHOTRUCK_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. PUTRIDMOLDYMAN_NAME
+msgid "Putrid Moldyman"
+msgstr "腐烂的霉人"
+
+#. PUTRIDMOLDYMAN_DESC
+msgid "He's just a pile of mold."
+msgstr "他只是一堆霉菌。"
+
+#. PUTRIDMOLDYMAN_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. R7037_NAME
+msgid "R7307"
+msgstr "R7307号"
+
+#. R7037_DESC
+msgid "He is absolutely huge!"
+msgstr "他非常巨大！"
+
+#. R7037_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. R7038_NAME
+msgid "R7308"
+msgstr "R7308号"
+
+#. R7038_DESC
+msgid "Is there any way to defeat him?"
+msgstr "有什么办法打败他吗？"
+
+#. R7038_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. R7038XX_NAME
+msgid "R7308XX"
+msgstr "R7308XX号"
+
+#. R7038XX_DESC
+msgid "New and, unfortunately, improved."
+msgstr "新的，更不幸的是，还改进升级了。"
+
+#. R7038XX_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. RAEBYDDET_NAME
+msgid "Raeb Yddet"
+msgstr "熊迪泰"
+
+#. RAEBYDDET_DESC
+msgid "It has strong friends."
+msgstr "它有强大的朋友。"
+
+#. RAEBYDDET_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. RAMBLINEVILMUSHROOM_NAME
+msgid "Ramblin' Evil Mushroom"
+msgstr "流浪邪恶蘑菇"
+
+#. RAMBLINEVILMUSHROOM_DESC
+msgid "Watch out for its spores."
+msgstr "当心它的孢子。"
+
+#. RAMBLINEVILMUSHROOM_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. RAT_NAME
+msgid "Rat"
+msgstr "老鼠"
+
+#. RAT_DESC
+msgid "A big rat, with a big tail."
+msgstr "一只大老鼠，长者一条长尾巴。"
+
+#. RAT_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. RATTLESNAKE_NAME
+msgid "Rattlesnake"
+msgstr "响尾蛇"
+
+#. RATTLESNAKE_DESC
+msgid "Don't let it hypnotize you!"
+msgstr "不要被它催眠了！"
+
+#. RATTLESNAKE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. REDSNAKE_NAME
+msgid "Red Snake"
+msgstr "红蛇"
+
+#. REDSNAKE_DESC
+msgid "Defeat it before it runs away to get a lot of experience."
+msgstr "在它逃跑之前击败它，可以获得大量经验。"
+
+#. REDSNAKE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ROBOSQUITO_NAME
+msgid "Robosquito"
+msgstr "机械蚊子"
+
+#. ROBOSQUITO_DESC
+msgid "Its favorite blood type is O-"
+msgstr "它最喜欢的血型是O-"
+
+#. ROBOSQUITO_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ROCKOYLE_NAME
+msgid "Rockoyle"
+msgstr "假山"
+
+#. ROCKOYLE_DESC
+msgid "It likes to use PK Freeze."
+msgstr "它喜欢使用PK冻结。"
+
+#. ROCKOYLE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ROPEMAN_NAME
+msgid "Rope Man"
+msgstr "绳人"
+
+#. ROPEMAN_DESC
+msgid "Don't let yourself get tied up fighting this guy."
+msgstr "不要让自己被这家伙缠上。"
+
+#. ROPEMAN_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SCORPION_NAME
+msgid "Scorpion"
+msgstr "蝎子"
+
+#. SCORPION_DESC
+msgid "It's poisonous, but insecticide works."
+msgstr "它有毒，不多杀虫剂对它有效。"
+
+#. SCORPION_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SCRAPPER_NAME
+msgid "Scrapper"
+msgstr "掘地者"
+
+#. SCRAPPER_DESC
+msgid "Ragged around the edges, but do not underestimate it."
+msgstr "边缘已经磨损，但仍不能低估。"
+
+#. SCRAPPER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SEAGULL_NAME
+msgid "Seagull"
+msgstr "海鸥"
+
+#. SEAGULL_DESC
+msgid "It tries to steal from gullible people."
+msgstr "它试图从容易轻信的人手中偷窃东西。"
+
+#. SEAGULL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SHROUDLEY_NAME
+msgid "Shroudley"
+msgstr "血腥丧尸"
+
+#. SHROUDLEY_DESC
+msgid "An evil, caped zombie. Beware, its Last Strike could be devastating."
+msgstr "一个邪恶的，穿着披风的丧尸。小心，它的最后一击可能是毁灭性的。"
+
+#. SHROUDLEY_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SILVERWOLF_NAME
+msgid "Silver Wolf"
+msgstr "银狼"
+
+#. SILVERWOLF_DESC
+msgid "It likes to hunt in packs."
+msgstr "它喜欢成群结队去捕猎。"
+
+#. SILVERWOLF_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SKUNK_NAME
+msgid "Skunk"
+msgstr "臭鼬"
+
+#. SKUNK_DESC
+msgid "Hold your nose!"
+msgstr "捏紧你的鼻子！"
+
+#. SKUNK_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SKYYDDET_NAME
+msgid "Sky Yddet"
+msgstr "天空熊"
+
+#. SKYYDDET_DESC
+msgid "It has friends!"
+msgstr "他有朋友！"
+
+#. SKYYDDET_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SNAKE_NAME
+msgid "Snake"
+msgstr "蛇"
+
+#. SNAKE_DESC
+msgid "It might not poison... but it also might poison..."
+msgstr "他可能无毒…但也可能有毒…"
+
+#. SNAKE_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. SPIDER_NAME
+msgid "Spider"
+msgstr "蜘蛛"
+
+#. SPIDER_DESC
+msgid "It's not a bug, but Insecticide will work just as well."
+msgstr "它不属于昆虫，但是杀虫剂一样起效。"
+
+#. SPIDER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr "， ， ， ，它的"
+
+#. STARBOMB_NAME
+msgid "Star Bomber"
+msgstr "星际轰炸机"
+
+#. STARBOMB_DESC
+msgid "It carries, and likes to use, Bombs."
+msgstr "他携带着，并且很喜欢使用炸弹。"
+
+#. STARBOMB_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. STARMAN_NAME
+msgid "Starman"
+msgstr "星人"
+
+#. STARMAN_DESC
+msgid "He is done waiting in the sky."
+msgstr "他已经不再在天空中等待了。"
+
+#. STARMAN_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. STARMANJR_NAME
+msgid "Starman Jr."
+msgstr "小星人"
+
+#. STARMANJR_DESC
+msgid "He is small, but it is obvious he is a spaceman."
+msgstr "他个子小，但很明显是个太空人。"
+
+#. STARMANJR_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. STARMANSUPER_NAME
+msgid "Starman Super"
+msgstr "超级星人"
+
+#. STARMANSUPER_DESC
+msgid "The strongest of the Starmen."
+msgstr "星人中最强大的存在。"
+
+#. STARMANSUPER_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
+#. STRAYDOG_NAME
+msgid "Stray Dog"
+msgstr "流浪狗"
+
+#. STRAYDOG_DESC
+msgid "I wonder if it has rabies?"
+msgstr "我想知道他患不患有狂犬病？"
+
+#. STRAYDOG_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. STRUTTINEVILMUSHROOM_NAME
+msgid "Struttin' Evil Mushroom"
+msgstr "弹跳邪恶蘑菇"
+
+#. STRUTTINEVILMUSHROOM_DESC
+msgid "It walks very arrogantly"
+msgstr "它走路的姿态十分傲慢。"
+
+#. STRUTTINEVILMUSHROOM_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. TARANTULA_NAME
+msgid "Tarantula"
+msgstr "蜘蛛蛛"
+
+#. TARANTULA_DESC
+msgid "Poison, poison, poison."
+msgstr "有毒，有毒，有毒。"
+
+#. TARANTULA_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. TEDDY_DESC
+msgid "Maybe he isn't completely rotten to the core."
+msgstr "也许他并非完全无可救药。"
+
+#. TEDDY_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. TEST_NAME
+msgid "TEST"
+msgstr "测试"
+
+#. TEST_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. TIGER_NAME
+msgid "Tiger"
+msgstr "老虎"
+
+#. TIGER_DESC
+msgid "Watch those eyes!"
+msgstr "盯着那些眼睛！"
+
+#. TIGER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. TITANEES_NAME
+msgid "Titanees"
+msgstr "泰坦尼斯"
+
+#. TITANEES_DESC
+msgid "It prefers to put its preys to sleep before eating them."
+msgstr "它更喜欢在吃掉猎物之前先让它们睡着。"
+
+#. TITANEES_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. TITANIAN_NAME
+msgid "Titanian"
+msgstr "泰坦尼亚"
+
+#. TITANIAN_DESC
+msgid "Its shell is as hard as titanium."
+msgstr "它的外壳坚硬如钛。"
+
+#. TITANIAN_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ULLRICH_NAME
+msgid "Ullrich"
+msgstr "乌尔里希"
+
+#. ULLRICH_DESC
+msgid "This thing could not occur naturally."
+msgstr "这种事不会自然发生。"
+
+#. ULLRICH_ART
+msgid ",,,,its"
+msgstr ",,,,它的"
+
+#. VIOLENTROACH_NAME
+msgid "Violent Roach"
+msgstr "暴力螳螂"
+
+#. VIOLENTROACH_DESC
+msgid "They might be small, but they pack quite a punch."
+msgstr "它们可能看起来很小，但他们的威力不容小觑。"
+
+#. VIOLENTROACH_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. WALLY_NAME
+msgid "Wally"
+msgstr "沃利"
+
+#. WALLY_DESC
+msgid "He has a short temper, so be careful."
+msgstr "他脾气不好，所以小心一点。"
+
+#. WALLY_ART
+msgid ",,,,his"
+msgstr ",,,,他的"
+
+#. WATCHER_NAME
+msgid "Watcher"
+msgstr "观察者"
+
+#. WATCHER_DESC
+msgid "This enemy's face is the easiest to draw."
+msgstr "这个敌人的脸是最容易画的。"
+
+#. WATCHER_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. WOLF_NAME
+msgid "Wolf"
+msgstr "狼"
+
+#. WOLF_DESC
+msgid "Watch out for those pearly whites."
+msgstr "当心那些洁白的獠牙。"
+
+#. WOLF_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. WOODOH_NAME
+msgid "Woodoh"
+msgstr "木多"
+
+#. WOODOH_DESC
+msgid "An animated tree with suspicious actions."
+msgstr "一棵行为可疑的动画树。"
+
+#. WOODOH_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ZAPEEL_NAME
+msgid "Zap Eel"
+msgstr "电鳗"
+
+#. ZAPEEL_DESC
+msgid "Make sure you're not in the water with it."
+msgstr "确保你不会同它一起进入水中。"
+
+#. ZAPEEL_ART
+msgid "The ,the ,A ,a ,its"
+msgstr ",,,,它的"
+
+#. ZOMBIE_NAME
+msgid "Zombie"
+msgstr "丧尸"
+
+#. ZOMBIE_DESC
+msgid "Careful, he knows Brain Shock."
+msgstr "小心点，他会脑波攻击。"
+
+#. ZOMBIE_ART
+msgid "The ,the ,A ,a ,his"
+msgstr ",,,,他的"
+
