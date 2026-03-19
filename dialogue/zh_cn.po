@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_ERROR_0
+msgid "[@]Hello this is an Error message."
+msgstr "[@]你好，这是一个错误消息。"
+
+#. DIALOGUE_GAMEOVER_0
+msgid "[@][Ninten]![WAIT@]It looks like you got your head handed to you."
+msgstr "[@][Ninten]![WAIT@]看起来你被彻底打败了。"
+
+#. DIALOGUE_GAMEOVER_2
+msgid "[@]So, how about giving it another shot?"
+msgstr "[@]那么，再试一次怎么样？"
+
+#. DIALOGUE_GAMEOVER_2-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_GAMEOVER_2-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_GAMEOVER_3
+msgid "[@]Are you sure?[WAIT@]The next time you start your adventure, you'll begin where you last saved.[WAIT@]Is that okay?"
+msgstr "[@]你确定吗？[WAIT@]在下次开始冒险时，你将从上次储存的位置开始。[WAIT@]这样可以吗？"
+
+#. DIALOGUE_GAMEOVER_5-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_GAMEOVER_5-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_GAMEOVER_6
+msgid "[@]It must have all just been a bad dream.[WAIT@]See you, [Ninten]!"
+msgstr "[@]这一切只是一场噩梦。[WAIT@]回见，[Ninten]！"
+
+#. DIALOGUE_GAMEOVER_8
+msgid "[@][Ninten] decided to return after summoning all the courage and energy he had.[WAIT@]Good luck, [Ninten]!"
+msgstr "[@][Ninten]在鼓起勇气，抖擞精神后决定回去。[WAIT@]祝你好运，[Ninten]！"
+
+#. DIALOGUE_NOPROBLEM_0
+msgid "[@]No problem here."
+msgstr "[@]这里没什么问题。"
+
+#. DIALOGUE_ZOOFIX_0
+msgid "[@]The zoo seems broken, want me to fix it?"
+msgstr "[@]这个动物园似乎坏掉了，要我修好它吗？"
+
+#. DIALOGUE_ZOOFIX_0-OPT_0
+msgid "Yes"
+msgstr "要"
+
+#. DIALOGUE_ZOOFIX_0-OPT_1
+msgid "No"
+msgstr "不要"
+
+#. DIALOGUE_ZOOFIX_1
+msgid "[@]Ok, reload the map and it'll be done."
+msgstr "[@]好的，重新加载地图就完成了。"
+
+#. DIALOGUE_ZOOFIX_2
+msgid "[@]Why are you even here then?!"
+msgstr "[@]那你为什么还在这里？!"
+
+#. DIALOGUE_ZOOFIX_SPEAKER_Officer
+msgid "Officer"
+msgstr "官员"
+
