@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿FIELD_RUN
+msgid "Run"
+msgstr "逃跑"
+
+#. FIELD_RUN_DESC
+msgid "Hold [color][ui_toggle][/color] to Crouch, then release it to Run.\\nOr, hold [color][ui_toggle][/color] while moving to Run."
+msgstr "按住[color][ui_toggle][/color]键下蹲，松开该键即可奔跑。\\n或者，在移动时按住[color][ui_toggle][/color]键也可奔跑。"
+
+#. FIELD_JUMP
+msgid "Jump"
+msgstr "跳跃"
+
+#. FIELD_JUMP_DESC
+msgid "Press [color][ui_accept][/color] near certain ledges to Jump."
+msgstr "在特定边缘按下 [color][ui_accept][/color]以跳跃。"
+
+#. FIELD_SCOPE
+msgid "Scope"
+msgstr "仔细看"
+
+#. FIELD_SCOPE_DESC
+msgid "Hold [color][ui_scope][/color] to Scope.\\nCan be used to view places you can't normally see."
+msgstr "按住 [color][ui_scope][/color]以仔细看。\\n可以看见一般情况下看不到的地方。"
+
+#. FIELD_SWING
+msgid "Swing"
+msgstr "挥舞"
+
+#. FIELD_SWING_DESC
+msgid "Press [color][ui_cancel][/color] to Swing your bat.\\nCan be used to get a first strike on enemies."
+msgstr "按住[color][ui_cancel][/color]挥舞你的球棒。\\n可以先发制敌。"
+
+#. FIELD_TELEPATHY
+msgid "Telepathy"
+msgstr "心灵感应"
+
+#. FIELD_TELEPATHY_DESC
+msgid "Hold [color][ui_toggle][/color] to Crouch, then press [color][ui_accept][/color] to use Telepathy.\\nCan be used to read the thoughts of others."
+msgstr "按住[color][ui_toggle][/color]键下蹲，随后按下[color][ui_accept][/color]键以使用心灵感应。\\n该能力可用于读取他人的想法。"
+
+#. FIELD_TELEPORT
+msgid "Teleport"
+msgstr "心灵感应"
+
+#. FIELD_LASER
+msgid "Laser"
+msgstr "激光"
+
+#. FIELD_PK_FIRE
+msgid "PK Fire"
+msgstr "PK 火焰"
+
+#. FIELD_PK_FREEZE
+msgid "PK Freeze"
+msgstr "PK 冰冻"
+
+#. FIELD_PK_THUNDER
+msgid "PK Thunder"
+msgstr "PK 雷电"
+
