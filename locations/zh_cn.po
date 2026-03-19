@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿LOC_NINTEN'S_HOUSE
+msgid "[Ninten]'s House"
+msgstr "[Ninten]的房子"
+
+#. LOC_PODUNK
+msgid "Podunk"
+msgstr "波顿克"
+
+#. LOC_CATACOMBS
+msgid "Catacombs"
+msgstr "地下墓穴"
+
+#. LOC_ZOO_OFFICE
+msgid "Zoo Office"
+msgstr "动物园办公楼"
+
+#. LOC_PODUNK_DEPT_STORE
+msgid "Podunk Dept Store"
+msgstr "波顿克百货商店"
+
+#. LOC_PODUNK_HOTEL
+msgid "Podunk Hotel"
+msgstr "波顿克旅馆"
+
+#. LOC_BURGER_SHOP
+msgid "Burger Shop"
+msgstr "汉堡店"
+
+#. LOC_PODUNK_CEMETERY
+msgid "Podunk Cemetery"
+msgstr "波顿克公墓"
+
+#. LOC_ZOO_ENTRANCE
+msgid "Zoo Entrance"
+msgstr "动物园入口"
+
+#. LOC_OUTSIDE_PODUNK
+msgid "Outside Podunk"
+msgstr "波顿克郊外"
+
+#. LOC_MAGICANT_HOUSE
+msgid "Magicant"
+msgstr "魔法之地"
+
+#. MAP_PODUNK_PODUNK
+msgid "Podunk"
+msgstr "波顿克"
+
+#. MAP_PODUNK_CANARY
+msgid "Canary\\nVillage"
+msgstr "金丝雀\\n村庄"
+
+#. MAP_PODUNK_CEMETERY
+msgid "Cemetery"
+msgstr "公墓"
+
+#. MAP_PODUNK_ZOO
+msgid "Choucream\\nZoo"
+msgstr "奶油泡芙\\n动物园"
+
+#. DEST_HOME
+msgid "Home"
+msgstr "家"
+
+#. DEST_PODUNK
+msgid "Podunk"
+msgstr "波顿克"
+
+#. DEST_MAGICANT
+msgid "Magicant"
+msgstr "魔法之地"
+
+#. DEST_MERRYSVILLE
+msgid "Merrysville"
+msgstr "梅里斯维尔"
+
+#. DEST_REINDEER
+msgid "Reindeer"
+msgstr "驯鹿镇"
+
+#. DEST_SPOOKANE
+msgid "Spookane"
+msgstr "幽魂镇"
+
+#. DEST_SNOWMAN
+msgid "Snowman"
+msgstr "雪人镇"
+
+#. DEST_YUCCA
+msgid "Yucca Desert"
+msgstr "丝兰沙漠"
+
+#. DEST_YOUNGTOWN
+msgid "Youngtown"
+msgstr "扬敦"
+
+#. DEST_ELLAY
+msgid "Ellay"
+msgstr "艾莱市"
+
+#. DEST_MTITOI
+msgid "Mt. Itoi"
+msgstr "糸井山"
+
+#. DEST_UNION
+msgid "Union Station"
+msgstr "联合车站"
+
