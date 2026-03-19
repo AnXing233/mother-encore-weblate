@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿DIALOGUE_PODUNK_NON-PERSON_TEXT_ALLIGATORS_0
+msgid "[@]The world's first warm-blooded alligators."
+msgstr "[@]全世界第一批温血鳄鱼。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_CANARY_ENTRANCE_0
+msgid "[@]Canary village[BR]Home of the world-famous singing Canary!"
+msgstr "[@]金丝雀村庄[BR]世界著名会唱歌的金丝雀的家！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_CANARY_HOUSE_0
+msgid "[@]There's a nest inside!"
+msgstr "[@]里面有个鸟巢！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_CANARY_HOUSE_EMPTY_0
+msgid "[@]Nobody's home..."
+msgstr "[@]没人在家···"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_CANARY_HOUSE_EMPTY_1
+msgid "[@]You can feel a slight breeze coming from behind the birdhouse."
+msgstr "[@]你能感受到，一丝微风正从鸟屋后面轻轻吹来。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_CEMETARY_ENTRANCE_0
+msgid "[@]Podunk Cemetery[BR]Home of our dearly departed."
+msgstr "[@]波顿克公墓[BR]我们亲爱的逝者的家。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ELEPHANT_JOHN_0
+msgid "[@]This elephant's name is John."
+msgstr "[@]这头大象的名字是约翰。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_0
+msgid "[@]MOTHER Encore developer meeting. STAFF ONLY.[WAIT@][Ninten] pressed his ear against the door."
+msgstr "[@]地球冒险 加演的开发者会议。仅限员工。[WAIT@][Ninten]把耳朵贴在门上。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_2
+msgid "[@]No, we should make it more like MOTHER 3!"
+msgstr "[@]不，我们应该把这个做的更像地球冒险 3！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_3
+msgid "[@]But MOTHER 2's better!"
+msgstr "[@]但做的更像地球冒险 2更好！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_4
+msgid "[@]How about we add another dungeon for no reason?"
+msgstr "[@]我们无缘无故再加一个地牢怎么样？"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_5
+msgid "[@]Nobody has worked on the game in three months!"
+msgstr "[@]三个月以来没人在游戏上干活！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_6
+msgid "[@]But we need encounters every two steps, or it won't be faithful!"
+msgstr "[@]但我们需要两步一相遇，否则不够真实！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_7
+msgid "[@]Hey, let's add a minecart scene! Y'know, like that one game!"
+msgstr "[@]嘿，我们来添加个矿车场景吧！你知道的，就像那个游戏一样！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_8
+msgid "[@]I can't wait to reveal the Duncan strip-joint we mapped out! Mr. Itoi would be so proud..."
+msgstr "[@]我迫不及待地想告诉你我们设计的邓肯脱衣舞俱乐部！糸井先生会很骄傲的···"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_9
+msgid "[@]Development seems to be going smoothly."
+msgstr "[@]发展似乎进展顺利。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ENCOREMEETING_SPEAKER_???
+msgid "???"
+msgstr "？？？"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_FLAMINGO_0
+msgid "[@]These flamingos wouldn't flinch if you threw a rock at them."
+msgstr "[@]这些火烈鸟，就算你朝它们扔石头，它们也完全不为所动。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_FRIENDLY_TIGERS_0
+msgid "[@]The friendliest tigers in the world!"
+msgstr "[@]全世界最友善的老虎！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_HOTEL_0
+msgid "[@]Come visit Podunk's one and only hotel![WAIT@]Stay with us for one night you'll feel good as new![WAIT@]Only $50 per night."
+msgstr "[@]来拜访波顿克唯一的旅店！[WAIT@]留下来与我们共度一晚，你将感到焕然一新！[WAIT@]每晚仅需50美元。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_HYENAS_0
+msgid "[@]These hyenas will laugh at anyone's jokes."
+msgstr "[@]这些鬣狗会嘲笑任何人的笑话。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_LAZY_PANDA_0
+msgid "[@]Fun fact, pandas possess the capacity to eat meat, but they're too lazy so they eat bamboo instead."
+msgstr "[@]有趣的知识，熊猫其实有能力吃肉，但它们太懒了，\\n所以它们宁愿改吃竹子。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_LEAVING_PODUNK_0
+msgid "[@]You are now leaving Podunk. Goodbye!"
+msgstr "[@]你正在离开波顿克。再见！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_PENGUINS_0
+msgid "[@]I like penguins and you should too."
+msgstr "[@]我喜欢企鹅，你也应该喜欢。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_PODUNK-CANARY_VILLAGE_0
+msgid "[@]Go down south to reach Podunk town.[WAIT@]Head west if you wanna check out Canary Village."
+msgstr "[@]往南走，到达波顿克镇。[WAIT@]如果你想看看金丝雀村庄，往西走。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_PODUNK-CEMETERY_0
+msgid "[@]North leads you to Podunk.[WAIT@]Head south for the Cemetery."
+msgstr "[@]波顿克在北边。[WAIT@]往南走，到达公墓。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_SANTA-YUCCA_0
+msgid "[@]Go southeast to reach Merrysville."
+msgstr "[@]往东南方向走，通向梅里斯维尔。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_THANKS_0
+msgid "[@]Thank you for visiting Choucream Zoo!"
+msgstr "[@]感谢您参观奶油泡芙动物园！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_TOWN_HALL_0
+msgid "[@]Welcome to Town hall.[WAIT@]Please keep any grievances to yourself. – Mayor"
+msgstr "[@]欢迎来到镇政府。[WAIT@]请将任何不满埋在心里。- 市长"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_WELCOME_TO_PODUNK_0
+msgid "[@]Welcome to Podunk![WAIT@]Let's make this a town that puts a smile on everyone's face!"
+msgstr "[@]欢迎来到波顿克！[WAIT@]让镇上的所有人都洋溢笑容！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_ADMISSION_0
+msgid "[@]Looks like admission's free."
+msgstr "[@]看来是免费入场。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_ADMISSION_2_0
+msgid "[@]Looks like admission's free!"
+msgstr "[@]看来是免费入场！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_0
+msgid "[@]Drink from the water fountain?"
+msgstr "[@]要喝喷泉里的水吗？"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_0-OPT_0
+msgid "Yes"
+msgstr "是"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_0-OPT_1
+msgid "No"
+msgstr "否"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_1
+msgid "[@]You suddenly don't feel well."
+msgstr "[@]你突然感觉不太好。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_2
+msgid "[@]That's probably for the best."
+msgstr "[@]这样也许最好。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FOUNTAIN_SIGN_0
+msgid "[@]DANGER![WAIT@]DO NOT DRINK FROM THE WATER FOUNTAIN UNLESS YOU WANT LEAD POISONING."
+msgstr "[@]危险！[WAIT@]除非你想铅中毒，否则请勿饮用喷泉内的水。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_FRONT_0
+msgid "[@]Welcome to the Miraculous Podunk zoo![WAIT@]Fun for everyone! Kids and grownups alike.[WAIT@](Be sure not to feed the animals!)"
+msgstr "[@]欢迎来到神奇的波顿克动物园！[WAIT@]大人小孩都能玩的开心。[WAIT@]（切记：请勿投喂动物！）"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_0
+msgid "[@]One of a kind!"
+msgstr "[@]独一无二！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_1
+msgid "[@]See and listen to the amazing Singing Monkey!"
+msgstr "[@]瞧瞧，听听！会唱歌的神奇猴子！"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_3
+msgid "[@]EEK, EE EEEK, EEK."
+msgstr "[@]吱吱，吱，吱吱吱，吱吱。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_4
+msgid "(My momma used to sing this song to me.[WAITBR]And now, I shall sing it to you!)"
+msgstr "（我的妈妈过去常常为我唱这首歌。[WAITBR]现在，让我唱给你听！）"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_7
+msgid "[@][PartyLead] remembered the tune."
+msgstr "[@][PartyLead] 记住了这段旋律。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_SINGING_MONKEY_SPEAKER_Monkey
+msgid "Monkey"
+msgstr "猴子"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_WELCOME_0
+msgid "[@]Welcome to the zoo. Where animals and people live in harmony."
+msgstr "[@]欢迎来到动物园。动物与人类和谐共处的地方。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO_WEST_0
+msgid "[@]Podunk Cliffside[WAIT@]It's hard work adventuring, so why not sit back and enjoy the view?[WAIT@]Have a picnic, read a book, think about deep stuff. Whatever takes your fancy."
+msgstr "[@]Podunk Cliffside[WAIT@]冒险是很辛苦的事情，为什么不坐下来欣赏风景呢？[WAIT@]吃一次野餐，阅读一本书，思考深奥的事情。随心所欲吧。"
+
+#. DIALOGUE_PODUNK_NON-PERSON_TEXT_ZOO-YUCCA_0
+msgid "[@]Go south to reach Podunk's famous zoo."
+msgstr "[@]向南走，到波顿克著名的动物园。"
+
