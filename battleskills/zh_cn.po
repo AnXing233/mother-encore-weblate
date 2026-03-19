@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. ﻿APPROACH_NAME
+msgid "Approach"
+msgstr "接近"
+
+#. APPROACH_DESC
+msgid "Approach to the enemy to increase Offense."
+msgstr "接近敌人以增加攻击力。"
+
+#. APPROACH_DIALOG
+msgid "{n0}{name} approached slowly."
+msgstr "{n0}{name}缓慢靠近。"
+
+#. ATTACK_NAME
+msgid "Bash"
+msgstr "攻击"
+
+#. ATTACK_DESC
+msgid "Deals damage to an enemy."
+msgstr "对敌人造成伤害。"
+
+#. ATTACK_DIALOG
+msgid "{n0}{name} attacks!"
+msgstr "{n0}{name}的攻击！"
+
+#. BASH_NAME
+msgid "Bash"
+msgstr "攻击"
+
+#. BASH_DESC
+msgid "Deals a low amount of damage against an enemy."
+msgstr "对敌人造成少量伤害。"
+
+#. BASH_DIALOG
+msgid "{n0}{name} attacks!"
+msgstr "{n0}{name}的攻击！"
+
+#. BIGGRIN_NAME
+msgid "Big Grin"
+msgstr "灿烂的笑容。"
+
+#. BIGGRIN_DESC
+msgid "Display a big grin."
+msgstr "露出了灿烂的笑容。"
+
+#. BIGGRIN_DIALOG
+msgid "{n0}{name} has a big grin on {n4} face!"
+msgstr "{n0}{name}的脸上露出了{n4}灿烂的笑容！"
+
+#. BITE_NAME
+msgid "Bite"
+msgstr "咬"
+
+#. BITE_DESC
+msgid "A bite using sharp fangs."
+msgstr "用锋利的獠牙咬了一口。"
+
+#. BITE_DIALOG
+msgid "{n0}{name} bit into {t1}{target}!"
+msgstr "{n0}{name}一口咬向了{t1}{target}！"
+
+#. BLINDINGTHROW_NAME
+msgid "Blinding Throw"
+msgstr "致盲投掷"
+
+#. BLINDINGTHROW_DESC
+msgid "Throw dirt at the opponent's eyes to blind them."
+msgstr "向对手的眼睛扬撒沙土使其失明。"
+
+#. BLINDINGTHROW_DIALOG
+msgid "{n0}{name} threw dirt at {t1}{target}'s eyes!"
+msgstr "{n0}{name}朝{t1}{target}的眼睛扬了一把沙土！"
+
+#. BOTTLEROCKET_NAME
+msgid "Bottle Rocket"
+msgstr "瓶装火箭"
+
+#. BOTTLEROCKET_DESC
+msgid "Launch a Bottle Rocket at the enemy."
+msgstr "向敌人发射一个瓶装火箭"
+
+#. BRANDISHPITCHFORK_NAME
+msgid "Brandish Pitchfork"
+msgstr "挥舞叉子"
+
+#. BRANDISHPITCHFORK_DESC
+msgid "Brandish a pitchfork around to attack multiple enemies."
+msgstr "挥舞叉子来攻击多个敌人。"
+
+#. BRANDISHPITCHFORK_DIALOG
+msgid "{n0}{name} brandished {n4} pitchfork!"
+msgstr "{n0}{name}挥舞着{n4}叉子！"
+
+#. CALLHELP_NAME
+msgid "Call Help"
+msgstr "呼叫志愿"
+
+#. CALLHELP_DESC
+msgid "Summons an ally into battle."
+msgstr "召唤一位盟友加入战斗"
+
+#. CALLHELP_DIALOG
+msgid "{n0}{name} called to {n4} friends for help!"
+msgstr "{n0}{name}呼叫{n队友支援！"
+
+#. CALLHELP_FAIL
+msgid "But nobody came!"
+msgstr "但是没有人来！"
+
+#. CALLHELPFLY_NAME
+msgid "Call Help"
+msgstr "呼叫支援"
+
+#. CALLHELPFLY_DESC
+msgid "Summons a fly into battle."
+msgstr "召唤一只苍蝇加入战斗。"
+
+#. CALLHELPFLY_DIALOG
+msgid "{n0}{name} called for help!"
+msgstr "{n0}{name}呼叫了支援！"
+
+#. CALLHELPSTARMANJR_NAME
+msgid "Call Help"
+msgstr "呼叫支援"
+
+#. CALLHELPSTARMANJR_DESC
+msgid "Summons an animal into battle."
+msgstr "召唤一只动物加入战斗。"
+
+#. CALLHELPSTARMANJR_DIALOG
+msgid "{n0}{name} emitted a high frequency sound!"
+msgstr "{name}发出了超声波！"
+
+#. CRITICALTHINKING_NAME
+msgid "Critical Thinking"
+msgstr "批判性思考"
+
+#. CRITICALTHINKING_DESC
+msgid "Try to assess the current situation."
+msgstr "尝试评估当前局势。"
+
+#. CRITICALTHINKING_DIALOG
+msgid "{n0}{name} tried sizing up the situation!"
+msgstr "{n0}{name}试着评估当前局势！"
+
+#. CANARYLIFE1_DIALOG1
+msgid "{n0}{name} walked around!"
+msgstr "{n0}{name}走来走去！"
+
+#. CANARYLIFE1_DIALOG2
+msgid "{n0}{name} chirped softly!"
+msgstr "{n0}{name}轻声鸣叫！"
+
+#. CANARYLIFE1_DIALOG3
+msgid "{n0}{name} hopped in place!"
+msgstr "{n0}{name}在原地跳了起来！"
+
+#. CANARYLIFE1_DIALOG4
+msgid "{n0}{name} sneezed! It was adorable."
+msgstr "{n0}{name}打了个喷嚏！真可爱。"
+
+#. CANARYLIFE1_DIALOG5
+msgid "{n0}{name} pecked at a pebble on the ground!"
+msgstr "{n0}{name}啄食地上的小石子！"
+
+#. CANARYLIFE1_DIALOG6
+msgid "{n0}{name} tried to intimidate {t1}{target}... but only let out a tiny “peep”."
+msgstr "{n0}{name}试图恐吓{t1}{target}…但只发出了一声小小的“吱吱”。"
+
+#. CANARYLIFE1_DIALOG7
+msgid "{n0}{name} stared at {t1}{target}!\\n{t0}{target} was unsure how to respond."
+msgstr "{n0}{name}盯着{t1}{target}！\\n{t0}{target}不知道该如何回应。"
+
+#. CANARYLIFE1_DIALOG8
+msgid "{n0}{name} puffed up to look menacing!"
+msgstr "{n0}{name}鼓起身子，显得很是凶恶！"
+
+#. CANARYLIFE2_DIALOG1
+msgid "{n0}{name} brought {t1}{target} a twig!"
+msgstr "{n0}{name}带给了{t1}{target}一根树枝！"
+
+#. CURVEBALL_NAME
+msgid "Curveball"
+msgstr "曲线球"
+
+#. CURVEBALL_DESC
+msgid "Hit all enemies for low damage."
+msgstr "对全体敌人造成少量伤害。"
+
+#. DEFENSEUP_NAME
+msgid "Defense Up"
+msgstr "防御力提高"
+
+#. DEFENSEUPA_DESC
+msgid "Raises one ally's Defense.\\nEffective when stacked."
+msgstr "提高一位伙伴的防御力。\\n叠加使用效果更加显著。"
+
+#. ESCAPECRUMBS_NAME
+msgid "Escape Crumbs"
+msgstr "逃生面包屑"
+
+#. ESCAPECRUMBS_DESC
+msgid "Throw crumbs at the enemy to distract it and run away."
+msgstr "向敌人投掷面包屑以分散其注意力并逃跑。"
+
+#. ESCAPECRUMBS_DIALOG
+msgid "{n0}{name} threw the crumbs at the enemy and ran away!"
+msgstr "{n0}{name}将面包屑扔向敌人然后逃跑了！"
+
+#. FLAMEBURST_NAME
+msgid "Flame Burst"
+msgstr "火焰爆发"
+
+#. FLAMEBURST_DESC
+msgid "Deals high damage to all enemies when the user runs out of HP."
+msgstr "当施放者HP耗尽时对全体敌人造成高额伤害。"
+
+#. FLAMEBURST_DIALOG
+msgid "{n0}{name} violently burst into flames!"
+msgstr "{n0}{name}猛烈地燃烧起来！"
+
+#. FLOAT_NAME
+msgid "Float"
+msgstr "漂浮"
+
+#. FLOAT_DESC
+msgid "Float around."
+msgstr "四处漂浮。"
+
+#. FLOAT_DIALOG
+msgid "{n0}{name} floated around!"
+msgstr "{n0}{name}四处漂浮！"
+
+#. GETDISTRACTED_NAME
+msgid "Get Distracted"
+msgstr "分心"
+
+#. GETDISTRACTED_DESC
+msgid "Get distracted by something."
+msgstr "被某事分心。"
+
+#. GETDISTRACTED_DIALOG
+msgid "{n0}{name} got distracted by something!"
+msgstr "{n0}{name}因某事分心了！"
+
+#. HEALING_NAME
+msgid "Healing"
+msgstr "治疗"
+
+#. HEALINGA_DESC
+msgid "Cures one status ailment."
+msgstr "消除一种异常状态。"
+
+#. HEALINGB_DESC
+msgid "Cures two status ailments."
+msgstr "消除两种异常状态。"
+
+#. HEALINGG_DESC
+msgid "Cures all status ailments and unconsciousness."
+msgstr "消除全部异常状态以及昏迷。"
+
+#. HEALINGO_DESC
+msgid "Healing γ for all allies."
+msgstr "为全部队友回复 γ。"
+
+#. HYSTERICALLAUGH_NAME
+msgid "Hysterical Laugh"
+msgstr "狂笑"
+
+#. HYSTERICALLAUGH_DESC
+msgid "Laugh very hysterically."
+msgstr "笑得极度歇斯底里。"
+
+#. HYSTERICALLAUGH_DIALOG
+msgid "{n0}{name} started laughing hysterically!"
+msgstr "{n0}{name}开始狂笑！"
+
+#. KARATECHOP_NAME
+msgid "Karate Chop"
+msgstr "空手道劈砍"
+
+#. KARATECHOP_DESC
+msgid "Deals damage to an enemy."
+msgstr "对单个敌人造成伤害。"
+
+#. KARATECHOP_DIALOG
+msgid "{n0}{name} threw a karate chop!"
+msgstr "{n0}{name}使出了一记空手道劈砍！"
+
+#. LIFEUP_NAME
+msgid "Lifeup"
+msgstr "回复"
+
+#. LIFEUPA_DESC
+msgid "Restores around 60 HP to one ally."
+msgstr "为一位队友回复60点HP。"
+
+#. LIFEUPB_DESC
+msgid "Restores around 120 HP to one ally."
+msgstr "为一位队友回复120点HP。"
+
+#. LIFEUPG_DESC
+msgid "Fully restores one ally's HP."
+msgstr "为一位队友回复满HP。"
+
+#. LIFEUPO_DESC
+msgid "Restores around 240 HP to all allies."
+msgstr "为所有队友回复240点HP。"
+
+#. MEDITATE_NAME
+msgid "Meditate"
+msgstr "冥想"
+
+#. MEDITATE_DESC
+msgid "Go into a state of meditation."
+msgstr "进入冥想状态。"
+
+#. MEDITATE_DIALOG
+msgid "{n0}{name} is meditating."
+msgstr "{n0}{name}正在冥想。"
+
+#. MIGHTYROAR_NAME
+msgid "Mighty Roar"
+msgstr "猛吼"
+
+#. MIGHTYROAR_DESC
+msgid "Strike fear into all opponents to lower their Offense and Defense."
+msgstr "让所有敌人陷入恐惧来降低它们的攻击力与防御力。"
+
+#. MIGHTYROAR_DIALOG
+msgid "{n0}{name} let out a mighty roar!"
+msgstr "{n0}{name}发出一声猛吼！"
+
+#. MYSTERIOUSACTION_NAME
+msgid "Mysterious Action"
+msgstr "神秘行动"
+
+#. MYSTERIOUSACTION_DESC
+msgid "Do something very mysteriously."
+msgstr "做一些非常神秘的事情。"
+
+#. MYSTERIOUSACTION_DIALOG
+msgid "{n0}{name} did something very mysterious..."
+msgstr "{n0}{name}做了件非常神秘的事…"
+
+#. OFFENSEUP_NAME
+msgid "Offense Up"
+msgstr "攻击力提高"
+
+#. OFFENSEUPA_DESC
+msgid "Raises one ally's Offense.\\nEffective when stacked."
+msgstr "提高一名盟友的攻击力。\\n叠加时效果显著。"
+
+#. PECK_NAME
+msgid "Peck"
+msgstr "啄"
+
+#. PECK_DESC
+msgid "A peck using one's beak."
+msgstr "用喙啄击敌人。"
+
+#. PECK_DIALOG
+msgid "{n0}{name} pecked at {t1}{target}!"
+msgstr "{n0}{name}啄了{t1}{target}！"
+
+#. PKBEAM_NAME
+msgid "PK Beam"
+msgstr "PK光束"
+
+#. PKBEAMA_DESC
+msgid "Light damage to one enemy.\\nOccasionally blinds the enemy."
+msgstr "对单个敌人造成轻微伤害。\\n有概率致盲目标。"
+
+#. PKBEAMB_DESC
+msgid "Light damage to one enemy.\\nOccasionally blinds the enemy."
+msgstr "对单个敌人造成轻微伤害。\\n有概率致盲目标。"
+
+#. PKBEAMG_DESC
+msgid "Light damage to one enemy.\\nOccasionally blinds the enemy."
+msgstr "对单个敌人造成轻微伤害。\\n有概率致盲目标。"
+
+#. PKBEAMO_DESC
+msgid "Light damage to one enemy.\\nOccasionally blinds the enemy."
+msgstr "对单个敌人造成轻微伤害。\\n有概率致盲目标。"
+
+#. PKFIRE_NAME
+msgid "PK Fire"
+msgstr "PK 火焰"
+
+#. PKFIREA_DESC
+msgid "A blazing attack that hits all enemies."
+msgstr "一次猛烈的攻击，命中所有敌人。"
+
+#. PKFREEZE_NAME
+msgid "PK Freeze"
+msgstr "PK 冰冻"
+
+#. PKFREEZEA_DESC
+msgid "A freezing attack that hits one enemy."
+msgstr "对单个敌人造成冻结。"
+
+#. POISONBITE_NAME
+msgid "Poison Bite"
+msgstr "毒咬"
+
+#. POISONBITE_DESC
+msgid "A bite using poisonous fangs."
+msgstr "用有毒的獠牙咬了一口。"
+
+#. POISONBITE_DIALOG
+msgid "{n0}{name} bit into {t1}{target} using {n4} poisonous fangs!"
+msgstr "{n0}{name}用{n4}颗毒牙一口咬向了{t1}{target}！"
+
+#. PUNCH_NAME
+msgid "Attack"
+msgstr "攻击"
+
+#. PUNCH_DESC
+msgid "Deals damage to an enemy."
+msgstr "对单个敌人造成伤害。"
+
+#. PUNCH_DIALOG
+msgid "{n0}{name} threw a punch at {t1}{target}!"
+msgstr "{n0}{name}拳击了{t1}{target}！"
+
+#. RAGE_NAME
+msgid "Rage"
+msgstr "愤怒"
+
+#. RAGE_DESC
+msgid "The user flies into a rage and raises their Offense."
+msgstr "使用者将会愤怒并且增加战力。"
+
+#. RAGE_DIALOG
+msgid "{n0}{name} flew into a rage!"
+msgstr "{n0}{name}发怒了！"
+
+#. SCRATCH_NAME
+msgid "Scratch"
+msgstr "划痕"
+
+#. SCRATCH_DESC
+msgid "A scratch using sharp claws."
+msgstr "被锋利的爪子所划出的划痕。"
+
+#. SCRATCH_DIALOG
+msgid "{n0}{name} scratched {t1}{target}!"
+msgstr "{n0}{name}划了{t1}{target}！"
+
+#. SHOOT_NAME
+msgid "Shoot"
+msgstr "射击"
+
+#. SHOOT_DESC
+msgid "Deals damage to an enemy."
+msgstr "对单个敌人造成伤害。"
+
+#. SHOOT_DIALOG
+msgid "{n0}{name} attacks!"
+msgstr "{n0}{name}的攻击！"
+
+#. SOWSEEDS_NAME
+msgid "Sow Seeds"
+msgstr "播种"
+
+#. SOWSEEDS_DESC
+msgid "Creates a new Woodoh."
+msgstr "生成一只新的木多。"
+
+#. SOWSEEDS_DIALOG
+msgid "{n0}{name} sowed some seeds!"
+msgstr "{n0}{name}播种了一些种子！"
+
+#. SOWSEEDS_FAIL
+msgid "But nothing happened!"
+msgstr "但什么也没发生！"
+
+#. SPEEDUP_NAME
+msgid "Speed Up"
+msgstr "加速"
+
+#. SPEEDUPA_DESC
+msgid "Raises one ally's Speed.\\nEffective when stacked."
+msgstr "增加一位队友的速度。\\n可叠加。"
+
+#. SPY_NAME
+msgid "Spy"
+msgstr "侦查"
+
+#. SPY_DESC
+msgid "Look at the enemy and see what they are about."
+msgstr "观察敌人并了解他们的特点。"
+
+#. SWING_NAME
+msgid "Swing"
+msgstr "摇摆"
+
+#. SWING_DESC
+msgid "Swing for large damage on an enemy."
+msgstr "对敌人造成巨大伤害。"
+
+#. SWING_DIALOG
+msgid "{n0}{name} takes a wide swing at {t1}{target}!"
+msgstr "{n0}{name}对{t1}{target}猛烈挥击！"
+
+#. TACKLE_NAME
+msgid "Tackle"
+msgstr "暴击"
+
+#. TACKLE_DESC
+msgid "A charge attack by using one's body."
+msgstr "以全身的力量向敌人发起蓄力撞击。"
+
+#. TACKLE_DIALOG
+msgid "{n0}{name} threw {n4} body at {t1}{target}!"
+msgstr "{n0}{name}用{n4}的身体撞向{t1}{target}！"
+
+#. TELEPATHY_NAME
+msgid "Telepathy"
+msgstr "心灵感应"
+
+#. TELEPATHY_DESC
+msgid "Read the thoughts of others."
+msgstr "读取他人的想法。"
+
+#. TELEPORT_NAME
+msgid "Teleport"
+msgstr "传送"
+
+#. TELEPORTA_DESC
+msgid "Teleport to known areas by running in a line."
+msgstr "通过直线跑步传送到去过的地方。"
+
+#. TELEPORTO_DESC
+msgid "Teleport to known areas by running in a circle."
+msgstr "通过跑圈传送到去过的地方。"
+
+#. VENTODOR_NAME
+msgid "Vent Odor"
+msgstr "散发气味"
+
+#. VENTODOR_DESC
+msgid "Vent a terrible odor to lower an opponent's Offense and Defense."
+msgstr "散发出难闻的气味来降低敌人的攻击力与防御力。"
+
+#. VENTODOR_DIALOG
+msgid "{n0}{name} vented a terrible odor!"
+msgstr "{n0}{name}散发出了难闻的气味！"
+
+#. YOMAMA_NAME
+msgid "Yo Mama"
+msgstr "你妈"
+
+#. YOMAMA_DESC
+msgid "Destruction"
+msgstr "毁灭"
+
